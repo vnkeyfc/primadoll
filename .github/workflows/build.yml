@@ -40,8 +40,8 @@ jobs:
       run: |
         cd page
         date +%H:%M:%S\ %d-%m-%Y > build.txt
-        git config --global user.name 'Cap Cap'
-        git config --global user.email 'cap-cap@users.noreply.github.com'
+        git config --global user.name 'Vietnam Key FanClub'
+        git config --global user.email 'vnkeyfc@users.noreply.github.com'
         git add .
         git commit -m "Update $(date +%H:%M:%S\ %d-%m-%Y)"
         git push
