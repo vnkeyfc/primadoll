@@ -1,0 +1,47 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Python application
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    env:
+      PY_TOOLS_PATH: main/.tools/py
+      TZ: UTC-07:00
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        path: main
+    - name: Set up Python 2.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: "2.7"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        if [ -f "$PY_TOOLS_PATH/requirements.txt" ]; then pip install -r "$PY_TOOLS_PATH/requirements.txt"; fi
+    - name: Checkout page
+      uses: actions/checkout@v3
+      with:
+        ref: page
+        path: page
+    - name: xlsx to html
+      run: |
+        python "$PY_TOOLS_PATH/main.py" -t2h main/.translate main/.translate/html page
+    - name: Commit to page
+      run: |
+        cd page
+        date +%H:%M:%S\ %d-%m-%Y > build.txt
+        git config --global user.name 'Cap Cap'
+        git config --global user.email 'cap-cap@users.noreply.github.com'
+        git add .
+        git commit -m "Update $(date +%H:%M:%S\ %d-%m-%Y)"
+        git push
