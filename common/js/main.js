@@ -1,3 +1,24 @@
+// Custom script
+(function (window) {
+	
+	function unwrapTransTag(){
+		var transTags = Object.values(document.getElementsByTagName('trans'));
+		
+		for (var i = 0; i < transTags.length; i++){
+			var trans = transTags[i];
+			trans.replaceWith(trans.firstChild);
+		}
+	}
+	
+	function init(){
+		unwrapTransTag();
+	}
+	
+	
+	document.addEventListener("DOMContentLoaded", init);
+	
+}(window))
+
 
 //読み込みスクリプト
 
