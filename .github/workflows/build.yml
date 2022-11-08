@@ -14,6 +14,9 @@ jobs:
     env:
       PY_TOOLS_PATH: main/.tools/py
       TZ: UTC-07:00
+      BUILD_PATH: build
+      TRANS_PATH: main/.translate
+      HTML_PATH: main/.translate/html
 
     steps:
     - uses: actions/checkout@v3
@@ -33,15 +36,21 @@ jobs:
       with:
         ref: page
         path: page
-    - name: xlsx to html
+    - name: Copy page data to build folder
       run: |
-        python "$PY_TOOLS_PATH/main.py" -t2h main/.translate main/.translate/html page
+        cp -va "$HTML_PATH/." "$BUILD_PATH/"
+    - name: txt to html
+      run: |
+        python "$PY_TOOLS_PATH/main.py" -t2h $TRANS_PATH $HTML_PATH $BUILD_PATH -f 1
+    - name: Copy build folder to page
+      run: |
+        cp -va "$BUILD_PATH/." "page/"
     - name: Commit to page
       run: |
         cd page
         date +%H:%M:%S\ %d-%m-%Y > build.txt
         git config --global user.name 'Vietnam Key FanClub'
-        git config --global user.email 'contact@vnkeyfc.com'
+        git config --global user.email 'vnkeyfc'
         git add .
         git commit -m "Update $(date +%H:%M:%S\ %d-%m-%Y)"
         git push
