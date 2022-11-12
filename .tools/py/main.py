@@ -1,30 +1,23 @@
 # coding=utf-8
 import glob
-import csv
 import sys
 import argparse
 
-from bs4 import BeautifulSoup, Tag, NavigableString, PageElement
-from openpyxl import Workbook, load_workbook
-from openpyxl.styles import PatternFill, Border, Side, Alignment, Protection, Font
+from bs4 import BeautifulSoup, Tag, NavigableString, PageElement, Comment
 from typing import List
 from shared.common import *
-from math import ceil
-from io import StringIO
+from formats.txt import write_txt, load_txt_trans_file
+from formats.xlsx import write_xlsx, load_xlsx_trans_file
+from formats.m_csv import write_csv
 
 CSV_FORMAT = 0
 TXT_FORMAT = 1
 XLSX_FORMAT = 2
 
-TXT_ID = 0
-TXT_JP = 1
-TXT_VN = 2
-TXT_IDENTIFY = {U'ID': TXT_ID, U'JP': TXT_JP, U'VN': TXT_VN}
-TXT_EX_END_FLAG = U'=--='
-
 TITLE_TAG = 'title'
 META_TAG = 'meta'
 TRANS_TAG = 'trans'
+SCRIPT_TAG = 'script'
 
 META_NAME = [U'description', U'keywords']
 META_PROP = [U'og:title', U'og:site_name', U'og:description']
@@ -143,247 +136,28 @@ def dump_body_text(body_elem):
     return result
 
 
-def write_csv(out_path, rows):
-    writer = csv.writer(
-        open(out_path, 'wb'),
-        delimiter=',', quotechar='"',
-        quoting=csv.QUOTE_MINIMAL)
+def html_clean_unused_data(dom):
+    # type: (Tag) -> None
 
-    for row in rows:
-        writer.writerow([c.encode('utf8') for c in row])
+    srcs_match = [U'google-analytics.com',
+                  U'googletagmanager.com/gtag']
+    contents_match = [U"_gaq.push(['_trackPageview']);",
+                      U"gtag('config', 'G-4Z0EPTDG5M');"]
 
-
-def calc_row_height(text, font_size, col_width, line_height=16.0):
-    line_count = 0
-    for line in text.split(U'\n'):
-        half_width_count = 0
-        for c in line:
-            n = ord(c)
-            if n < 0x80:
-                if n < 0x20:
-                    continue
-                half_width_count += 1
-            else:
-                half_width_count += 1
-                try:
-                    test_c = c.encode('cp932')
-                    if len(test_c) > 1:
-                        half_width_count += 1
-                except UnicodeEncodeError:
-                    pass
-
-        char_per_line = int(ceil(col_width / (font_size * 0.1)) + 6)  # stupid calculator
-
-        if half_width_count == 0:
-            half_width_count = 1
-
-        quotient, remainder = divmod(half_width_count,
-                                     char_per_line)
-
-        line_count += quotient
-        if remainder > 0:
-            line_count += 1
-
-    return max([line_height, line_height * line_count])
-
-
-def write_xlsx(out_path, header, rows):
-    font_size = 12
-    text_col_width = 100.0
-    wb = Workbook()
-
-    # grab the active worksheet
-    ws = wb.active
-    ws.title = get_filename(out_path, False)
-    ws.append(header)
-
-    # header row
-    hfont = Font(name='Calibri',
-                 size=font_size + 2,
-                 bold=True)
-    h_alignment = Alignment(wrap_text=True, vertical='center', horizontal='center')
-    header_row = ws.row_dimensions[1]
-    header_row.height = 20
-    header_row.font = hfont
-    header_row.alignment = h_alignment
-
-    id_col = ws.column_dimensions['A']
-    jp_col = ws.column_dimensions['B']
-    vn_col = ws.column_dimensions['C']
-    notes_col = ws.column_dimensions['D']
-
-    alignment = Alignment(wrap_text=True, vertical='top')
-    font = Font(name='Calibri',
-                size=font_size,
-                bold=False,
-                italic=False,
-                vertAlign=None,
-                underline='none',
-                strike=False,
-                color='FF000000')
-
-    # update style
-    for i, col in enumerate([id_col, jp_col, vn_col, notes_col]):
-        if i == 0:
-            col.width = 20.0
+    script_tags = dom.find_all(SCRIPT_TAG)
+    for sc_tag in script_tags:  # type: Tag
+        src_attr = sc_tag.attrs.get('src')
+        if src_attr is not None:
+            for src in srcs_match:
+                if src in src_attr:
+                    sc_tag.replace_with(Comment('removed'))
+                    break
         else:
-            col.width = text_col_width
-        col.bestFit = True
-        col.auto_size = True
-        col.alignment = alignment
-        col.font = font
-
-    # write row data
-    row_idx = 2  # header row = 1
-    for row in rows:
-        ws.append(row)
-        ws.row_dimensions[row_idx].height = calc_row_height(row[1], font_size, text_col_width)
-        row_idx += 1
-
-    wb.save(out_path)
+            for content in contents_match:
+                if content in unicode(sc_tag):
+                    sc_tag.replace_with(Comment('removed'))
+                    break
     pass
-
-
-def write_txt(out_path, rows):
-    fi = open(out_path, 'wb')
-    dict_for_toml = {}
-    for row in rows:
-        line_id = row[0]
-        jp_text = row[1]
-
-        fi.write(U'[ID]:{}\n'.format(line_id).encode('utf8'))
-        fi.write(U'[JP]:\n{}\n'.format(jp_text).encode('utf8'))
-        fi.write('[VN]:\n\n')
-        fi.write('{}========================================\n'.format(TXT_EX_END_FLAG))
-
-    fi.close()
-    pass
-
-
-def txt_clean_line(line, strip_char=None):
-    ret = line.split(U'//', 1)[0]
-    ret = ret.strip(strip_char)
-    return ret
-
-
-def txt_get_tag(fi):
-    # type: (StringIO) -> [int, int]
-
-    line_pos = fi.tell()
-    line = fi.readline()
-
-    # get identify tag
-    identify_tag_str = None
-    data_pos = -1
-    while line != '':
-        line_clean = txt_clean_line(line)
-        open_pos = line.find(U'[')
-        if open_pos != -1 and line_clean[0] == U'[':
-            close_pos = line.find(U']')
-            if close_pos > open_pos:
-                data_pos = line_pos + close_pos + 2  # skip :
-                identify_tag_str = line_clean[open_pos+1:close_pos]
-                break
-            else:
-                print(U'[ERROR]: Close tag "]" not found: {}'.format(line_clean))
-                raise ValueError()
-        elif len(line_clean) > 0:
-            return None
-            # print(U'[ERROR]: Invalid declare tag: {}'.format(line_clean))
-            # raise ValueError()
-
-        line_pos = fi.tell()
-        line = fi.readline()
-
-    if identify_tag_str is None:
-        return None
-
-    identify_tag = TXT_IDENTIFY.get(identify_tag_str.upper())
-    if identify_tag is None:
-        return None
-        # print(U'[ERROR]: Invalid tag: {}'.format(identify_tag_str))
-        # raise ValueError()
-
-    return [identify_tag, data_pos]
-    pass
-
-
-def txt_get_text_data(fi, data_start_pos):
-    # type: (StringIO, int) -> unicode
-
-    text_arr = []
-    fi.seek(data_start_pos)
-    first_char = fi.read(1)
-    if first_char != U'\n':
-        text_arr.append(first_char)
-
-    line_pos = fi.tell()
-    line = fi.readline()
-    while line != U'':
-        line_clean = txt_clean_line(line)
-        if line_clean.startswith(U'['):
-            tmp_pos = fi.tell()
-            fi.seek(line_pos)
-            # try to detect tag
-            tag_info = txt_get_tag(fi)
-            if tag_info is not None:
-                # is tag -> go back and return
-                fi.seek(line_pos)
-                break
-
-            fi.seek(tmp_pos)
-
-        if line_clean.startswith(TXT_EX_END_FLAG):
-            break
-
-        text_arr.append(txt_clean_line(line, U''))  # clean comment only
-        line_pos = fi.tell()
-        line = fi.readline()
-
-    res = U''.join(text_arr)
-    if txt_clean_line(res) == U'':
-        return U''
-
-    if res[-1] == U'\n':
-        res = res[:-1]
-
-    return res.replace(U'\\n', U'<br/>')
-
-
-def load_txt_trans_file(txt_path):
-    fi = StringIO(open(txt_path, 'rb').read().replace('\r\n', '\n').decode('utf8'))
-    dict_res = {}
-
-    while True:
-        start_pos = fi.tell()
-        tag_info = txt_get_tag(fi)
-        if tag_info is None:
-            # check is eof
-            fi.seek(start_pos)
-            line = fi.readline()
-            if line != U'':
-                print(U'[ERROR]: Tag invalid: {}'.format(line))
-                raise ValueError
-            break
-
-        identify_tag, data_pos = tag_info
-        fi.seek(data_pos)
-
-        if identify_tag != TXT_ID:
-            print(U'[ERROR]: Require [ID] tag: {}'.format(fi.readline()))
-            raise ValueError
-
-        line_id = txt_clean_line(fi.readline())
-
-        identify_tag, data_pos = txt_get_tag(fi)  # jp
-        jp_text = txt_get_text_data(fi, data_pos)
-
-        identify_tag, data_pos = txt_get_tag(fi)  # vn
-        vn_text = txt_get_text_data(fi, data_pos)
-
-        dict_res[line_id] = [jp_text, vn_text]
-
-    return dict_res
 
 
 def html_to_text(html_folder, out_folder, out_format=XLSX_FORMAT):
@@ -420,42 +194,13 @@ def html_to_text(html_folder, out_folder, out_format=XLSX_FORMAT):
         else:
             raise ValueError('Output format is not support!')
 
+        html_clean_unused_data(dom)
+
         html_out_path = U'{}/{}.html'.format(html_out_folder, filename)
         print(U"\t\t-> '{}'".format(out_path))
         print(U"\t\t-> '{}'".format(html_out_path))
 
         open(html_out_path, 'wb').write(str(dom))
-
-    pass
-
-
-def load_xlsx_trans_file(xlsx_path):
-    sheet_name = get_filename(xlsx_path, False)
-    wb = load_workbook(xlsx_path, True)
-
-    sheet = wb[sheet_name]
-
-    rows_it = sheet.rows
-    next(rows_it)  # skip header
-
-    dict_result = {}
-
-    for row in rows_it:
-        line_id_cell = row[0]
-        jp_text_cell = row[1]
-        vn_text_cell = row[2]
-
-        line_id = line_id_cell.value
-        jp_text = jp_text_cell.value
-        vn_text = vn_text_cell.value
-
-        if line_id in dict_result:
-            print(U'[WARNING]: Duplicate id: "{}" row={}'.format(line_id, line_id_cell.row))
-
-        dict_result[line_id] = [jp_text, vn_text]
-        pass
-
-    return dict_result
 
     pass
 
@@ -485,19 +230,19 @@ def text_to_html(trans_folder, html_dump_folder, html_out_folder, in_format=XLSX
         html_text = open(html_input_path, 'rb').read()
         dom = BeautifulSoup(html_text, features="html.parser")
 
-        dict_trans = {}
+        rows = []
         if in_format == XLSX_FORMAT:
-            dict_trans = load_xlsx_trans_file(trans_file_path)
+            rows = load_xlsx_trans_file(trans_file_path)
         elif in_format == TXT_FORMAT:
-            dict_trans = load_txt_trans_file(trans_file_path)
+            rows = load_txt_trans_file(trans_file_path)
 
         head = dom.head  # type: Tag
         body = dom.body  # type: Tag
 
         trans_elems = body.find_all(TRANS_TAG)
 
-        for line_id in dict_trans:
-            jp_text, vn_text = dict_trans[line_id]
+        for row in rows:
+            line_id, jp_text, vn_text = row
             trans_text = vn_text
 
             if trans_text is None or trans_text == U'':
@@ -548,8 +293,8 @@ def text_to_html(trans_folder, html_dump_folder, html_out_folder, in_format=XLSX
 
 
 def main():
-    # sys.argv.extend(['-t2h', 'data/trans', 'data/trans/html', 'data/out'])
-    # sys.argv.extend(['-h2t', 'data/key.visualarts.gr.jp_full', 'data/dump'])
+    # sys.argv.extend(['-t2h', 'data/trans', 'data/trans/html', 'data/out', '-f', '1'])
+    # sys.argv.extend(['-h2t', 'data/key.visualarts.gr.jp_full', 'data/dump', '-f', '2'])
 
     parser = argparse.ArgumentParser(description='primaldoll tool')
     parser.add_argument('-v', '--version', action='version', version="1.0")
