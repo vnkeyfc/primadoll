@@ -45,6 +45,7 @@
 
 
 //モーダルウィンドウ
+/*
 $(function(){
 	$('#layer_board_area').layerBoard({
 		delayTime: 100,		//表示までの待ち時間
@@ -55,7 +56,8 @@ $(function(){
 		limitCookie : 0	,	//cookie保存期間/日（0で開くたび毎回表示される）
 		countCookie : 1000	//何回目のアクセスまで適用するか(cookie保存期間でリセット)
 	});
-}) 
+})
+*/ 
 
 $(window).load(function(){
 	$('.white_fadein').addClass('load_bg_fade');
