@@ -319,14 +319,14 @@ def main():
         try:
             html_to_text(argv[0], argv[1], args.f)
         except Exception:
-            print('[ERROR] Convert html to txt error!')
+            print('::error title= Convert html to txt error!')
             traceback.print_exc()
     elif args.t2h:
         argv = args.t2h
         try:
             text_to_html(argv[0], argv[1], argv[2], args.f)
         except Exception:
-            print('[ERROR] Convert txt to html error!')
+            print('::error title= Convert txt to html error!')
             traceback.print_exc()
 
 

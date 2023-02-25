@@ -50,7 +50,7 @@ def txt_get_tag(fi):
                 identify_tag_str = line[open_pos + 1:close_pos]
                 break
             else:
-                print(U'[ERROR]: Close tag "{}" not found: {}'.format(TXT_CLOSE_TAG, line_clean))
+                print(U'::error ::Close tag "{}" not found: {}'.format(TXT_CLOSE_TAG, line_clean))
                 raise ValueError()
         elif len(line_clean) > 0:
             return None
@@ -129,7 +129,7 @@ def load_txt_trans_file(txt_path, clean_line=True):
             fi.seek(start_pos)
             line = fi.readline()
             if line != U'':
-                print(U'[ERROR]: Tag invalid: {}'.format(line))
+                print(U'::error :: Tag invalid: {}'.format(line))
                 raise ValueError
             break
 
@@ -137,7 +137,7 @@ def load_txt_trans_file(txt_path, clean_line=True):
         fi.seek(data_pos)
 
         if identify_tag != TXT_ID:
-            print(U'[ERROR]: Require {}ID{} tag: {}'.format(TXT_OPEN_TAG, TXT_CLOSE_TAG, fi.readline()))
+            print(U'::error :: Require {}ID{} tag: {}'.format(TXT_OPEN_TAG, TXT_CLOSE_TAG, fi.readline()))
             raise ValueError
 
         line_id = txt_clean_line(fi.readline())
@@ -149,7 +149,7 @@ def load_txt_trans_file(txt_path, clean_line=True):
         identify_tag1, data_pos = txt_get_tag(fi)  # expect jp
         if identify_tag1 not in rq_tag:
             fi.seek(line_pos)
-            print(U'[ERROR]: Tag invalid: {}'.format(fi.readline()))
+            print(U'::error :: Tag invalid: {}'.format(fi.readline()))
             raise ValueError
 
         text1 = txt_get_text_data(fi, data_pos, clean_line)
@@ -159,12 +159,12 @@ def load_txt_trans_file(txt_path, clean_line=True):
         identify_tag2, data_pos = txt_get_tag(fi)  # expect vn
         if identify_tag1 == identify_tag2:
             fi.seek(line_pos)
-            print(U'[ERROR]: Duplicate tag in line: {}'.format(fi.readline()))
+            print(U'::error :: Duplicate tag in line: {}'.format(fi.readline()))
             raise ValueError
 
         if identify_tag2 not in rq_tag:
             fi.seek(line_pos)
-            print(U'[ERROR]: Tag invalid: {}'.format(fi.readline()))
+            print(U'::error :: Tag invalid: {}'.format(fi.readline()))
             raise ValueError
 
         text2 = txt_get_text_data(fi, data_pos, clean_line)
