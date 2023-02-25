@@ -1,11 +1,11 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> "Prima Doll" [Hình nhân và ca hát, vén màn lên một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> "Prima Doll" [Hình nhân và ca hát, vén màn lên một câu chuyện mới.] Việt hóa
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
@@ -15,12 +15,12 @@
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> Hình nhân và ca hát, vén màn lên một câu chuyện mới. | Vietnam Key FanClub
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> Hình nhân và ca hát, vén màn lên một câu chuyện mới. | Vietnam Key FanClub
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
@@ -95,7 +95,7 @@
 =--=========================================
 <ID> 13
 <JP> 　しばらくあちこちで日雇いの仕事をこなしてきたが、ここ最近雇い口は少なくなる一方。僅かばかりの退職金も底をつきかけており、懐を探るとなんとたったの３厘。今朝から口に入れたのは湯冷ましだけで、お腹は鳴りっぱなしだ。
-<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin* (đơn vị tiền tệ cổ, 1 rin = 0,001 yên) lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
+<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<sup>[1]</sup> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
 
 =--=========================================
 <ID> 14
@@ -527,6 +527,8 @@
 <JP> 　それはもしかしたら、この世界への希望に満ちた、眩い笑顔なのかもしれない。
 <VN> Có lẽ là một nụ cười rạng rỡ, đem lại hy vọng cho thế giới này.
 
+<sup>[1]</sup>Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
+
 =--=========================================
 <ID> 100
 <JP> 次のエピソード＞＞
@@ -535,7 +537,8 @@
 =--=========================================
 <ID> 101
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：和氣あず未（灰桜）
-<VN> Kịch bản: Okano Touya   Minh họa: Maroyaka   Lồng tiếng: Waki Azumi (Haizakura)
+<VN> Kịch bản: Okano Touya   Minh họa: Maroyaka   Lồng tiếng: Waki Azumi (Haizakura)   
+Người dịch: Tennouji Akane   Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 102
