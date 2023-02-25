@@ -537,7 +537,8 @@
 =--=========================================
 <ID> 101
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：和氣あず未（灰桜）
-<VN> Kịch bản: Okano Touya   Minh họa: Maroyaka   Lồng tiếng: Waki Azumi (Haizakura)   
+<VN> Kịch bản: Okano Touya   Minh họa: Maroyaka   Lồng tiếng: Waki Azumi (Haizakura)
+<br />
 Người dịch: Tennouji Akane   Hiệu đính: Minata Hatsune
 
 =--=========================================
