@@ -233,10 +233,13 @@ def text_to_html(trans_folder, html_dump_folder, html_out_folder, in_format=XLSX
         dom = BeautifulSoup(html_text, features="html.parser")
 
         rows = []
-        if in_format == XLSX_FORMAT:
-            rows = load_xlsx_trans_file(trans_file_path)
-        elif in_format == TXT_FORMAT:
-            rows = load_txt_trans_file(trans_file_path)
+        try:
+            if in_format == XLSX_FORMAT:
+                rows = load_xlsx_trans_file(trans_file_path)
+            elif in_format == TXT_FORMAT:
+                rows = load_txt_trans_file(trans_file_path)
+        except Exception:
+            print('::error ::Convert {} to html error!\n{}'.format(f_format, traceback.format_exc()))
 
         head = dom.head  # type: Tag
         body = dom.body  # type: Tag
