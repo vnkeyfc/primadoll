@@ -42,7 +42,554 @@
 <JP> 目次
 <VN> Mục lục
 
+=--=========================================<ID> title
+<JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
+
 =--=========================================
+<ID> meta_description
+<JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
+
+=--=========================================
+<ID> meta_keywords
+<JP> Key,キー,kinetic,novel,キネティックノベル
+<VN> Key, kinetic, novel, Vietnamese
+
+=--=========================================
+<ID> meta_og:title
+<JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
+
+=--=========================================
+<ID> meta_og:site_name
+<JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
+
+=--=========================================
+<ID> meta_og:description
+<JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
+
+=--=========================================
+<ID> 0
+<JP> プリマドール・アンコール
+<VN> Prima Doll Encore
+
+=--=========================================
+<ID> 1
+<JP> 01-01　あんぱんと自律人形（１）
+<VN> 01-01 Anpan và Hình nhân Tự hành (1)
+
+=--=========================================
+<ID> 2
+<JP> 目次
+<VN> Mục lục
+
+=--=========================================
+<ID> 3
+<JP> 次のエピソード＞＞
+<VN> Chương kế tiếp >>
+
+=--=========================================
+<ID> 4
+<JP> 　人はみんな、泣き声と共に生まれてくる。
+<VN> Làm người ai cũng chào đời bằng tiếng khóc.
+
+=--=========================================
+<ID> 5
+<JP> 　それまで母親の胎内でぬくぬくと育って、呼吸も、食事も、あらゆる生命維持活動が不要の天上世界に浸りきっていたのだ。この過酷な現実に産み落とされれば、恨み節のひとつも上げたくなるところだろう。
+<VN> Trước đó, họ được bao bọc bởi hơi ấm nơi lòng mẹ và chìm đắm trong chốn thiên đàng mà không thiết chi ăn uống, hít thở hay bỏ công duy trì sự sống. Mặc nhiên, việc được sinh ra trong cái thực tế khắc nghiệt này sẽ không thể tránh khỏi những lời than thân trách phận.
+
+=--=========================================
+<ID> 6
+<JP> 　思えばこの世は不公平だらけ。
+<VN> Ngẫm nghĩ một chút sẽ thấy, rằng thế giới này chỉ chất chứa đầy rẫy bất công.
+
+=--=========================================
+<ID> 7
+<JP> 　使用人を侍らせて放蕩三昧の素封家もいれば、その日暮らしで糊口をしのいでいる貧民もいる。お大尽の家に生まれることを、外国では「銀のさじを咥えて生まれてくる」と表現するのだそうだ。それに比べると、ボクが生まれてきたときの状況はひどく劣悪だ。母は身重を押して大陸まで出稼ぎに行く船旅の途中で産気づいてしまい、暗い船倉の中でボクを生んだのだという。きっと産湯は海水で、生まれたての口にはさぞかししょっぱかったことだろう。ボクは苦汁をなめて生まれてきたのだ。だから狂おしいほどに甘い物が好きなのだと思っている。
+<VN> Nào là những gia đình đắm đuối trong sa đọa, rồi lại đến những gia đình bần hàn quanh năm suốt tháng phải bán mình cho công việc để mà nuôi sống bản thân cùng người nhà. Nhưng cũng có người được sinh ra mà theo cách ví von của dân ngoại quốc là “ngậm thìa bạc trong miệng”. So với đó thì, tôi được chào đời trong cảnh không thể tồi tệ hơn. Người ta kể lại rằng, mẹ có mang tôi rồi rời đất liền để đi làm xa, dọc đường thì có dấu hiệu chuyển dạ nên đã hạ sinh tôi trong kho hàng tối tăm trên thuyền. Nước tắm đầu của tôi khi ấy là nước biển, cố nhiên ngay từ khi sinh ra miệng tôi đã ngập tràn vị mặn. Có lẽ cũng vì thế mà giờ đây cứ thứ gì ngọt sắc là tôi rất thích.
+
+=--=========================================
+<ID> 8
+<JP> 　風に吹かれて、桜の花びらが舞っている。
+<VN> Gió đưa những cánh hoa đào nhảy múa khắp không trung.
+
+=--=========================================
+<ID> 9
+<JP> 　皇都はなんとものんきな麗らかさに包まれている。歩いていると汗が滲んでくるほどの陽気で、思わず襟元をはだける。
+<VN> Ánh hào quang bao bọc lấy Hoàng Đô mang một vẻ đẹp thật vô tư. Trời nắng, nắng đến mức làm tôi toát cả mồ hôi trong lúc rảo bước, khiến tôi vô thức phanh cổ áo ra.
+
+=--=========================================
+<ID> 10
+<JP> 　皇都二区と三区に跨がる威風堂々たる目代橋にさしかかると、真新しい袴に身を包んだ女学生とすれ違った。同い年ぐらいだろうか、きっとこの春から進学した新入生だろう。勉学と教養を学び、友人と語り合い、もしかしたら恋のひとつも知るかもしれない。なんて羨ましいと素直に思った。
+<VN> Khi đến gần cầu Mokudai – một cây cầu diễm lệ nối liền quận Hai và quận Ba của Hoàng Đô, tôi đi ngang qua một cô gái khoác trên mình bộ hakama mới tinh. Trông cô ta cũng trạc tuổi tôi, có vẻ như là học sinh sắp lên năm nhất cao trung trong mùa xuân này. Để học hành, vui đùa, kết bạn… hay thậm chí là mưu cầu tình yêu. Phải thú thật là, bất giác tôi cảm thấy ghen tị với cô ấy.
+
+=--=========================================
+<ID> 11
+<JP> 　ボクはと言えば、国民学校を卒業できたはいいものの、高等学校に進むことは叶わず、家にいても面倒だからと去年から奉公に出されていた。お大尽の豪邸に、住み込みで使用人だ。とはいえ居心地は悪く無かった。元々家事は嫌いではないし、先輩にも可愛がられた。ゆくゆくは独立したいのだとご婦人に相談すると、職業人としての身なりや所作、心構えを事細かに指南してくれた。だからしばらくご厄介になりつつ、お金をせっせと貯めていこうと思っていた。
+<VN> Về phần tôi, tôi tốt nghiệp một trường quốc lập… Tuy nhiên, tôi lại không thể học lên cao được, và cũng khó lòng yên thân trong nhà, nên từ năm ngoái tôi đã ra ngoài làm công. Tôi tá túc trong một dinh thự nguy nga và làm việc ở đó với thân phận người hầu. Dù vậy, cảm giác cũng không tệ lắm. Tôi vốn không ghét làm việc nhà và các tiền bối khá mến tôi. Có lần tôi hỏi ý kiến bà chủ về ý định tự mình kinh doanh, thế là bà ấy chỉ bảo tôi về mọi thứ từ cách ăn mặc cho đến ứng xử và phong thái của một doanh nhân. Vậy là tôi quyết định lưu lại đó và dành dụm thêm một ít tiền.
+
+=--=========================================
+<ID> 12
+<JP> 　もっともこの冬に奉公先があっけなく破産してしまったので、その計画も白紙になってしまったけれど。戦後の不況は遅れてやってくると知ったのはその後だ。それも当然だろう。広大な荒野でバカスカ銃弾を撃ちまくり、高価な<ruby>戦闘人形<rt>メカニカ</rt></ruby>を惜しげもなく鉄くずに変えていたのだ。そんな浪費がそっくり無くなったのだから、なにもかも立ちゆかない。
+<VN> Thế nhưng vào mùa đông, nhà chủ tôi bị phá sản và mọi kế hoạch của tôi tan thành mây khói. Mãi sau này tôi mới biết đó là hậu quả đến muộn của cuộc suy thoái hậu chiến. Dân chúng nổ súng vào nhau và biến tất cả đám <ruby>Hình nhân Chiến đấu<rt>Mechanica</rt></ruby> xa xỉ đó thành đồng nát mà không thiết quan tâm tới tất thảy sự thể trên đời… Đến lúc dọn dẹp tàn cuộc thì cuộc đời tôi cũng vì nó mà đi chệch đường ray.
+
+=--=========================================
+<ID> 13
+<JP> 　しばらくあちこちで日雇いの仕事をこなしてきたが、ここ最近雇い口は少なくなる一方。僅かばかりの退職金も底をつきかけており、懐を探るとなんとたったの３厘。今朝から口に入れたのは湯冷ましだけで、お腹は鳴りっぱなしだ。
+<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<sup>[1]</sup> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
+
+=--=========================================
+<ID> 14
+<JP> 　そんな時だった。
+<VN> Và khi đó…
+
+=--=========================================
+<ID> 15
+<JP> 　目の前に手持ち看板が飛び込んできたのは。
+<VN> Một biển hiệu xuất hiện trước mặt tôi.
+
+=--=========================================
+<ID> 16
+<JP> 　【あんぱん　３厘】
+<VN> [Anpan 3 rin]
+
+=--=========================================
+<ID> 17
+<JP> 　我が目を疑うとはこのことだ。菓子ぱんの帝王、東邦文化と西邦文化が出会って生まれた奇跡の逸品あんぱんが３厘！？　二区の村木屋で買うと１０厘はくだらないだろう。まさに破格。そしてボクのわびしいと言えばあまりにわびしい懐具合でもなんとか手が届く。だからたっと駆けだして、看板を持つ少女の前に立った。
+<VN> Tôi không thể nào tin vào mắt mình. Phép màu giao thoa giữa văn hóa Đông-Tây, Đế vương Đồ ngọt lại được bán với giá 3 rin?! Nếu mua ở quán Murakiya bên quận hai thì 10 rin có khi còn chưa đủ! Quá là khác thường! Với cái giá này thì tôi có thể vô tư mua nó bất chấp ngân khố thảm thương của mình. Và như thế, tôi nhanh chân chạy lại đến đứng trước mặt cô bé cầm biển hiệu.
+
+=--=========================================
+<ID> 18
+<JP> 　「くださいな！」
+<VN> "Làm ơn!"
+
+=--=========================================
+<ID> 19
+<JP> 「……みゅ？」
+<VN> "…myu?"
+
+=--=========================================
+<ID> 20
+<JP> 　少女は小首を傾げてこちらを見た。くすんだ桜色の髪。瑠璃のような青い瞳。幼さを覗かせる、柔らかな頬のライン。白い着物の振り袖が、ひらひらと揺れていた。背中には可憐な印象とは似つかぬ、鈍色の背嚢。小さな煙突が伸びていて、うっすらと水蒸気がたなびいている……。
+<VN> Em nghiêng đầu nhìn tôi một cách tò mò. Tóc phớt nhẹ sắc hồng anh đào, đôi mắt màu xanh như ngọc lưu ly. Những đường nét mềm mại trên má làm nổi bật lên vẻ trẻ thơ nơi em; lớp furisode trên người em nhẹ nhàng tung bay trong gió. Sau lưng em là một chiếc ba lô màu xám, tương phản hoàn toàn với dung nhan rạng rỡ. Nhô lên từ đó là một ống khói nhỏ có hơi nước thoát ra.
+
+=--=========================================
+<ID> 21
+<JP> 　「……あ、えっと……あの……」
+<VN> "…à ờ… cái này…"
+
+=--=========================================
+<ID> 22
+<JP> 　ボクが一瞬固まって、じっと見つめていたので、彼女は気恥ずかしそうに笑った。
+<VN> Tôi đứng trố mắt ra nhìn em, còn em thì mỉm cười bẽn lẽn.
+
+=--=========================================
+<ID> 23
+<JP> 「はじめまして、灰桜ですっ」
+<VN> "Hân hạnh được gặp ngài, em tên Haizakura ạ!"
+
+=--=========================================
+<ID> 24
+<JP> 　「ああ、これはご丁寧にどうも……」
+<VN> "A, lịch sự ghê…"
+
+=--=========================================
+<ID> 25
+<JP> 「どこかでお目にかかりましたか？」
+<VN> "Chúng ta đã từng gặp nhau ở đâu chưa ạ?"
+
+=--=========================================
+<ID> 26
+<JP> 　「え？」
+<VN> "Hơ?"
+
+=--=========================================
+<ID> 27
+<JP> 「あんまりじっと見つめるものですから」
+<VN> "Tại ngài cứ nhìn chằm chằm em nãy giờ mà."
+
+=--=========================================
+<ID> 28
+<JP> 　くすぐったそうにはにかんでいる。
+<VN> Em cười khúc khích.
+
+=--=========================================
+<ID> 29
+<JP> 　「いや、そのぅ……」
+<VN> "Không, cái này…"
+
+=--=========================================
+<ID> 30
+<JP> 　なんと言ったものか、ちょっと考え込んだ。なんとも噛み合わない会話だが、その理由はもう分かっている。
+<VN> Tôi cân nhắc xem nên nói gì… Cuộc đối thoại vừa rồi có vẻ khá lạc quẻ, nhưng xem chừng tôi đã biết nguyên nhân rồi.
+
+=--=========================================
+<ID> 31
+<JP> 　「キミは人形だよね？」
+<VN> "Em là Hình nhân sao?"
+
+=--=========================================
+<ID> 32
+<JP> 「はい、わたしは<ruby>自律人形<rt>オートマタ</rt></ruby>です」
+<VN> "Vâng, em là <ruby>Hình nhân Tự hành<rt>Automata</rt></ruby> ạ!"
+
+=--=========================================
+<ID> 33
+<JP> 　まさかまた自律人形を見かけることが出来るとは。戦時中ならいざ知らず、平和な皇都で稼働している自律人形はほんの数えるほど。なんとも懐かしくなって、目頭が熱くなった。
+<VN> Tôi đã không nghĩ rằng mình có thể nhìn thấy một Hình nhân Tự hành lần nữa, bởi sau cuộc chiến chỉ còn lại số ít ở Hoàng Đô. Cảm giác thật hoài niệm, khiến mắt tôi có chút cay cay.
+
+=--=========================================
+<ID> 34
+<JP> 「お客様、ところでご用件は……？」
+<VN> "Nhân tiện thưa quý khách, cho em hỏi ngài cần gì ạ?"
+
+=--=========================================
+<ID> 35
+<JP> 　そんな感傷もいざ知らず、屈託の無い表情でのぞき込んでくる。
+<VN> Em nhìn tôi bằng ánh mắt vô tư, tuyệt nhiên không vương chút nhục cảm nào.
+
+=--=========================================
+<ID> 36
+<JP> 「わたし、お役に立ちます」
+<VN> "Em có thể giúp ngài làm bất cứ điều gì!"
+
+=--=========================================
+<ID> 37
+<JP> 　自律人形ってこんなに小さかったっけ、と思った。もちろん、ボクが大きくなっただけなのだけど。
+<VN> Tôi chưa bao giờ nghĩ rằng Hình nhân Tự hành lại có thể nhỏ nhắn đến nhường này… phải chăng là vì bây giờ tôi đã lớn hơn trước rồi?
+
+=--=========================================
+<ID> 38
+<JP> 　「って、灰桜？」
+<VN> "Vậy thì, Haizakura?"
+
+=--=========================================
+<ID> 39
+<JP> 「はい」
+<VN> "Dạ?"
+
+=--=========================================
+<ID> 40
+<JP> 　「あんぱん売って欲しいんだけど」
+<VN> "Tôi  muốn mua một cái anpan."
+
+=--=========================================
+<ID> 41
+<JP> 「みゅっ！？」
+<VN> "Myu?!"
+
+=--=========================================
+<ID> 42
+<JP> 　昔を懐かしむのは一旦止めて、本題に戻る。
+<VN> Tôi ngưng chìm đắm trong hoài niệm và đi thẳng vào trọng tâm vấn đề.
+
+=--=========================================
+<ID> 43
+<JP> 　「見たところ、売り子をしているんだよね？」
+<VN> "Em là người bán hàng đúng không?"
+
+=--=========================================
+<ID> 44
+<JP> 「そうだ、そうでした！」
+<VN> "Vâng, đúng là em ạ!"
+
+=--=========================================
+<ID> 45
+<JP> 　いま初めて見たかのように、手持ち看板を見上げている。
+<VN> Em liếc nhìn tấm biển của mình như thể đây là lần đầu em nhìn thấy nó.
+
+=--=========================================
+<ID> 46
+<JP> 「お客様、甘くてふかふかのあんぱんはいかがですかっ？」
+<VN> "Ngài muốn mua Anpan mềm mềm ngọt ngọt đó ư, thưa quý khách?"
+
+=--=========================================
+<ID> 47
+<JP> 　「うん、それをくださいな」
+<VN> "Ừ, tôi muốn mua."
+
+=--=========================================
+<ID> 48
+<JP> 　ちゃりんと３厘を渡す。
+<VN> Tôi trả 3 rin của mình kèm theo tiếng leng keng.
+
+=--=========================================
+<ID> 49
+<JP> 　灰桜の隣には小机があり、大きなバスケットと小さな金庫、それに硝子ケースに入った見本品が並べられている。見本のあんぱんは真ん中でふたつに割られていて、いかにあんがぎっしり詰まっているか誇らしげに誇示している。胡麻の量も申し分ない。
+<VN> Bên cạnh Haizakura, có một cái bàn cùng với một chiếc giỏ lớn hơn, một cái két nhỏ, và một tủ kính bên trong bày các mẫu bánh. Chiếc anpan mẫu được cắt một đường ở giữa, tự hào khoe ra độ kết dính của nhân bên trong; hạt mè ở trên cũng cân đối một cách hoàn hảo.
+
+=--=========================================
+<ID> 50
+<JP> 「みゅみゅみゅっ！？」
+<VN> "Myumyumyu?!"
+
+=--=========================================
+<ID> 51
+<JP> 　バスケットをのぞき込んでいた灰桜が、素っ頓狂な声を上げる。
+<VN> Haizakura ré lên bằng một thứ ngôn ngữ kỳ lạ khi em nhìn vào giỏ.
+
+=--=========================================
+<ID> 52
+<JP> 　「どうしたの？」
+<VN> "Sao thế?"
+
+=--=========================================
+<ID> 53
+<JP> 「お客様、申し訳ありませんっ。すでに売り切れてしまいました～」
+<VN> "Xin lỗi thưa quý khách, nhưng có vẻ như là em đã bán hết mất rồi~"
+
+=--=========================================
+<ID> 54
+<JP> 　「あ、そうなんだ」
+<VN> "Ồ… ra là vậy à."
+
+=--=========================================
+<ID> 55
+<JP> 　確かに改めて覗いてみると、バスケットの中は空っぽだ。
+<VN> Đúng là khi nhìn lại lần nữa thì chiếc giỏ đã rỗng từ đời nào rồi.
+
+=--=========================================
+<ID> 56
+<JP> 「はいっ。今日は朝から行列で、たくさんご用意したのですが……」
+<VN> "Vâng, sáng nay có khá nhiều người xếp hàng nên em đã chuẩn bị rất nhiều nhưng…"
+
+=--=========================================
+<ID> 57
+<JP> 　「じゃあ、この見本品をくださいな」
+<VN> "Vậy bán tôi cái mẫu kia nhé."
+
+=--=========================================
+<ID> 58
+<JP> 「えっ？」
+<VN> "Ơ?"
+
+=--=========================================
+<ID> 59
+<JP> 　まるっきり売り物がないなら仕方が無いが、目の前には最後の一個がある。
+<VN> Nếu như đã hết hàng thì đành chịu thôi, nhưng lại có một chiếc cuối cùng ở ngay kia cơ mà.
+
+=--=========================================
+<ID> 60
+<JP> 「こ、これは……」
+<VN> "Ưm, cái này…"
+
+=--=========================================
+<ID> 61
+<JP> 　「あれ、もしかして売っちゃダメなやつ？」
+<VN> "Ủa? Có khi nào là hàng không bán được hả?"
+
+=--=========================================
+<ID> 62
+<JP> 「そ、そういうわけではないのですがー……」
+<VN> "Dạ không, không phải như thế, nhưng mà…"
+
+=--=========================================
+<ID> 63
+<JP> 　「乾いていて、おいしくないとか？」
+<VN> "Nó bị khô hay không ăn được hay sao?"
+
+=--=========================================
+<ID> 64
+<JP> 「硝子ケースに入れているので、もっちりふわふわなのですがー……」
+<VN> "Không… em để trong tủ kính nên nó mềm lắm ạ…"
+
+=--=========================================
+<ID> 65
+<JP> 　「もしかして、落としちゃったとか？」
+<VN> "Hay em làm rơi nó rồi?"
+
+=--=========================================
+<ID> 66
+<JP> 「いえっ、お仕事終わりでもおいしく頂けるようしっかりがっちり保管していたのですがっ……！」
+<VN> "Không, em đặt nó ở chỗ này để đến khi xong việc nó vẫn còn ngon…!"
+
+=--=========================================
+<ID> 67
+<JP> 　「……自分で食べようと思っていたとか？」
+<VN> "…vậy cái này là để em ăn hả?"
+
+=--=========================================
+<ID> 68
+<JP> 「みゅっ！？」
+<VN> "Myu!!"
+
+=--=========================================
+<ID> 69
+<JP> 　ぴょん、と兎のように跳ねて、ずささと後ずさる。
+<VN> Cô bé nhảy bật lên như một chú thỏ và lùi ra khỏi tôi.
+
+=--=========================================
+<ID> 70
+<JP> 「……なぜそれを」
+<VN> "Sao ngài lại…?"
+
+=--=========================================
+<ID> 71
+<JP> 　「いや、まあ……」
+<VN> "À… ừ thì…"
+
+=--=========================================
+<ID> 72
+<JP> 　言われなくとも察する。
+<VN> Chẳng cần nói tôi cũng đoán được.
+
+=--=========================================
+<ID> 73
+<JP> 　「……ふぅ……」
+<VN> "…hà…"
+
+=--=========================================
+<ID> 74
+<JP> 　お腹をさすると、未練のように小さく鳴った。
+<VN> Tôi xoa xoa cái bụng đang réo lên vì tiếc nuối.
+
+=--=========================================
+<ID> 75
+<JP> 　「いいよ、そういうことなら。無いなら仕方が無いよね」
+<VN> "Thôi thì, nếu em còn mỗi một cái thì cũng đành chịu…"
+
+=--=========================================
+<ID> 76
+<JP> 「いけませんっ！」
+<VN> "Không được đâu ạ!!"
+
+=--=========================================
+<ID> 77
+<JP> 　ぎゅ、と裾を握ってくる。
+<VN> Em giữ chặt lấy gấu áo của tôi.
+
+=--=========================================
+<ID> 78
+<JP> 「わ、わたしの役目は、あんぱんを売って、お客様に喜んでもらうことですので……」
+<VN> "V-vai trò của em là bán anpan và làm cho khách hàng hài lòng…"
+
+=--=========================================
+<ID> 79
+<JP> 　声を張ろうとしているが、後半に向けてどんどん声量は小さくなっていた。
+<VN> Em cố gắng giữ tông giọng của mình, nhưng nó dần trở nên trùng xuống vào nửa cuối câu.
+
+=--=========================================
+<ID> 80
+<JP> 「お、お召し上がりくださいぃ……」
+<VN> "M-mời quý khách thưởng thức ạ…"
+
+=--=========================================
+<ID> 81
+<JP> 　ぱかりと硝子ケースを開けて、あんぱんを差し出してくれる。
+<VN> Em mở chiếc tủ kính ra và đưa cho tôi chiếc anpan.
+
+=--=========================================
+<ID> 82
+<JP> 　パン種と餡子が混ざり合った、なんともいい匂いが鼻先をくすぐる。
+<VN> Hương men và đậu đỏ tạo nên một thứ mùi lôi cuốn và trêu ngươi mũi tôi.
+
+=--=========================================
+<ID> 83
+<JP> 　「じゃあ、遠慮無くいただくよ」
+<VN> "Vậy, tôi không khách sáo nhé."
+
+=--=========================================
+<ID> 84
+<JP> 　ふたつに割れたあんぱんを手に取ると、ほのかにあたたかった。
+<VN> Khi tôi nhấc chiếc anpan đã được xẻ đôi lên, nó vẫn còn ấm.
+
+=--=========================================
+<ID> 85
+<JP> 「………ぅぅ…」
+<VN> "……ưưư…"
+
+=--=========================================
+<ID> 86
+<JP> 　「あのさ」
+<VN> "Này."
+
+=--=========================================
+<ID> 87
+<JP> 「はいぃ……？」
+<VN> "Dạạ…?"
+
+=--=========================================
+<ID> 88
+<JP> 　「よかったらさ、ふたりで半分こなん」
+<VN> "Nếu em muốn thì ta chia đôi nhé?"
+
+=--=========================================
+<ID> 89
+<JP> 「いいんですか！！！！！」
+<VN> "Được không ạ?!!!"
+
+=--=========================================
+<ID> 90
+<JP> 　灰桜は食い入るように言葉を被せてきた。
+<VN> Haizakura nhìn chòng chọc như muốn ăn tươi nuốt sống tôi vậy.
+
+=--=========================================
+<ID> 91
+<JP> 　「はい、どうぞ」
+<VN> "Tất nhiên rồi, mời em."
+
+=--=========================================
+<ID> 92
+<JP> 　あんぱんの片割れを灰桜に手渡す。
+<VN> Tôi đưa cho em một nửa chiếc anpan.
+
+=--=========================================
+<ID> 93
+<JP> 「わぁ……」
+<VN> "Oaaa~"
+
+=--=========================================
+<ID> 94
+<JP> 　うるうると涙を滲ませんばかりに感動している。
+<VN> Em nom xúc động tới mức không thể cầm lòng được…
+
+=--=========================================
+<ID> 95
+<JP> 「ありがとうございます！」
+<VN> "Cảm ơn ngài rất nhiều!!"
+
+=--=========================================
+<ID> 96
+<JP> 　ぽっと、水蒸気が背中の煙突から吹き上げていた。
+<VN> Hơi nước bốc ra từ ống khói sau lưng em.
+
+=--=========================================
+<ID> 97
+<JP> 　人はみんな、泣きながら生まれてくる。
+<VN> Làm người ai cũng chào đời bằng tiếng khóc.
+
+=--=========================================
+<ID> 98
+<JP> 　では、彼女たち人形はどんな表情で生まれてくるのだろうか？
+<VN> Vậy, những cô gái Hình nhân được sinh ra ở trạng thái gì? 
+
+=--=========================================
+<ID> 99
+<JP> 　それはもしかしたら、この世界への希望に満ちた、眩い笑顔なのかもしれない。
+<VN> Có lẽ là một nụ cười rạng rỡ, đem lại hy vọng cho thế giới này.
+
+<br /><sup>[1]</sup>Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
+
+=--=========================================
+<ID> 100
+<JP> 次のエピソード＞＞
+<VN> Chương kế tiếp >>
+
+=--=========================================
+<ID> 101
+<JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：和氣あず未（灰桜）
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Waki Azumi (Haizakura)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
+
+=--=========================================
+<ID> 102
+<JP> 目次へ戻る
+<VN> Trở về mục lục
+
+=--=========================================
+
 <ID> 3
 <JP> 次のエピソード＞＞
 <VN> Chương kế tiếp >>
@@ -540,6 +1087,553 @@
 <VN> Kịch bản: Okano Touya   Minh họa: Maroyaka   Lồng tiếng: Waki Azumi (Haizakura)
 <br />
 Người dịch: Tennouji Akane   Hiệu đính: Minata Hatsune
+<ID> title
+<JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
+
+=--=========================================
+<ID> meta_description
+<JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
+
+=--=========================================
+<ID> meta_keywords
+<JP> Key,キー,kinetic,novel,キネティックノベル
+<VN> Key, kinetic, novel, Vietnamese
+
+=--=========================================
+<ID> meta_og:title
+<JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
+
+=--=========================================
+<ID> meta_og:site_name
+<JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
+
+=--=========================================
+<ID> meta_og:description
+<JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
+
+=--=========================================
+<ID> 0
+<JP> プリマドール・アンコール
+<VN> Prima Doll Encore
+
+=--=========================================
+<ID> 1
+<JP> 01-01　あんぱんと自律人形（１）
+<VN> 01-01 Anpan và Hình nhân Tự hành (1)
+
+=--=========================================
+<ID> 2
+<JP> 目次
+<VN> Mục lục
+
+=--=========================================
+<ID> 3
+<JP> 次のエピソード＞＞
+<VN> Chương kế tiếp >>
+
+=--=========================================
+<ID> 4
+<JP> 　人はみんな、泣き声と共に生まれてくる。
+<VN> Làm người ai cũng chào đời bằng tiếng khóc.
+
+=--=========================================
+<ID> 5
+<JP> 　それまで母親の胎内でぬくぬくと育って、呼吸も、食事も、あらゆる生命維持活動が不要の天上世界に浸りきっていたのだ。この過酷な現実に産み落とされれば、恨み節のひとつも上げたくなるところだろう。
+<VN> Trước đó, họ được bao bọc bởi hơi ấm nơi lòng mẹ và chìm đắm trong chốn thiên đàng mà không thiết chi ăn uống, hít thở hay bỏ công duy trì sự sống. Mặc nhiên, việc được sinh ra trong cái thực tế khắc nghiệt này sẽ không thể tránh khỏi những lời than thân trách phận.
+
+=--=========================================
+<ID> 6
+<JP> 　思えばこの世は不公平だらけ。
+<VN> Ngẫm nghĩ một chút sẽ thấy, rằng thế giới này chỉ chất chứa đầy rẫy bất công.
+
+=--=========================================
+<ID> 7
+<JP> 　使用人を侍らせて放蕩三昧の素封家もいれば、その日暮らしで糊口をしのいでいる貧民もいる。お大尽の家に生まれることを、外国では「銀のさじを咥えて生まれてくる」と表現するのだそうだ。それに比べると、ボクが生まれてきたときの状況はひどく劣悪だ。母は身重を押して大陸まで出稼ぎに行く船旅の途中で産気づいてしまい、暗い船倉の中でボクを生んだのだという。きっと産湯は海水で、生まれたての口にはさぞかししょっぱかったことだろう。ボクは苦汁をなめて生まれてきたのだ。だから狂おしいほどに甘い物が好きなのだと思っている。
+<VN> Nào là những gia đình đắm đuối trong sa đọa, rồi lại đến những gia đình bần hàn quanh năm suốt tháng phải bán mình cho công việc để mà nuôi sống bản thân cùng người nhà. Nhưng cũng có người được sinh ra mà theo cách ví von của dân ngoại quốc là “ngậm thìa bạc trong miệng”. So với đó thì, tôi được chào đời trong cảnh không thể tồi tệ hơn. Người ta kể lại rằng, mẹ có mang tôi rồi rời đất liền để đi làm xa, dọc đường thì có dấu hiệu chuyển dạ nên đã hạ sinh tôi trong kho hàng tối tăm trên thuyền. Nước tắm đầu của tôi khi ấy là nước biển, cố nhiên ngay từ khi sinh ra miệng tôi đã ngập tràn vị mặn. Có lẽ cũng vì thế mà giờ đây cứ thứ gì ngọt sắc là tôi rất thích.
+
+=--=========================================
+<ID> 8
+<JP> 　風に吹かれて、桜の花びらが舞っている。
+<VN> Gió đưa những cánh hoa đào nhảy múa khắp không trung.
+
+=--=========================================
+<ID> 9
+<JP> 　皇都はなんとものんきな麗らかさに包まれている。歩いていると汗が滲んでくるほどの陽気で、思わず襟元をはだける。
+<VN> Ánh hào quang bao bọc lấy Hoàng Đô mang một vẻ đẹp thật vô tư. Trời nắng, nắng đến mức làm tôi toát cả mồ hôi trong lúc rảo bước, khiến tôi vô thức phanh cổ áo ra.
+
+=--=========================================
+<ID> 10
+<JP> 　皇都二区と三区に跨がる威風堂々たる目代橋にさしかかると、真新しい袴に身を包んだ女学生とすれ違った。同い年ぐらいだろうか、きっとこの春から進学した新入生だろう。勉学と教養を学び、友人と語り合い、もしかしたら恋のひとつも知るかもしれない。なんて羨ましいと素直に思った。
+<VN> Khi đến gần cầu Mokudai – một cây cầu diễm lệ nối liền quận Hai và quận Ba của Hoàng Đô, tôi đi ngang qua một cô gái khoác trên mình bộ hakama mới tinh. Trông cô ta cũng trạc tuổi tôi, có vẻ như là học sinh sắp lên năm nhất cao trung trong mùa xuân này. Để học hành, vui đùa, kết bạn… hay thậm chí là mưu cầu tình yêu. Phải thú thật là, bất giác tôi cảm thấy ghen tị với cô ấy.
+
+=--=========================================
+<ID> 11
+<JP> 　ボクはと言えば、国民学校を卒業できたはいいものの、高等学校に進むことは叶わず、家にいても面倒だからと去年から奉公に出されていた。お大尽の豪邸に、住み込みで使用人だ。とはいえ居心地は悪く無かった。元々家事は嫌いではないし、先輩にも可愛がられた。ゆくゆくは独立したいのだとご婦人に相談すると、職業人としての身なりや所作、心構えを事細かに指南してくれた。だからしばらくご厄介になりつつ、お金をせっせと貯めていこうと思っていた。
+<VN> Về phần tôi, tôi tốt nghiệp một trường quốc lập… Tuy nhiên, tôi lại không thể học lên cao được, và cũng khó lòng yên thân trong nhà, nên từ năm ngoái tôi đã ra ngoài làm công. Tôi tá túc trong một dinh thự nguy nga và làm việc ở đó với thân phận người hầu. Dù vậy, cảm giác cũng không tệ lắm. Tôi vốn không ghét làm việc nhà và các tiền bối khá mến tôi. Có lần tôi hỏi ý kiến bà chủ về ý định tự mình kinh doanh, thế là bà ấy chỉ bảo tôi về mọi thứ từ cách ăn mặc cho đến ứng xử và phong thái của một doanh nhân. Vậy là tôi quyết định lưu lại đó và dành dụm thêm một ít tiền.
+
+=--=========================================
+<ID> 12
+<JP> 　もっともこの冬に奉公先があっけなく破産してしまったので、その計画も白紙になってしまったけれど。戦後の不況は遅れてやってくると知ったのはその後だ。それも当然だろう。広大な荒野でバカスカ銃弾を撃ちまくり、高価な<ruby>戦闘人形<rt>メカニカ</rt></ruby>を惜しげもなく鉄くずに変えていたのだ。そんな浪費がそっくり無くなったのだから、なにもかも立ちゆかない。
+<VN> Thế nhưng vào mùa đông, nhà chủ tôi bị phá sản và mọi kế hoạch của tôi tan thành mây khói. Mãi sau này tôi mới biết đó là hậu quả đến muộn của cuộc suy thoái hậu chiến. Dân chúng nổ súng vào nhau và biến tất cả đám <ruby>Hình nhân Chiến đấu<rt>Mechanica</rt></ruby> xa xỉ đó thành đồng nát mà không thiết quan tâm tới tất thảy sự thể trên đời… Đến lúc dọn dẹp tàn cuộc thì cuộc đời tôi cũng vì nó mà đi chệch đường ray.
+
+=--=========================================
+<ID> 13
+<JP> 　しばらくあちこちで日雇いの仕事をこなしてきたが、ここ最近雇い口は少なくなる一方。僅かばかりの退職金も底をつきかけており、懐を探るとなんとたったの３厘。今朝から口に入れたのは湯冷ましだけで、お腹は鳴りっぱなしだ。
+<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<sup>[1]</sup> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
+
+=--=========================================
+<ID> 14
+<JP> 　そんな時だった。
+<VN> Và khi đó…
+
+=--=========================================
+<ID> 15
+<JP> 　目の前に手持ち看板が飛び込んできたのは。
+<VN> Một biển hiệu xuất hiện trước mặt tôi.
+
+=--=========================================
+<ID> 16
+<JP> 　【あんぱん　３厘】
+<VN> [Anpan 3 rin]
+
+=--=========================================
+<ID> 17
+<JP> 　我が目を疑うとはこのことだ。菓子ぱんの帝王、東邦文化と西邦文化が出会って生まれた奇跡の逸品あんぱんが３厘！？　二区の村木屋で買うと１０厘はくだらないだろう。まさに破格。そしてボクのわびしいと言えばあまりにわびしい懐具合でもなんとか手が届く。だからたっと駆けだして、看板を持つ少女の前に立った。
+<VN> Tôi không thể nào tin vào mắt mình. Phép màu giao thoa giữa văn hóa Đông-Tây, Đế vương Đồ ngọt lại được bán với giá 3 rin?! Nếu mua ở quán Murakiya bên quận hai thì 10 rin có khi còn chưa đủ! Quá là khác thường! Với cái giá này thì tôi có thể vô tư mua nó bất chấp ngân khố thảm thương của mình. Và như thế, tôi nhanh chân chạy lại đến đứng trước mặt cô bé cầm biển hiệu.
+
+=--=========================================
+<ID> 18
+<JP> 　「くださいな！」
+<VN> "Làm ơn!"
+
+=--=========================================
+<ID> 19
+<JP> 「……みゅ？」
+<VN> "…myu?"
+
+=--=========================================
+<ID> 20
+<JP> 　少女は小首を傾げてこちらを見た。くすんだ桜色の髪。瑠璃のような青い瞳。幼さを覗かせる、柔らかな頬のライン。白い着物の振り袖が、ひらひらと揺れていた。背中には可憐な印象とは似つかぬ、鈍色の背嚢。小さな煙突が伸びていて、うっすらと水蒸気がたなびいている……。
+<VN> Em nghiêng đầu nhìn tôi một cách tò mò. Tóc phớt nhẹ sắc hồng anh đào, đôi mắt màu xanh như ngọc lưu ly. Những đường nét mềm mại trên má làm nổi bật lên vẻ trẻ thơ nơi em; lớp furisode trên người em nhẹ nhàng tung bay trong gió. Sau lưng em là một chiếc ba lô màu xám, tương phản hoàn toàn với dung nhan rạng rỡ. Nhô lên từ đó là một ống khói nhỏ có hơi nước thoát ra.
+
+=--=========================================
+<ID> 21
+<JP> 　「……あ、えっと……あの……」
+<VN> "…à ờ… cái này…"
+
+=--=========================================
+<ID> 22
+<JP> 　ボクが一瞬固まって、じっと見つめていたので、彼女は気恥ずかしそうに笑った。
+<VN> Tôi đứng trố mắt ra nhìn em, còn em thì mỉm cười bẽn lẽn.
+
+=--=========================================
+<ID> 23
+<JP> 「はじめまして、灰桜ですっ」
+<VN> "Hân hạnh được gặp ngài, em tên Haizakura ạ!"
+
+=--=========================================
+<ID> 24
+<JP> 　「ああ、これはご丁寧にどうも……」
+<VN> "A, lịch sự ghê…"
+
+=--=========================================
+<ID> 25
+<JP> 「どこかでお目にかかりましたか？」
+<VN> "Chúng ta đã từng gặp nhau ở đâu chưa ạ?"
+
+=--=========================================
+<ID> 26
+<JP> 　「え？」
+<VN> "Hơ?"
+
+=--=========================================
+<ID> 27
+<JP> 「あんまりじっと見つめるものですから」
+<VN> "Tại ngài cứ nhìn chằm chằm em nãy giờ mà."
+
+=--=========================================
+<ID> 28
+<JP> 　くすぐったそうにはにかんでいる。
+<VN> Em cười khúc khích.
+
+=--=========================================
+<ID> 29
+<JP> 　「いや、そのぅ……」
+<VN> "Không, cái này…"
+
+=--=========================================
+<ID> 30
+<JP> 　なんと言ったものか、ちょっと考え込んだ。なんとも噛み合わない会話だが、その理由はもう分かっている。
+<VN> Tôi cân nhắc xem nên nói gì… Cuộc đối thoại vừa rồi có vẻ khá lạc quẻ, nhưng xem chừng tôi đã biết nguyên nhân rồi.
+
+=--=========================================
+<ID> 31
+<JP> 　「キミは人形だよね？」
+<VN> "Em là Hình nhân sao?"
+
+=--=========================================
+<ID> 32
+<JP> 「はい、わたしは<ruby>自律人形<rt>オートマタ</rt></ruby>です」
+<VN> "Vâng, em là <ruby>Hình nhân Tự hành<rt>Automata</rt></ruby> ạ!"
+
+=--=========================================
+<ID> 33
+<JP> 　まさかまた自律人形を見かけることが出来るとは。戦時中ならいざ知らず、平和な皇都で稼働している自律人形はほんの数えるほど。なんとも懐かしくなって、目頭が熱くなった。
+<VN> Tôi đã không nghĩ rằng mình có thể nhìn thấy một Hình nhân Tự hành lần nữa, bởi sau cuộc chiến chỉ còn lại số ít ở Hoàng Đô. Cảm giác thật hoài niệm, khiến mắt tôi có chút cay cay.
+
+=--=========================================
+<ID> 34
+<JP> 「お客様、ところでご用件は……？」
+<VN> "Nhân tiện thưa quý khách, cho em hỏi ngài cần gì ạ?"
+
+=--=========================================
+<ID> 35
+<JP> 　そんな感傷もいざ知らず、屈託の無い表情でのぞき込んでくる。
+<VN> Em nhìn tôi bằng ánh mắt vô tư, tuyệt nhiên không vương chút nhục cảm nào.
+
+=--=========================================
+<ID> 36
+<JP> 「わたし、お役に立ちます」
+<VN> "Em có thể giúp ngài làm bất cứ điều gì!"
+
+=--=========================================
+<ID> 37
+<JP> 　自律人形ってこんなに小さかったっけ、と思った。もちろん、ボクが大きくなっただけなのだけど。
+<VN> Tôi chưa bao giờ nghĩ rằng Hình nhân Tự hành lại có thể nhỏ nhắn đến nhường này… phải chăng là vì bây giờ tôi đã lớn hơn trước rồi?
+
+=--=========================================
+<ID> 38
+<JP> 　「って、灰桜？」
+<VN> "Vậy thì, Haizakura?"
+
+=--=========================================
+<ID> 39
+<JP> 「はい」
+<VN> "Dạ?"
+
+=--=========================================
+<ID> 40
+<JP> 　「あんぱん売って欲しいんだけど」
+<VN> "Tôi  muốn mua một cái anpan."
+
+=--=========================================
+<ID> 41
+<JP> 「みゅっ！？」
+<VN> "Myu?!"
+
+=--=========================================
+<ID> 42
+<JP> 　昔を懐かしむのは一旦止めて、本題に戻る。
+<VN> Tôi ngưng chìm đắm trong hoài niệm và đi thẳng vào trọng tâm vấn đề.
+
+=--=========================================
+<ID> 43
+<JP> 　「見たところ、売り子をしているんだよね？」
+<VN> "Em là người bán hàng đúng không?"
+
+=--=========================================
+<ID> 44
+<JP> 「そうだ、そうでした！」
+<VN> "Vâng, đúng là em ạ!"
+
+=--=========================================
+<ID> 45
+<JP> 　いま初めて見たかのように、手持ち看板を見上げている。
+<VN> Em liếc nhìn tấm biển của mình như thể đây là lần đầu em nhìn thấy nó.
+
+=--=========================================
+<ID> 46
+<JP> 「お客様、甘くてふかふかのあんぱんはいかがですかっ？」
+<VN> "Ngài muốn mua Anpan mềm mềm ngọt ngọt đó ư, thưa quý khách?"
+
+=--=========================================
+<ID> 47
+<JP> 　「うん、それをくださいな」
+<VN> "Ừ, tôi muốn mua."
+
+=--=========================================
+<ID> 48
+<JP> 　ちゃりんと３厘を渡す。
+<VN> Tôi trả 3 rin của mình kèm theo tiếng leng keng.
+
+=--=========================================
+<ID> 49
+<JP> 　灰桜の隣には小机があり、大きなバスケットと小さな金庫、それに硝子ケースに入った見本品が並べられている。見本のあんぱんは真ん中でふたつに割られていて、いかにあんがぎっしり詰まっているか誇らしげに誇示している。胡麻の量も申し分ない。
+<VN> Bên cạnh Haizakura, có một cái bàn cùng với một chiếc giỏ lớn hơn, một cái két nhỏ, và một tủ kính bên trong bày các mẫu bánh. Chiếc anpan mẫu được cắt một đường ở giữa, tự hào khoe ra độ kết dính của nhân bên trong; hạt mè ở trên cũng cân đối một cách hoàn hảo.
+
+=--=========================================
+<ID> 50
+<JP> 「みゅみゅみゅっ！？」
+<VN> "Myumyumyu?!"
+
+=--=========================================
+<ID> 51
+<JP> 　バスケットをのぞき込んでいた灰桜が、素っ頓狂な声を上げる。
+<VN> Haizakura ré lên bằng một thứ ngôn ngữ kỳ lạ khi em nhìn vào giỏ.
+
+=--=========================================
+<ID> 52
+<JP> 　「どうしたの？」
+<VN> "Sao thế?"
+
+=--=========================================
+<ID> 53
+<JP> 「お客様、申し訳ありませんっ。すでに売り切れてしまいました～」
+<VN> "Xin lỗi thưa quý khách, nhưng có vẻ như là em đã bán hết mất rồi~"
+
+=--=========================================
+<ID> 54
+<JP> 　「あ、そうなんだ」
+<VN> "Ồ… ra là vậy à."
+
+=--=========================================
+<ID> 55
+<JP> 　確かに改めて覗いてみると、バスケットの中は空っぽだ。
+<VN> Đúng là khi nhìn lại lần nữa thì chiếc giỏ đã rỗng từ đời nào rồi.
+
+=--=========================================
+<ID> 56
+<JP> 「はいっ。今日は朝から行列で、たくさんご用意したのですが……」
+<VN> "Vâng, sáng nay có khá nhiều người xếp hàng nên em đã chuẩn bị rất nhiều nhưng…"
+
+=--=========================================
+<ID> 57
+<JP> 　「じゃあ、この見本品をくださいな」
+<VN> "Vậy bán tôi cái mẫu kia nhé."
+
+=--=========================================
+<ID> 58
+<JP> 「えっ？」
+<VN> "Ơ?"
+
+=--=========================================
+<ID> 59
+<JP> 　まるっきり売り物がないなら仕方が無いが、目の前には最後の一個がある。
+<VN> Nếu như đã hết hàng thì đành chịu thôi, nhưng lại có một chiếc cuối cùng ở ngay kia cơ mà.
+
+=--=========================================
+<ID> 60
+<JP> 「こ、これは……」
+<VN> "Ưm, cái này…"
+
+=--=========================================
+<ID> 61
+<JP> 　「あれ、もしかして売っちゃダメなやつ？」
+<VN> "Ủa? Có khi nào là hàng không bán được hả?"
+
+=--=========================================
+<ID> 62
+<JP> 「そ、そういうわけではないのですがー……」
+<VN> "Dạ không, không phải như thế, nhưng mà…"
+
+=--=========================================
+<ID> 63
+<JP> 　「乾いていて、おいしくないとか？」
+<VN> "Nó bị khô hay không ăn được hay sao?"
+
+=--=========================================
+<ID> 64
+<JP> 「硝子ケースに入れているので、もっちりふわふわなのですがー……」
+<VN> "Không… em để trong tủ kính nên nó mềm lắm ạ…"
+
+=--=========================================
+<ID> 65
+<JP> 　「もしかして、落としちゃったとか？」
+<VN> "Hay em làm rơi nó rồi?"
+
+=--=========================================
+<ID> 66
+<JP> 「いえっ、お仕事終わりでもおいしく頂けるようしっかりがっちり保管していたのですがっ……！」
+<VN> "Không, em đặt nó ở chỗ này để đến khi xong việc nó vẫn còn ngon…!"
+
+=--=========================================
+<ID> 67
+<JP> 　「……自分で食べようと思っていたとか？」
+<VN> "…vậy cái này là để em ăn hả?"
+
+=--=========================================
+<ID> 68
+<JP> 「みゅっ！？」
+<VN> "Myu!!"
+
+=--=========================================
+<ID> 69
+<JP> 　ぴょん、と兎のように跳ねて、ずささと後ずさる。
+<VN> Cô bé nhảy bật lên như một chú thỏ và lùi ra khỏi tôi.
+
+=--=========================================
+<ID> 70
+<JP> 「……なぜそれを」
+<VN> "Sao ngài lại…?"
+
+=--=========================================
+<ID> 71
+<JP> 　「いや、まあ……」
+<VN> "À… ừ thì…"
+
+=--=========================================
+<ID> 72
+<JP> 　言われなくとも察する。
+<VN> Chẳng cần nói tôi cũng đoán được.
+
+=--=========================================
+<ID> 73
+<JP> 　「……ふぅ……」
+<VN> "…hà…"
+
+=--=========================================
+<ID> 74
+<JP> 　お腹をさすると、未練のように小さく鳴った。
+<VN> Tôi xoa xoa cái bụng đang réo lên vì tiếc nuối.
+
+=--=========================================
+<ID> 75
+<JP> 　「いいよ、そういうことなら。無いなら仕方が無いよね」
+<VN> "Thôi thì, nếu em còn mỗi một cái thì cũng đành chịu…"
+
+=--=========================================
+<ID> 76
+<JP> 「いけませんっ！」
+<VN> "Không được đâu ạ!!"
+
+=--=========================================
+<ID> 77
+<JP> 　ぎゅ、と裾を握ってくる。
+<VN> Em giữ chặt lấy gấu áo của tôi.
+
+=--=========================================
+<ID> 78
+<JP> 「わ、わたしの役目は、あんぱんを売って、お客様に喜んでもらうことですので……」
+<VN> "V-vai trò của em là bán anpan và làm cho khách hàng hài lòng…"
+
+=--=========================================
+<ID> 79
+<JP> 　声を張ろうとしているが、後半に向けてどんどん声量は小さくなっていた。
+<VN> Em cố gắng giữ tông giọng của mình, nhưng nó dần trở nên trùng xuống vào nửa cuối câu.
+
+=--=========================================
+<ID> 80
+<JP> 「お、お召し上がりくださいぃ……」
+<VN> "M-mời quý khách thưởng thức ạ…"
+
+=--=========================================
+<ID> 81
+<JP> 　ぱかりと硝子ケースを開けて、あんぱんを差し出してくれる。
+<VN> Em mở chiếc tủ kính ra và đưa cho tôi chiếc anpan.
+
+=--=========================================
+<ID> 82
+<JP> 　パン種と餡子が混ざり合った、なんともいい匂いが鼻先をくすぐる。
+<VN> Hương men và đậu đỏ tạo nên một thứ mùi lôi cuốn và trêu ngươi mũi tôi.
+
+=--=========================================
+<ID> 83
+<JP> 　「じゃあ、遠慮無くいただくよ」
+<VN> "Vậy, tôi không khách sáo nhé."
+
+=--=========================================
+<ID> 84
+<JP> 　ふたつに割れたあんぱんを手に取ると、ほのかにあたたかった。
+<VN> Khi tôi nhấc chiếc anpan đã được xẻ đôi lên, nó vẫn còn ấm.
+
+=--=========================================
+<ID> 85
+<JP> 「………ぅぅ…」
+<VN> "……ưưư…"
+
+=--=========================================
+<ID> 86
+<JP> 　「あのさ」
+<VN> "Này."
+
+=--=========================================
+<ID> 87
+<JP> 「はいぃ……？」
+<VN> "Dạạ…?"
+
+=--=========================================
+<ID> 88
+<JP> 　「よかったらさ、ふたりで半分こなん」
+<VN> "Nếu em muốn thì ta chia đôi nhé?"
+
+=--=========================================
+<ID> 89
+<JP> 「いいんですか！！！！！」
+<VN> "Được không ạ?!!!"
+
+=--=========================================
+<ID> 90
+<JP> 　灰桜は食い入るように言葉を被せてきた。
+<VN> Haizakura nhìn chòng chọc như muốn ăn tươi nuốt sống tôi vậy.
+
+=--=========================================
+<ID> 91
+<JP> 　「はい、どうぞ」
+<VN> "Tất nhiên rồi, mời em."
+
+=--=========================================
+<ID> 92
+<JP> 　あんぱんの片割れを灰桜に手渡す。
+<VN> Tôi đưa cho em một nửa chiếc anpan.
+
+=--=========================================
+<ID> 93
+<JP> 「わぁ……」
+<VN> "Oaaa~"
+
+=--=========================================
+<ID> 94
+<JP> 　うるうると涙を滲ませんばかりに感動している。
+<VN> Em nom xúc động tới mức không thể cầm lòng được…
+
+=--=========================================
+<ID> 95
+<JP> 「ありがとうございます！」
+<VN> "Cảm ơn ngài rất nhiều!!"
+
+=--=========================================
+<ID> 96
+<JP> 　ぽっと、水蒸気が背中の煙突から吹き上げていた。
+<VN> Hơi nước bốc ra từ ống khói sau lưng em.
+
+=--=========================================
+<ID> 97
+<JP> 　人はみんな、泣きながら生まれてくる。
+<VN> Làm người ai cũng chào đời bằng tiếng khóc.
+
+=--=========================================
+<ID> 98
+<JP> 　では、彼女たち人形はどんな表情で生まれてくるのだろうか？
+<VN> Vậy, những cô gái Hình nhân được sinh ra ở trạng thái gì? 
+
+=--=========================================
+<ID> 99
+<JP> 　それはもしかしたら、この世界への希望に満ちた、眩い笑顔なのかもしれない。
+<VN> Có lẽ là một nụ cười rạng rỡ, đem lại hy vọng cho thế giới này.
+
+<br /><sup>[1]</sup>Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
+
+=--=========================================
+<ID> 100
+<JP> 次のエピソード＞＞
+<VN> Chương kế tiếp >>
+
+=--=========================================
+<ID> 101
+<JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：和氣あず未（灰桜）
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Waki Azumi (Haizakura)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
+
+=--=========================================
+<ID> 102
+<JP> 目次へ戻る
+<VN> Trở về mục lục
+
+=--=========================================
 
 =--=========================================
 <ID> 102
