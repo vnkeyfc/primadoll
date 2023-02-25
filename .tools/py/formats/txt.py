@@ -19,7 +19,7 @@ def write_txt(out_path, rows):
         fi.write(U'<ID> {}\n'.format(line_id).encode('utf8'))
         fi.write(U'<JP> {}\n'.format(jp_text).encode('utf8'))
         fi.write(U'<VN> {}\n\n'.format(vn_text).encode('utf8'))
-        fi.write('{}========================================\n'.format(TXT_EX_END_FLAG))
+        fi.write(U'{}========================================\n'.format(TXT_EX_END_FLAG).encode('utf8'))
 
     fi.close()
     pass
@@ -118,7 +118,7 @@ def txt_get_text_data(fi, data_start_pos, clean_line=True):
 
 
 def load_txt_trans_file(txt_path, clean_line=True):
-    fi = StringIO(open(txt_path, 'rb').read().replace('\r\n', '\n').decode('utf8'))
+    fi = StringIO(open(txt_path, 'rb').read().replace(b'\r\n', b'\n').decode('utf8'))
     rows = []
 
     while True:

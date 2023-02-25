@@ -1,4 +1,3 @@
-typing~=3.10.0.0
+typing
 beautifulsoup4~=4.9.3
 openpyxl~=2.6.4
-flask~=1.1.4

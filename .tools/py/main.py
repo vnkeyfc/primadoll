@@ -9,6 +9,7 @@ from shared.common import *
 from formats.txt import write_txt, load_txt_trans_file
 from formats.xlsx import write_xlsx, load_xlsx_trans_file
 from formats.m_csv import write_csv
+from shared.port import *
 
 CSV_FORMAT = 0
 TXT_FORMAT = 1
@@ -122,9 +123,9 @@ def dump_body_text(body_elem):
 
     # replace text elem with trans tag
     for idx, strings in string_elem_idxs:
-        trans_tag = BeautifulSoup("<{} idx=\"{}\">{}</{}>"
+        trans_tag = BeautifulSoup(U"<{} idx=\"{}\">{}</{}>"
                                   .format(TRANS_TAG, idx, U''
-                                          .join([unicode(s) for s in strings]).encode('utf8'), TRANS_TAG),
+                                          .join([unicode(s) for s in strings]), TRANS_TAG),
                                   'html.parser')
 
         while len(strings) > 1:
@@ -200,7 +201,7 @@ def html_to_text(html_folder, out_folder, out_format=XLSX_FORMAT):
         print(U"\t\t-> '{}'".format(out_path))
         print(U"\t\t-> '{}'".format(html_out_path))
 
-        open(html_out_path, 'wb').write(str(dom))
+        open(html_out_path, 'wb').write(str(dom).encode('utf8'))
 
     pass
 
@@ -287,7 +288,7 @@ def text_to_html(trans_folder, html_dump_folder, html_out_folder, in_format=XLSX
                     new_elem = BeautifulSoup(trans_text, features="html.parser")
                     elem.replace_with(new_elem)
 
-        open(html_out_path, 'wb').write(str(dom))
+        open(html_out_path, 'wb').write(str(dom).encode('utf8'))
 
     pass
 
