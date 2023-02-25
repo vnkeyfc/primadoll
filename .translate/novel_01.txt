@@ -95,7 +95,7 @@
 =--=========================================
 <ID> 13
 <JP> 　しばらくあちこちで日雇いの仕事をこなしてきたが、ここ最近雇い口は少なくなる一方。僅かばかりの退職金も底をつきかけており、懐を探るとなんとたったの３厘。今朝から口に入れたのは湯冷ましだけで、お腹は鳴りっぱなしだ。
-<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<sup>[1]</sup> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
+<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<a href="#_1"<sup>[1]</sup></a> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
 
 =--=========================================
 <ID> 14
@@ -527,7 +527,7 @@
 <JP> 　それはもしかしたら、この世界への希望に満ちた、眩い笑顔なのかもしれない。
 <VN> Có lẽ là một nụ cười rạng rỡ, đem lại hy vọng cho thế giới này.
 
-<br /><sup>[1]</sup>Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
+<br /><span id="_1"><sup>[1]</sup></span>Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
 
 =--=========================================
 <ID> 100
