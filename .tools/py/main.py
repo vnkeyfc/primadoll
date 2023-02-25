@@ -2,6 +2,7 @@
 import glob
 import sys
 import argparse
+import traceback
 
 from bs4 import BeautifulSoup, Tag, NavigableString, PageElement, Comment
 from typing import List
@@ -315,10 +316,19 @@ def main():
 
     if args.h2t:
         argv = args.h2t
-        html_to_text(argv[0], argv[1], args.f)
+        try:
+            html_to_text(argv[0], argv[1], args.f)
+        except Exception:
+            print('[ERROR] Convert html to txt error!')
+            traceback.print_exc()
     elif args.t2h:
         argv = args.t2h
-        text_to_html(argv[0], argv[1], argv[2], args.f)
+        try:
+            text_to_html(argv[0], argv[1], argv[2], args.f)
+        except Exception:
+            print('[ERROR] Convert txt to html error!')
+            traceback.print_exc()
+
 
     pass
 
