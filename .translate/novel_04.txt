@@ -317,7 +317,7 @@
 <JP> 　またぐにぐにと、お餅みたいにほっぺたを揉まれていた。
 <VN>  Một lần nữa, bờ má em lại bị nắn bóp như bánh mochi.
 <br/><br/>
-<span style="font-size:12;"><sup>>a id="_1" href="#_1">[1]</a></sup>Chano là rút gọn của chat noir, nghĩa là "mèo đen" trong tiếng Pháp</span>
+<span style="font-size:12;"><sup><a id="_1" href="#_1">[1]</a></sup>Chano là rút gọn của chat noir, nghĩa là "mèo đen" trong tiếng Pháp</span>
 
 =--=========================================
 <ID> 58
