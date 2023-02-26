@@ -1,380 +1,380 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 01-07　戦闘人形であります（１）
-<VN> 
+<VN> 01-07 Tôi là Hình nhân Chiến đấu (1)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 　石鹸で入念に手を洗うと、真新しいシャツとエプロンに袖を通す。三角巾で髪を抑えて、姿見の前でチェックする。なかなか様になっている。コック帽でもあればなお良かったけれど、それは贅沢だろう。
-<VN> 
+<VN>  Sau khi cẩn thận rửa sạch tay bằng xà phòng, tôi khoác lên mình chiếc áo sơ mi và tạp dề mới tinh. Tôi búi tóc gọn gàng bên dưới chiếc mũ, rồi nhìn tổng thể bản thân trước một tấm gương lớn. Cảm giác cũng ổn phết. Phải chi có cái mũ đầu bếp cao cao trăng trắng nữa thì hay, cơ mà thế nghe chừng xa xỉ quá.
 
 =--=========================================
 <ID> 6
 <JP> 「準備、出来ましたか」
-<VN> 
+<VN> “Ngài đã chuẩn bị xong chưa?”
 
 =--=========================================
 <ID> 7
 <JP> 　上機嫌でいると、背後から声をかけられた。
-<VN> 
+<VN>  Trong lúc tâm trạng còn đang phơi phới, chợt có ai đó gọi tôi từ đằng sau.
 
 =--=========================================
 <ID> 8
 <JP> 　「あれ……？」
-<VN> 
+<VN>  “Ủa?”
 
 =--=========================================
 <ID> 9
 <JP> 　ちらりと後ろを見つめるが、誰の姿も見えない。おかしい、いま確かに聞こえたのに……。
-<VN> 
+<VN>  Nhưng khi tôi quay đầu lại thì thấy chẳng có ai cả. Lạ thật, tôi dám chắc vừa nãy có tiếng gọi mình mà…
 
 =--=========================================
 <ID> 10
 <JP> 「下であります」
-<VN> 
+<VN> “Ở dưới này.”
 
 =--=========================================
 <ID> 11
 <JP> 　「わっ」
-<VN> 
+<VN>  “Oái!”
 
 =--=========================================
 <ID> 12
 <JP> 　ほとんど真下から声が響いて、思わずぱっと後じさる。
-<VN> 
+<VN>  Giọng nói thốt nhiên phát ra từ phía dưới, khiến tôi bất giác lùi lại.
 
 =--=========================================
 <ID> 13
 <JP> 　そこには子供のように小さな人形がいた。
-<VN> 
+<VN>  Ở đó là một Hình nhân cỡ nhỏ dạng trẻ em.
 
 =--=========================================
 <ID> 14
 <JP> 　檸檬のように鮮やかな黄色の着物。大ぶりの黒いリボンが揺れている。じっとボクを見る大きな瞳。小さな口をじっと結んでおり、表情は読み取れない。
-<VN> 
+<VN>  Khoác lên mình bộ kimono màu vàng chanh sặc sỡ với chiếc ruy băng đen rung rinh sau đầu, cô bé nhìn tôi bằng ánh mắt to tròn, khuôn miệng mím chặt và biểu cảm khó mà đoán định.
 
 =--=========================================
 <ID> 15
 <JP> 「月下であります」
-<VN> 
+<VN> “Tôi tên Gekka.”
 
 =--=========================================
 <ID> 16
 <JP> 　まるで軍人さんのようなぶっきらぼうの口調だ。
-<VN> 
+<VN>  Ngữ điệu cộc lốc, như một quân nhân.
 
 =--=========================================
 <ID> 17
 <JP> 　そういえば、鴉羽さんはいま３体の人形が働いていると言っていた。灰桜、鴉羽、そして月下。彼女で全員ということだろう。
-<VN> 
+<VN>  Phải rồi, Karasuba-san có bảo là trong quán hiện tại chỉ có ba Hình nhân làm việc. Haizakura, Karasuba, giờ thêm Gekka nữa là đủ.
 
 =--=========================================
 <ID> 18
 <JP> 　「案内してくれるんだね、ありがとう……」
-<VN> 
+<VN>  “Em tới hướng dẫn tôi nhỉ, cảm ơn nhé…”
 
 =--=========================================
 <ID> 19
 <JP> 　小さく頷くと、スタスタと歩いて行く。
-<VN> 
+<VN>  Cô bé khẽ gật đầu, rồi thoăn thoắt bước đi.
 
 =--=========================================
 <ID> 20
 <JP> 　背中の背嚢はやや大ぶりで、羽根のような意匠が取り付けられていた。厨房入り口に突っかかりそうだったが、そこは心得ているらしく、くるりと体を横にして通り抜けている。
-<VN> 
+<VN>  Chiếc cặp sau lưng cô bé có hơi quá khổ, lại còn được gắn thêm thứ gì đó như đôi cánh. Chừng như biết chúng sẽ vướng khi đi qua cửa gian bếp mà cô bé xoay người một chút trước khi bước vào.
 
 =--=========================================
 <ID> 21
 <JP> 　後に付いていくと、小さいながらも清潔な厨房が現れる。
-<VN> 
+<VN>  Theo sau cô bé, tôi được dẫn tới một căn bếp khiêm tốn mà sạch sẽ.
 
 =--=========================================
 <ID> 22
 <JP> 　中央には調理台。壁面には多種多様なフライパンをはじめ調理器具が吊されている。舶来ものだろうガスレンジに、なんと湯沸器まで備え付けている。
-<VN> 
+<VN>  Đặt giữa phòng là một chiếc bàn để nấu ăn, cùng với đó là hàng loạt mẫu chảo rán và dụng cụ làm bếp khác được treo trên tường. Chiếc bếp ga hẳn là hàng nhập khẩu kia, bất ngờ thay, còn được trang bị cả máy đun nước.
 
 =--=========================================
 <ID> 23
 <JP> 　「メニューはどんな感じなのかな？」
-<VN> 
+<VN>  “Cho hỏi thực đơn quán mình như thế nào vậy?”
 
 =--=========================================
 <ID> 24
 <JP> 「こちらをご覧ください」
-<VN> 
+<VN> “Vui lòng xem qua cái này.”
 
 =--=========================================
 <ID> 25
 <JP> 　調理台の引き出しを開けると、月下は一冊のノートを取り出した。
-<VN> 
+<VN>  Mở ngăn kéo bàn bếp, Gekka lấy ra một quyển vở.
 
 =--=========================================
 <ID> 26
 <JP> 「レシピ帳であります」
-<VN> 
+<VN> “Là quyển ghi công thức đấy.”
 
 =--=========================================
 <ID> 27
 <JP> 　「ありがとう。わ、すごく細かい……」
-<VN> 
+<VN>  “Cảm ơn… chà, chi tiết thật…”
 
 =--=========================================
 <ID> 28
 <JP> 　ページをめくると、万年筆でレシピが書き付けてある。微に入り細を穿つような、丁寧な説明文だ。分かりにくいところには簡単なイラストまで添えられている。これを書いた人はよほど筆まめなのだろう。
-<VN> 
+<VN>  Lật qua từng trang vở, tôi nhận ra những dòng công thức này được viết bằng bút máy, rất chi tiết và cẩn thận. Đến những đoạn khó hiểu còn được thêm hình minh họa vào. Ai viết ra được những dòng này hẳn phải có tài viết lách đáng gờm.
 
 =--=========================================
 <ID> 29
 <JP> 「以前の厨房係が残していったノートであります」
-<VN> 
+<VN> “Quyển vở này là của nhân viên nhà bếp ngày trước để lại.”
 
 =--=========================================
 <ID> 30
 <JP> 　「これだけあるとバッチリだよ。腕の振るいがいがあるなぁ」
-<VN> 
-
+<VN>  “Thế này thôi đã là tốt quá rồi. Đáng để mình trổ tài lắm đây.”
+ 
 =--=========================================
 <ID> 31
 <JP> 「それほどお客さんが来ればいいのですが」
-<VN> 
+<VN> “Giá mà có đủ khách để ngài trổ tài.”
 
 =--=========================================
 <ID> 32
 <JP> 　「というと……それほどでもないってこと？」
-<VN> 
+<VN>  “Nói vậy là… mình ít khách đến vậy cơ á?”
 
 =--=========================================
 <ID> 33
 <JP> 「黒猫亭は青息吐息でありますので」
-<VN> 
+<VN> “Quán Mèo Đen đang khủng hoảng mà.”
 
 =--=========================================
 <ID> 34
 <JP> 　厨房の小窓から、フロアを見つめている。
-<VN> 
+<VN>  Từ chiếc cửa sổ nhỏ trong gian bếp, tôi quan sát một lượt sảnh quán.
 
 =--=========================================
 <ID> 35
 <JP> 　いまは開店前なのでもちろんがらんとしているが、とても席が埋まらないということだろうか。考えてみれば、黒猫亭に来るのは２回目。営業中の様子は確認していない。
-<VN> 
+<VN>  Giờ vẫn chưa đến lúc mở cửa nên tất nhiên quán sẽ vắng rồi, nhưng ý cô bé hẳn là không thể lấp đầy hết ghế. Nghĩ lại thì, tôi mới đến quán Mèo Đen lần này là lần thứ hai, còn chưa biết lúc kinh doanh thì quán sẽ trông như thế nào nữa.
 
 =--=========================================
 <ID> 36
 <JP> 　「雰囲気もいいし、人形が接客してくれる店なんてないから、流行りそうなものだけど」
-<VN> 
+<VN>  “Tôi cứ tưởng chỉ mỗi quán mình là có Hình nhân phục vụ, rồi là bầu không khí tốt thế này thì sẽ ăn nên làm ra lắm cơ.”
 
 =--=========================================
 <ID> 37
 <JP> 「人形に好意的な人ばかりではありませんので」
-<VN> 
+<VN> “Bởi đâu phải ai cũng có hảo ý với Hình nhân.”
 
 =--=========================================
 <ID> 38
 <JP> 　「出征していた人はそうかもね」
-<VN> 
+<VN>  “Với những Hình nhân từng ra trận thì đúng là vậy.”
 
 =--=========================================
 <ID> 39
 <JP> 　人形を見ると、辛い記憶を思い出すという人は多いだろう。
-<VN> 
+<VN>  Có rất nhiều người sẽ bị gợi lại những ký ức đau thương khi tiếp xúc với Hình nhân.
 
 =--=========================================
 <ID> 40
 <JP> 　「でも、月下たちは戦闘人形じゃないから、それは偏見だよね」
-<VN> 
+<VN>  “Nhưng Hình nhân quán mình đâu phải loại chiến đấu đâu, thế cũng chỉ là thành kiến thôi nhỉ.”
 
 =--=========================================
 <ID> 41
 <JP> 「月下は戦闘人形であります」
-<VN> 
+<VN> “Gekka là Hình nhân Chiến đấu đấy.”
 
 =--=========================================
 <ID> 42
 <JP> 　「え？」
-<VN> 
+<VN>  “Hả?”
 
 =--=========================================
 <ID> 43
 <JP> 　さも当然と言うので、改めてその姿を見る。
-<VN> 
+<VN>  Thấy cô bé đột nhiên nói vậy, tôi thử quan sát lại một lần nữa.
 
 =--=========================================
 <ID> 44
 <JP> 　小さい。初等科３年生ぐらいだろうか。確かに落ち着きはあるけれど、戦闘人形のような威圧感はとても感じられない。
-<VN> 
+<VN>  Dáng người nhỏ, chắc tầm trẻ con năm ba tiểu học là cùng. Đồng ý là trông cô bé rất điềm tĩnh, nhưng lại không tạo cho tôi cảm giác áp lực như những loại chiến đấu khác.
 
 =--=========================================
 <ID> 45
 <JP> 「なにか？」
-<VN> 
+<VN> “Có chuyện gì vậy?”
 
 =--=========================================
 <ID> 46
 <JP> 　「ああ、いや……そんな風に見えないから」
-<VN> 
+<VN>  “À không… tại tôi thấy em không giống vậy lắm…”
 
 =--=========================================
 <ID> 47
 <JP> 　これで、なにか特技があるのかもしれない。
-<VN> 
+<VN>  Có khi nào cô bé có kỹ năng đặc biệt gì đó không?
 
 =--=========================================
 <ID> 48
 <JP> 　「目から電撃が出るとか」
-<VN> 
+<VN>  “Mắt em bắn ra điện được à?”
 
 =--=========================================
 <ID> 49
 <JP> 「出ないであります」
-<VN> 
+<VN> “Bắn sao được.”
 
 =--=========================================
 <ID> 50
 <JP> 　「口から光線を放つとか」
-<VN> 
+<VN>  “Hay bắn ra tia sáng từ miệng?”
 
 =--=========================================
 <ID> 51
 <JP> 「出ないであります」
-<VN> 
+<VN> “Cũng không được nốt.”
 
 =--=========================================
 <ID> 52
 <JP> 「出ないであります」」
-<VN> 
+<VN> “Cũng không được nốt.”
 
 =--=========================================
 <ID> 53
 <JP> 　「あ、背中の羽根が飛び出てさ、こうブーメランみたいに敵を切り裂いて……」
-<VN> 
+<VN>  “À, hay đôi cánh kia có thể gỡ ra ném, xẻ đôi kẻ địch như boomerang…”
 
 =--=========================================
 <ID> 54
 <JP> 「出ないであります」
-<VN> 
+<VN> “Lại càng không được.”
 
 =--=========================================
 <ID> 55
 <JP> 　問答していると、たたたた……と跳ねるような足音が聞こえてきた。
-<VN> 
+<VN>  Trong khi chúng tôi đang đối đáp như thế, chợt từ đâu phát ra tiếng bước chân như đang nhảy.
 
 =--=========================================
 <ID> 56
 <JP> 灰桜「月下さん、うささん、大変です！」
-<VN> 
+<VN> Haizakura: “Gekka-san, Usa-san! Có chuyện rồi ạ!”
 
 =--=========================================
 <ID> 57
 <JP> 　髪を揺らしてやってくるのは灰桜だ。
-<VN> 
+<VN>  Mái tóc lắc lư, Haizakura chạy tới chỗ chúng tôi.
 
 =--=========================================
 <ID> 58
 <JP> 　「なにか問題が？」
-<VN> 
+<VN>  “Có chuyện gì vậy?”
 
 =--=========================================
 <ID> 59
 <JP> 灰桜「ごみ捨て場が荒らされていますっ！」
-<VN> 
+<VN> Haizakura: “Chỗ vứt rác bị đào bới lên rồi ạ!”
 
 =--=========================================
 <ID> 60
 <JP> 　「え……」
-<VN> 
+<VN>  “Hả?”
 
 =--=========================================
 <ID> 61
 <JP> 　もしかして……不審者？
-<VN> 
+<VN>  Có khi nào… là kẻ gian?
 
 =--=========================================
 <ID> 62
 <JP> 　ボクたちだけじゃ対応できないかもしれない。
-<VN> 
+<VN>  Nếu vậy thì không khéo chỉ mình chúng tôi là chưa đủ đối phó.
 
 =--=========================================
 <ID> 63
 <JP> 　「いや、でも……」
-<VN> 
+<VN>  “À không…”
 
 =--=========================================
 <ID> 64
 <JP> 　月下をちらりと見つめる。
-<VN> 
+<VN>  Tôi liếc xuống Gekka.
 
 =--=========================================
 <ID> 65
 <JP> 　戦闘人形の月下なら、もしかして……？
-<VN> 
+<VN>  Nếu Gekka là Hình nhân Chiến đấu thật, thì có lẽ…
 
 =--=========================================
 <ID> 66
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 67
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 68
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：富田美憂（月下）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Tomita Miyu (Gekka)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 69
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================

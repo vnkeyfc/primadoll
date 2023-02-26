@@ -1,345 +1,346 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 01-05　喫茶・黒猫亭（２）
-<VN> 
+<VN> 01-05 Trà quán Mèo Đen (2)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 　開店前の黒猫亭は広々としていて、静寂が漂っている。
-<VN> 
+<VN>  Trước giờ mở cửa, Trà quán Mèo Đen mang một cảm thức mênh mông và tĩnh lặng.
 
 =--=========================================
 <ID> 6
 <JP> 　広々としたカウンターと、規則正しく並べられたテーブル。
-<VN> 
+<VN>  Cùng với chiếc quầy rộng rãi là bàn ghế được sắp xếp ngay ngắn.
 
 =--=========================================
 <ID> 7
 <JP> 　天板はぴかぴかに磨き上げられており、壁に掲げられたフィラメント電球の明かりを反射している。
-<VN> 
+<VN>  Mặt bàn đều được lau dọn và đánh bóng đến độ phản chiếu được ánh sáng phát ra từ những bóng đèn dây tóc treo trên tường.
 
 =--=========================================
 <ID> 8
 <JP> 　奥には可愛らしいアップライトピアノが一台。
-<VN> 
+<VN>  Ở sâu bên trong còn có một chiếc đàn piano dạng đứng khá dễ thương.
 
 =--=========================================
 <ID> 9
 <JP> 　ベルベットのカバーから、ちらりとチェリーブラウンの鏡面が覗いている。
-<VN> 
+<VN>  Dưới tấm phủ nhung lấp ló lớp gỗ màu nâu anh đào bóng loáng.
 
 =--=========================================
 <ID> 10
 <JP> 「おまちどおさま」
-<VN> 
+<VN> “Xin lỗi vì đã để ngài phải chờ.”
 
 =--=========================================
 <ID> 11
 <JP> 　カップとソーサーが、かちりと鳴る。
-<VN> 
+<VN> Chiếc cốc và đĩa lót chạm vào nhau, tạo thành một tiếng <p style="font-style: italic;">cạch</p>.
 
 =--=========================================
 <ID> 12
 <JP> 　鴉羽さんが淹れ立ての紅茶を、ポットから注いでくれた。
-<VN> 
+<VN>  Karasuba-san nghiêng ấm hồng trà vừa pha và rót cho tôi một cốc.
 
 =--=========================================
 <ID> 13
 <JP> 　ふわりと、林檎のような爽やかな香りが鼻をくすぐる。
-<VN> 
+<VN>  Thứ mùi dễ chịu, sảng khoái, thoang thoảng hương táo này thật sự kích thích mũi tôi.
 
 =--=========================================
 <ID> 14
 <JP> 「すみません、ご馳走になっちゃって……」
-<VN> 
+<VN> “Xin lỗi nhé, để bạn phải chiêu đãi thế này…”
 
 =--=========================================
 <ID> 15
 <JP> 「いいの、あの子のお手伝いしてくれたんでしょ？」
-<VN> 
+<VN> “Không sao đâu. Ngài đã giúp con bé rất nhiều mà.”
 
 =--=========================================
 <ID> 16
 <JP> 　ちらりと厨房のほうに視線を向ける。
-<VN> 
+<VN>  Tôi liếc nhìn về phía gian bếp.
 
 =--=========================================
 <ID> 17
 <JP> 　入り口からわずかに灰桜の姿が覗いていて、ブレッドナイフを手に、せっせと食パンを切り分けていた。
-<VN> 
+<VN>  Từ phía cửa vào tôi có thể thoáng thấy hình bóng Haizakura đang cần mẫn thái lát bánh mì với con dao trong tay.
 
 =--=========================================
 <ID> 18
 <JP> 「それどころか、あんぱん半分貰ったとか」
-<VN> 
+<VN> “Chưa kể ngài còn nhường cho em ấy nửa cái anpan nữa mà.”
 
 =--=========================================
 <ID> 19
 <JP> 「ははは……聞きました？」
-<VN> 
+<VN> “Hahaha… bạn nghe rồi à?”
 
 =--=========================================
 <ID> 20
 <JP> 「灰桜、甘い物には目が無いから」
-<VN> 
+<VN> “Tại vì Haizakura mê đồ ngọt lắm ạ.”
 
 =--=========================================
 <ID> 21
 <JP> 「ボクと一緒です」
-<VN> 
+<VN> “Vậy là giống mình rồi.”
 
 =--=========================================
 <ID> 22
 <JP> 　ティースプーンにきっちり３杯の砂糖を注いで、おいしい紅茶を味わった。
-<VN> 
+<VN>  Tôi cho đúng ba thìa cà phê đường vào cốc hồng trà, làm nó dậy lên một mùi hương khó cưỡng.
+
 
 =--=========================================
 <ID> 23
 <JP> 「あ、いま音楽かけるわ」
-<VN> 
+<VN> “À, để em đi bật nhạc.”
 
 =--=========================================
 <ID> 24
 <JP> 「そんな、お構いなく」
-<VN> 
+<VN> “Ấy, không cần để ý mình quá đâu.”
 
 =--=========================================
 <ID> 25
 <JP> 「ダメよ、お客様だもの」
-<VN> 
+<VN> “Sao lại thế, ngài cũng là khách hàng kia mà.”
 
 =--=========================================
 <ID> 26
 <JP> 　くすりと笑って、エプロンのリボンを揺らす。
-<VN> 
+<VN>  Cô ấy cười khúc khích, chiếc ruy băng trên tạp dề kia khẽ đung đưa.
 
 =--=========================================
 <ID> 27
 <JP> 　アップライトピアノの前を通り過ぎて、その奥にある蓄音機の前に立つ。レコードに針を落とすと、ややあってから、ちょっともの哀しいような、ゆったりしたフルートの音色が響いていた。
-<VN> 
+<VN>  Cô bước qua chiếc piano đứng và tiến tới chiếc máy hát đĩa đằng sau nó. Đoạn, cô nhẹ nhàng đặt kim lên đĩa, và rồi chẳng mấy chốc, một tiếng sáo du dương pha chút u sầu vang lên.
 
 =--=========================================
 <ID> 28
 <JP> 「……このピアノ、誰か弾くんですか？」
-<VN> 
+<VN> “... Chiếc piano này là ai chơi vậy?”
 
 =--=========================================
 <ID> 29
 <JP> 「ああ、これは……オーナーがこの建物を借りたときにね、大家さんが譲ってくれたらしいの。お嬢様が昔使っていたらしいわ」
-<VN> 
+<VN> “À, chiếc piano này chúng em nhận được từ người sở hữu tòa nhà khi chủ nhân tới thuê. Nghe nói quý tiểu thư của họ ngày xưa hay sử dụng cây đàn này lắm.”
 
 =--=========================================
 <ID> 30
 <JP> 「生の伴奏で、歌でも歌うとさぞかし楽しいでしょうねえ」
-<VN> 
+<VN> “Giá mà được nghe hát với đệm đàn sống thì hay phải biết nhỉ.”
 
 =--=========================================
 <ID> 31
 <JP> 「まあ……弾けなくもないけれど」
-<VN> 
+<VN> “Chuyện đó… cũng không phải là không được…”
 
 =--=========================================
 <ID> 32
 <JP> 　そうやって水を向けるが、鴉羽はなんとも微妙な表情。
-<VN> 
+<VN>  Khi cuộc trò chuyện rẽ sang hướng đó, biểu cảm của Karasuba trông sao thật khó diễn tả.
 
 =--=========================================
 <ID> 33
 <JP> 　じっとピアノを見つめて、懐かしむような、哀しむような、そんな顔を浮かべている。
-<VN> 
+<VN>  Cô nhìn đăm đắm vào chiếc piano, nét mặt thoáng lộ vẻ sầu bi và hoài niệm.
 
 =--=========================================
 <ID> 34
 <JP> 「いまは黒猫亭の人形も３体しかいないから。あまりそんな余裕もないのよ」
-<VN> 
+<VN> “Hiện tại Hình nhân của quán Mèo Đen chỉ có ba người thôi. Làm gì còn thời gian để làm chuyện này chứ.”
 
 =--=========================================
 <ID> 35
 <JP> 「いまは？」
-<VN> 
+<VN> “Hiện tại?”
 
 =--=========================================
 <ID> 36
 <JP> 「色々と理由があってね、いま人手が足りないの。特に厨房。募集の貼り紙もしているんだけど……」
-<VN> 
+<VN> “Vì nhiều lý do mà bây giờ chúng em đang bị thiếu nhân lực, đặc biệt là trong nhà bếp. Em thậm chí còn dán giấy báo tuyển dụng rồi vậy mà…”
 
 =--=========================================
 <ID> 37
 <JP> 　そういえば店内に入るとき、視界の端に貼り紙が写ったような気がする。あれが厨房係募集の求人だったのか。
-<VN> 
+<VN>  Nhớ lại lúc vào quán, tôi có thoáng thấy tờ giấy gì đó dán lên tường. Đấy là tờ tuyển dụng nhân viên nhà bếp à?
 
 =--=========================================
 <ID> 38
 <JP> 灰桜「うささーーーーーん！」
-<VN> 
+<VN> Haizakura: “Usa-sa~~~~~~n!”
 
 =--=========================================
 <ID> 39
 <JP> 　ぴょこぴょこと厨房から、灰桜が跳ね出てくる。
-<VN> 
+<VN>  Haizakura phi ra từ phía nhà bếp.
 
 =--=========================================
 <ID> 40
 <JP> 灰桜「サンドイッチも召し上がってくださいっ」
-<VN> 
+<VN> Haizakura: “Xin hãy dùng sandwich nữa ạ!”
 
 =--=========================================
 <ID> 41
 <JP> 「いやいや、そこまでは頼んでないよ」
-<VN> 
+<VN> “Thôi thôi, tới mức này thì tôi không nhận đâu!”
 
 =--=========================================
 <ID> 42
 <JP> 「試食品よ、食べていって」
-<VN> 
+<VN> “Chỉ là hàng ăn thử thôi, ngài cứ tự nhiên.”
 
 =--=========================================
 <ID> 43
 <JP> 　ハムとチーズが挟まれたシンプルなサンドイッチが盛り付けられている。
-<VN> 
+<VN>  Trước mặt tôi là một chiếc sandwich kẹp giăm bông và phô mai cơ bản.
 
 =--=========================================
 <ID> 44
 <JP> 　その隣では、にこにこと笑う灰桜。
-<VN> 
+<VN>  Bên cạnh đó còn có một Haizakura đang cười rất tươi.
 
 =--=========================================
 <ID> 45
 <JP> 「じゃあ……いただきます」
-<VN> 
+<VN> “Vậy thì, tôi xin phép nhé!”
 
 =--=========================================
 <ID> 46
 <JP> 　小さく口を開けて、ぱくりと頬張る。
-<VN> 
+<VN>  Tôi mở miệng cắn một miếng thật lớn.
 
 =--=========================================
 <ID> 47
 <JP> 「………っ」
-<VN> 
+<VN> “...!”
 
 =--=========================================
 <ID> 48
 <JP> 灰桜「みゅっ、泣いてますっ」
-<VN> 
+<VN> Haizakura: “Myu! Ngài đang khóc đó sao?!”
 
 =--=========================================
 <ID> 49
 <JP> 「ごめんね、辛子が利いててて」
-<VN> 
+<VN> “Xin lỗi, tại tôi hơi nhạy với mù tạt thôi…”
 
 =--=========================================
 <ID> 50
 <JP> 　甘いものには目が無いが、ツンと来る辛さはすこし苦手だ。
-<VN> 
+<VN>  Tôi rất mê đồ ngọt, nhưng lại cực yếu với đồ cay, nhất là cái cay xộc lên mũi như thế này.
 
 =--=========================================
 <ID> 51
 <JP> 　でも涙がにじむのは、それだけが理由じゃ無い。
-<VN> 
+<VN>  Nhưng tôi không khóc chỉ vì lý do đó.
 
 =--=========================================
 <ID> 52
 <JP> 「でも、おいしいよ。とっても」
-<VN> 
+<VN> “Món này ngon lắm. Tôi nói thật đấy.”
 
 =--=========================================
 <ID> 53
 <JP> 　華やかな紅茶の香りと、ちょっぴり香辛料の利いた料理。
-<VN> 
+<VN>  Một mùi hương hồng trà quyến rũ, cùng với một bữa ăn nêm chút vị cay.
 
 =--=========================================
 <ID> 54
 <JP> 　穏やかな音楽と、胸に沈み込むような笑顔。
-<VN> 
+<VN>  Âm nhạc du dương, cùng những nụ cười ngấm sâu vào trong lồng ngực.
 
 =--=========================================
 <ID> 55
 <JP> 　この空間が、なんとも居心地がよかった。
-<VN> 
+<VN>  Không gian này, quả tình vô cùng thoải mái.
 
 =--=========================================
 <ID> 56
 <JP> 「あの、鴉羽さん」
-<VN> 
+<VN> “Karasuba-san.”
 
 =--=========================================
 <ID> 57
 <JP> 　だからボクは、灰桜の先輩人形に改めて声をかけた。
-<VN> 
+<VN>  Vì thế mà tôi quyết định gọi tên tiền bối của Haizakura.
 
 =--=========================================
 <ID> 58
 <JP> 「ボクをここで雇ってもらえませんか？」
-<VN> 
+<VN> “Bạn có thể thuê mình làm việc ở đây không?”
 
 =--=========================================
 <ID> 59
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 60
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 61
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：楠木ともり（鴉羽）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Kusunoki Tomori (Karasuba)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 62
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================
