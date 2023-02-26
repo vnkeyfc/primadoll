@@ -425,7 +425,7 @@
 =--=========================================
 <ID> 79
 <JP> 　声を張ろうとしているが、後半に向けてどんどん声量は小さくなっていた。
-<VN> Em cố gắng giữ tông giọng của mình, nhưng nó dần trở nên trùng xuống vào nửa cuối câu.
+<VN> Em cố gắng giữ tông giọng của mình, nhưng nó dần trở nên chùng xuống vào nửa cuối câu.
 
 =--=========================================
 <ID> 80
@@ -529,7 +529,7 @@
 <br />
 <br />
 <span style="font-size:12;">
-<a id = "1_" href="#_1"><sup>[1]</sup></a> Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
+<a id = "1_" href="#_1"><sup>[1]</sup></a> Đơn vị tiền tệ cổ, 1 rin = 0,001 yên.
 </span>
 =--=========================================
 <ID> 100
