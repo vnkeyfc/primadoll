@@ -527,7 +527,7 @@
 <JP> 　それはもしかしたら、この世界への希望に満ちた、眩い笑顔なのかもしれない。
 <VN> Có lẽ là một nụ cười rạng rỡ, đem lại hy vọng cho thế giới này.
 
-<br /><br /><a id = "1_" href="#_1"><sup>[1]</sup></a>Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
+<br /><br /><a id = "1_" href="#_1"><sup>[1]</sup></a> Đơn vị tiền tệ cổ, 1 rin = 0,001 yên
 
 =--=========================================
 <ID> 100
