@@ -130,7 +130,7 @@
 =--=========================================
 <ID> 20
 <JP> 　少女は小首を傾げてこちらを見た。くすんだ桜色の髪。瑠璃のような青い瞳。幼さを覗かせる、柔らかな頬のライン。白い着物の振り袖が、ひらひらと揺れていた。背中には可憐な印象とは似つかぬ、鈍色の背嚢。小さな煙突が伸びていて、うっすらと水蒸気がたなびいている……。
-<VN> Em nghiêng đầu nhìn tôi một cách tò mò. Tóc phớt nhẹ sắc hồng anh đào, đôi mắt xanh biếc như ngọc lưu ly. Những đường nét mềm mại trên má làm nổi bật lên vẻ trẻ thơ nơi em; lớp furisode trên người em nhẹ nhàng tung bay trong gió. Sau lưng em là một chiếc cặp màu xám, tương phản hoàn toàn với dung nhan rạng rỡ. Nhô lên từ đó là một ống khói nhỏ có hơi nước thoát ra.
+<VN> Em nghiêng đầu nhìn tôi một cách tò mò. Tóc phớt nhẹ sắc hồng anh đào, đôi mắt xanh biếc như ngọc lưu ly. Những đường nét mềm mại trên má làm nổi bật lên vẻ trẻ thơ nơi em; lớp furisode trên người em nhẹ nhàng tung bay trong gió. Sau lưng em là một chiếc cặp màu xám, tương phản hoàn toàn với dung nhan rạng rỡ. Nhô lên từ đó là một ống khói nhỏ có hơi nước thoát ra...
 
 =--=========================================
 <ID> 21
