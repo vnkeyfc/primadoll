@@ -115,11 +115,11 @@
 =--=========================================
 <ID> 17
 <JP> 　我が目を疑うとはこのことだ。菓子ぱんの帝王、東邦文化と西邦文化が出会って生まれた奇跡の逸品あんぱんが３厘！？　二区の村木屋で買うと１０厘はくだらないだろう。まさに破格。そしてボクのわびしいと言えばあまりにわびしい懐具合でもなんとか手が届く。だからたっと駆けだして、看板を持つ少女の前に立った。
-<VN> Tôi không thể nào tin vào mắt mình. Phép màu giao thoa giữa văn hóa Đông-Tây, Đế vương Đồ ngọt lại được bán với giá 3 rin?! Nếu mua ở quán Murakiya bên quận Hai thì 10 rin có khi còn chưa đủ! Quá là khác thường! Với cái giá này thì tôi có thể vô tư mua nó bất chấp ngân khố thảm thương của mình. Và như thế, tôi nhanh chân chạy lại đến đứng trước mặt cô bé cầm biển hiệu.
+<VN> Tôi không thể nào tin vào mắt mình. Phép màu giao thoa giữa văn hóa Đông-Tây, Đế vương Đồ ngọt lại được bán với giá 3 rin?! Nếu mua ở quán Murakiya bên quận Hai thì 10 rin có khi còn chưa đủ! Quá là khác thường! Với cái giá này thì tôi có thể vô tư mua nó bất chấp ngân khố thảm thương của mình. Và như thế, tôi nhanh chân chạy đến đứng trước mặt cô bé cầm biển hiệu.
 
 =--=========================================
 <ID> 18
-<JP> 　「くださいな！」
+<JP>「くださいな！」
 <VN> "Làm ơn!"
 
 =--=========================================
@@ -130,7 +130,7 @@
 =--=========================================
 <ID> 20
 <JP> 　少女は小首を傾げてこちらを見た。くすんだ桜色の髪。瑠璃のような青い瞳。幼さを覗かせる、柔らかな頬のライン。白い着物の振り袖が、ひらひらと揺れていた。背中には可憐な印象とは似つかぬ、鈍色の背嚢。小さな煙突が伸びていて、うっすらと水蒸気がたなびいている……。
-<VN> Em nghiêng đầu nhìn tôi một cách tò mò. Tóc phớt nhẹ sắc hồng anh đào, đôi mắt màu xanh như ngọc lưu ly. Những đường nét mềm mại trên má làm nổi bật lên vẻ trẻ thơ nơi em; lớp furisode trên người em nhẹ nhàng tung bay trong gió. Sau lưng em là một chiếc cặp màu xám, tương phản hoàn toàn với dung nhan rạng rỡ. Nhô lên từ đó là một ống khói nhỏ có hơi nước thoát ra.
+<VN> Em nghiêng đầu nhìn tôi một cách tò mò. Tóc phớt nhẹ sắc hồng anh đào, đôi mắt xanh biếc như ngọc lưu ly. Những đường nét mềm mại trên má làm nổi bật lên vẻ trẻ thơ nơi em; lớp furisode trên người em nhẹ nhàng tung bay trong gió. Sau lưng em là một chiếc cặp màu xám, tương phản hoàn toàn với dung nhan rạng rỡ. Nhô lên từ đó là một ống khói nhỏ có hơi nước thoát ra.
 
 =--=========================================
 <ID> 21
