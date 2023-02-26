@@ -90,7 +90,7 @@
 =--=========================================
 <ID> 12
 <JP> 　もっともこの冬に奉公先があっけなく破産してしまったので、その計画も白紙になってしまったけれど。戦後の不況は遅れてやってくると知ったのはその後だ。それも当然だろう。広大な荒野でバカスカ銃弾を撃ちまくり、高価な<ruby>戦闘人形<rt>メカニカ</rt></ruby>を惜しげもなく鉄くずに変えていたのだ。そんな浪費がそっくり無くなったのだから、なにもかも立ちゆかない。
-<VN> <span id = "_1"></span>Thế nhưng vào mùa đông, nhà chủ tôi bị phá sản và mọi kế hoạch của tôi tan thành mây khói. Mãi sau này tôi mới biết đó là hậu quả đến muộn của cuộc suy thoái hậu chiến. Dân chúng nổ súng vào nhau và biến tất cả đám <ruby>Hình nhân Chiến đấu<rt>Mechanica</rt></ruby> xa xỉ đó thành đồng nát mà không thiết quan tâm tới tất thảy sự thể trên đời… Đến lúc dọn dẹp tàn cuộc thì cuộc đời tôi cũng vì nó mà đi chệch đường ray.
+<VN> Thế nhưng vào mùa đông, nhà chủ tôi bị phá sản và mọi kế hoạch của tôi tan thành mây khói. Mãi sau này tôi mới biết đó là hậu quả đến muộn của cuộc suy thoái hậu chiến. Dân chúng nổ súng vào nhau và biến tất cả đám <ruby>Hình nhân Chiến đấu<rt>Mechanica</rt></ruby> xa xỉ đó thành đồng nát mà không thiết quan tâm tới tất thảy sự thể trên đời…<span id = "_1"></span> Đến lúc dọn dẹp tàn cuộc thì cuộc đời tôi cũng vì nó mà đi chệch đường ray.
 
 =--=========================================
 <ID> 13
