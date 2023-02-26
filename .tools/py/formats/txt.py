@@ -50,8 +50,9 @@ def txt_get_tag(fi):
                 identify_tag_str = line[open_pos + 1:close_pos]
                 break
             else:
-                print(U'::error ::Close tag "{}" not found: {}'.format(TXT_CLOSE_TAG, line_clean))
-                raise ValueError()
+                return None
+                # print(U'::error ::Close tag "{}" not found: {}'.format(TXT_CLOSE_TAG, line_clean))
+                # raise ValueError()
         elif len(line_clean) > 0:
             return None
             # print(U'[ERROR]: Invalid declare tag: {}'.format(line_clean))
