@@ -235,7 +235,7 @@
 =--=========================================
 <ID> 41
 <JP> 　どうやら、この猫がシャノちゃんらしい。
-<VN>  Nói sao nhỉ, con mèo này đúng là có cảm giác tên <sup><a href="#_1">[1]</a></sup>Chano thật.
+<VN>  Nói sao nhỉ, con mèo này đúng là có cảm giác tên Chano<sup><a href="#_1">[1]</a></sup> thật.
 
 =--=========================================
 <ID> 42
