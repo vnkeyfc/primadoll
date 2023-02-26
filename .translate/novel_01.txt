@@ -90,12 +90,12 @@
 =--=========================================
 <ID> 12
 <JP> 　もっともこの冬に奉公先があっけなく破産してしまったので、その計画も白紙になってしまったけれど。戦後の不況は遅れてやってくると知ったのはその後だ。それも当然だろう。広大な荒野でバカスカ銃弾を撃ちまくり、高価な<ruby>戦闘人形<rt>メカニカ</rt></ruby>を惜しげもなく鉄くずに変えていたのだ。そんな浪費がそっくり無くなったのだから、なにもかも立ちゆかない。
-<VN> Thế nhưng vào mùa đông, nhà chủ tôi bị phá sản và mọi kế hoạch của tôi tan thành mây khói. Mãi sau này tôi mới biết đó là hậu quả đến muộn của cuộc suy thoái hậu chiến. Dân chúng nổ súng vào nhau và biến tất cả đám <ruby>Hình nhân Chiến đấu<rt>Mechanica</rt></ruby> xa xỉ đó thành đồng nát mà không thiết quan tâm tới tất thảy sự thể trên đời… Đến lúc dọn dẹp tàn cuộc thì cuộc đời tôi cũng vì nó mà đi chệch đường ray.
+<VN> <span id = "_1"></span>Thế nhưng vào mùa đông, nhà chủ tôi bị phá sản và mọi kế hoạch của tôi tan thành mây khói. Mãi sau này tôi mới biết đó là hậu quả đến muộn của cuộc suy thoái hậu chiến. Dân chúng nổ súng vào nhau và biến tất cả đám <ruby>Hình nhân Chiến đấu<rt>Mechanica</rt></ruby> xa xỉ đó thành đồng nát mà không thiết quan tâm tới tất thảy sự thể trên đời… Đến lúc dọn dẹp tàn cuộc thì cuộc đời tôi cũng vì nó mà đi chệch đường ray.
 
 =--=========================================
 <ID> 13
 <JP> 　しばらくあちこちで日雇いの仕事をこなしてきたが、ここ最近雇い口は少なくなる一方。僅かばかりの退職金も底をつきかけており、懐を探るとなんとたったの３厘。今朝から口に入れたのは湯冷ましだけで、お腹は鳴りっぱなしだ。
-<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<a id="_1" href="#1_"><sup>[1]</sup></a> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
+<VN> Kể từ đó, tôi phải lăn lộn làm những công việc tạm bợ trong ngày để kiếm chác từng chút một, song gần đây cơ hội sinh kế ngày càng khan hiếm. Những đồng xu cuối cùng tôi tích cóp được cũng đang cạn dần. Lần nào nhòm vào túi cũng chỉ có đồng 3 rin<a href="#1_"><sup>[1]</sup></a> lạnh giá nhìn lại tôi… Cả ngày hôm nay tôi chỉ húp được một chút nước nóng, bụng của tôi đã sôi lên từ lúc nào rồi.
 
 =--=========================================
 <ID> 14
