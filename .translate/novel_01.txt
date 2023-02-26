@@ -240,7 +240,7 @@
 =--=========================================
 <ID> 42
 <JP> 　昔を懐かしむのは一旦止めて、本題に戻る。
-<VN> Tôi ngưng chìm đắm trong hoài niệm và đi thẳng vào trọng tâm vấn đề.
+<VN> Tôi ngừng chìm đắm trong hoài niệm và đi thẳng vào trọng tâm vấn đề.
 
 =--=========================================
 <ID> 43
@@ -255,7 +255,7 @@
 =--=========================================
 <ID> 45
 <JP> 　いま初めて見たかのように、手持ち看板を見上げている。
-<VN> Em liếc nhìn tấm biển của mình như thể đây là lần đầu em nhìn thấy nó.
+<VN> Em liếc nhìn tấm biển của mình như thể đây là lần đầu nhìn thấy nó.
 
 =--=========================================
 <ID> 46
