@@ -1115,7 +1115,8 @@ li{list-style-type:none}
 	padding: 2% 0;
 }
 
-.novel_text_style{
+.novel_text_style,
+.novel_text_style>:is(i,em,b,u){
 	font-size: 18px;
 	line-height: 38px;
 }
