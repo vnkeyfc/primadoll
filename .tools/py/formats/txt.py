@@ -84,10 +84,11 @@ def txt_get_text_data(fi, data_start_pos, clean_line=True):
         text_arr.append(first_char)
 
     line_pos = fi.tell()
+    line_count = 0
     line = fi.readline()
     while line != U'':
         line_clean = txt_clean_line(line)
-        if line_clean.startswith(TXT_OPEN_TAG):
+        if line_clean.startswith(TXT_OPEN_TAG) and line_count > 0:
             tmp_pos = fi.tell()
             fi.seek(line_pos)
             # try to detect tag
@@ -99,7 +100,7 @@ def txt_get_text_data(fi, data_start_pos, clean_line=True):
 
             fi.seek(tmp_pos)
 
-        if line_clean.startswith(TXT_EX_END_FLAG):
+        if line_clean.startswith(TXT_EX_END_FLAG) and line_count > 0:
             break
 
         if clean_line:
@@ -109,6 +110,7 @@ def txt_get_text_data(fi, data_start_pos, clean_line=True):
 
         line_pos = fi.tell()
         line = fi.readline()
+        line_count += 1
 
     res = U''.join(text_arr)
     if txt_clean_line(res, U'\n') == U'':
