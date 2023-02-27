@@ -25,7 +25,7 @@
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
+<VN> Một dự án đa phương tiện với sự tham gia của nhiều nhà sáng tạo nội dung, xoay quanh những cô gái robot mang tâm tư của con người.
 
 =--=========================================
 <ID> 0
