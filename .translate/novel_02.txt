@@ -105,7 +105,7 @@
 =--=========================================
 <ID> 15
 <JP> 　山の手城を囲むお堀。水面を望む小さなベンチにボクたちは腰掛けている。
-<VN>  Con kênh chảy quanh tòa lâu đài Yamanote, còn chúng tôi thì đang ngồi trên một chiếc ghế nhỏ nhìn xuống mặt nước.
+<VN>  Con kênh chảy quanh tòa thành Yamanote, còn chúng tôi thì đang ngồi trên một chiếc ghế nhỏ nhìn xuống mặt nước.
 
 =--=========================================
 <ID> 16
