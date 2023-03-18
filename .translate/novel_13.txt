@@ -100,7 +100,7 @@
 =--=========================================
 <ID> 14
 <JP> 　なんとも場違いさを覚えつつも、まるで短冊か御札のように、壁にペタペタと貼られたメニューを眺める。
-<VN>  Dù cứ thấy trái khoáy kiểu gì, tôi vẫn nhìn lên bảng thực đơn dán tường, trông như được viết trên giấy dải hay bùa.
+<VN>  Dù cứ thấy trái khoáy kiểu gì, tôi vẫn nhìn lên bảng thực đơn dán tường, trông như được viết trên giấy dải hay bùa.<span  id = "_1"></span>
 
 =--=========================================
 <ID> 15
@@ -110,7 +110,7 @@
 =--=========================================
 <ID> 16
 <JP> 『魚肉コロッケ』
-<VN>  [Korokke<a id = "_1" href="#1_"><sup>[1]</sup></a> cá]
+<VN>  [Korokke<a href="#1_"><sup>[1]</sup></a> cá]
 
 =--=========================================
 <ID> 17
@@ -185,7 +185,7 @@
 =--=========================================
 <ID> 31
 <JP> 　「え」
-<VN>   “Hả?”
+<VN>   “Hả?”<span id = "_2" ></span>
 
 =--=========================================
 <ID> 32
@@ -195,17 +195,17 @@
 =--=========================================
 <ID> 33
 <JP> 　「名前通りの料理なんですか？」
-<VN>   “Món này, tên sao nghĩa vậy luôn ạ?”
+<VN>   “Món này, tên sao nghĩa vậy luôn ạ?”<span id = "_3"></span>
 
 =--=========================================
 <ID> 34
 <JP> 「本日の目玉ですから」
-<VN>  “Thì <i>nó đúng</i> là món mắt cá<object><a id = "_2" href="2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”
+<VN>  “Thì <i>nó đúng</i> là món mắt cá<object><a href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”
 
 =--=========================================
 <ID> 35
 <JP> 　「もしかして、こっちの目玉焼きっていうのは……」
-<VN>   “Có khi nào, cái trứng ốp la<a id = "_3" href ="#3_<sup>[3]</sup>trên kia…”
+<VN>   “Có khi nào, cái trứng ốp la<a href ="#3_><sup>[3]</sup> trên kia…”
 
 =--=========================================
 <ID> 36
