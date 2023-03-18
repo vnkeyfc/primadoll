@@ -1,480 +1,488 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN>  "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 02-2　きら星と焼き菓子（２）
-<VN> 
+<VN> 02-02: Vì sao lấp lánh và bánh ngọt nướng (2)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 「こんばんわぁ」
-<VN> 
+<VN>  “Chào buổi tối.”
 
 =--=========================================
 <ID> 6
 <JP> 　ちょうどカウンターを拭いていたお姉さんと目が合った。夜空を思わせる着物をたすき掛けにしている。肩までの短い髪がさらりと揺れる。頭の上には三角巾。背中には鈍色の煙突が伸びている。
-<VN> 
+<VN>  Vừa bước chân vào, tôi được một chị gái đang lau dọn quầy uống chào đón. Chị ấy vận trên người một bộ kimono thêu họa tiết gợi người ta nghĩ về bầu trời đêm, lại còn thắt chéo khăn tasuki sau lưng. Mái tóc ngắn ngang vai của chị khẽ lay động. Trên đầu chị là một tấm vải tam giác hay dùng khi làm bếp, và một ống khói màu xám gắn sau lưng…
 
 =--=========================================
 <ID> 7
 <JP> 　……煙突？
-<VN> 
+<VN>  … Ống khói á?
 
 =--=========================================
 <ID> 8
 <JP> 「今日は、お一人ですか？」
-<VN> 
+<VN>  “Hôm nay quý khách đi một mình sao?”
 
 =--=========================================
 <ID> 9
 <JP> 　「あ、いえ、ボクはお酒は飲めないので……」
-<VN> 
+<VN>   “A… không, em không uống được rượu…”
 
 =--=========================================
 <ID> 10
 <JP> 「お料理だけでも大丈夫ですよおー。８厘から！」
-<VN> 
+<VN>  “Chỉ đến ăn thôi cũng được đó~ Khoảng 8 rin thôi!”
 
 =--=========================================
 <ID> 11
 <JP> 　「え、安い」
-<VN> 
+<VN>   “Hơ, rẻ thế!”
 
 =--=========================================
 <ID> 12
 <JP> 「いらっしゃいませ☆」
-<VN> 
+<VN>  “Chào mừng quý khách ☆”
 
 =--=========================================
 <ID> 13
 <JP> 　にっこり笑って招き入れられる。
-<VN> 
+<VN>  Nở nụ cười tươi rói, chị ấy lại chào đón tôi một lần nữa.
 
 =--=========================================
 <ID> 14
 <JP> 　なんとも場違いさを覚えつつも、まるで短冊か御札のように、壁にペタペタと貼られたメニューを眺める。
-<VN> 
+<VN>  Dù cứ thấy trái khoáy kiểu gì, tôi vẫn nhìn lên bảng thực đơn dán tường, trông như được viết trên giấy dải hay bùa.
 
 =--=========================================
 <ID> 15
 <JP> 　お酒は飲めないので、ご飯代わりになりそうなものというと……。
-<VN> 
+<VN>  Vì không uống được rượu, nên có lẽ tôi sẽ chọn món gì đó lấp đầy bụng…
 
 =--=========================================
 <ID> 16
 <JP> 『魚肉コロッケ』
-<VN> 
+<VN>  [Korokke<a href="#1_"><sup>[1]</sup></a> cá]
 
 =--=========================================
 <ID> 17
 <JP> 　魚のすり身のコロッケだろう。牛肉の代用として広まったらしいが、いまでは定番だ。
-<VN> 
+<VN>  Cái này hẳn là korokke làm từ chả cá rồi. Hình như hồi trước người ta hay dùng thay cho thịt bò, nhưng giờ thì nó lại thành tiêu chuẩn mất tiêu.
 
 =--=========================================
 <ID> 18
 <JP> 『厚焼き卵』
-<VN> 
+<VN>  [Trứng rán dày]
 
 =--=========================================
 <ID> 19
 <JP> 『目玉焼き』
-<VN> 
+<VN>  [Trứng ốp la]
 
 =--=========================================
 <ID> 20
 <JP> 　まだまだ高級品の卵料理。お値段はかなり控えめで、これで利益が出ているか心配になる。目玉焼きは厚焼きに手が出ない人のためだろうか。気配りが行き届いている。
-<VN> 
+<VN>  Lại thêm những món trứng cao cấp. Giá mềm đến độ tôi thấy lo không biết chúng có sinh lời không. Có khi nào trứng ốp la là để dành cho những người không kham nổi trứng rán dày? Quả là một ý tưởng chu đáo từng li từng tí.
 
 =--=========================================
 <ID> 21
 <JP> 『たぬきうどん』
-<VN> 
+<VN>  [Tanuki udon]
 
 =--=========================================
 <ID> 22
 <JP> 　麺類もある。店内に充満している出汁の香り。この出汁をひたひたにかけて啜れば、それはもう幸せだろう。
-<VN> 
+<VN>  Lại còn có cả món sợi nữa. Quán ăn quả thật đắm chìm trong mùi hương nước dùng. Được hớp qua chút nước ấy thôi hẳn đã là niềm hạnh phúc rồi.
 
 =--=========================================
 <ID> 23
 <JP> 『本日の目玉！』
-<VN> 
+<VN>  [Điểm nhấn hôm nay!]
 
 =--=========================================
 <ID> 24
 <JP> 　これは、いったいなんだろう？
-<VN> 
+<VN>  Cái này là gì đây?
 
 =--=========================================
 <ID> 25
 <JP> 　「あの」
-<VN> 
+<VN>   “Xin lỗi.”
 
 =--=========================================
 <ID> 26
 <JP> 「はぁい、お決まりですか？」
-<VN> 
+<VN>  “Vââââng, quý khách đã quyết định được chưa ạ?”
 
 =--=========================================
 <ID> 27
 <JP> 　「本日の目玉ってなんですか？　お値段も手頃ですが」
-<VN> 
+<VN>   “Điểm nhấn của hôm nay là gì vậy? Giá cả trông cũng khá vừa tầm.”
 
 =--=========================================
 <ID> 28
 <JP> 「ああ、これですか？」
-<VN> 
+<VN>  “À, quý khách hỏi cái này sao?”
 
 =--=========================================
 <ID> 29
 <JP> 　「ええ、どんなお勧めの料理なのかなと」
-<VN> 
+<VN>   “Vâng, có phải là chị sẽ gợi ý một món gì đó cho em không…?”
 
 =--=========================================
 <ID> 30
 <JP> 「美味しいですよ。今朝は新鮮なまぐろが市場にあがりまして、その目玉を甘辛く煮付けに……」
-<VN> 
+<VN>  “Ngon lắm đó. Cá ngừ tươi vừa bắt được ban sáng tôi đã mua ngoài chợ đấy. Mắt cá đem om trong nước sốt đậm đà…”
 
 =--=========================================
 <ID> 31
 <JP> 　「え」
-<VN> 
+<VN>   “Hả?”
 
 =--=========================================
 <ID> 32
 <JP> 「なにか？」
-<VN> 
+<VN>  “Có chuyện gì sao?”
 
 =--=========================================
 <ID> 33
 <JP> 　「名前通りの料理なんですか？」
-<VN> 
+<VN>   “Món này, tên sao nghĩa vậy luôn ạ?”
 
 =--=========================================
 <ID> 34
 <JP> 「本日の目玉ですから」
-<VN> 
+<VN>  “Thì nó đúng là món mắt cá<a href="#2_"><sup>[2]</sup></a> của ngày hôm nay mà.”
 
 =--=========================================
 <ID> 35
 <JP> 　「もしかして、こっちの目玉焼きっていうのは……」
-<VN> 
+<VN>   “Có khi nào, cái trứng ốp la<a href="#3_"><sup>[3]</sup></a> trên kia…”
 
 =--=========================================
 <ID> 36
 <JP> 「今朝は新鮮なまぐろが市場にあがりまして……」
-<VN> 
-
+<VN>  “Cá ngừ tươi vừa bắt được ban sáng tôi đã mua ngoài…”
+ 
 =--=========================================
 <ID> 37
 <JP> 　「あ、いや、わかりました」
-<VN> 
+<VN>   “À không, cái đấy em biết rồi.”
 
 =--=========================================
 <ID> 38
 <JP> 「こちらもお勧めですよぉー」
-<VN> 
+<VN>  “Món mắt cá ấy ngon lắm ạ~”
 
 =--=========================================
 <ID> 39
 <JP> 　「あの、じゃあもしかして、たぬきうどんっていうのは」
-<VN> 
+<VN>   “Vậy, lẽ nào cái tanuki udon<a href="#4_"><sup>[4]</sup></a> kia chính là…”
 
 =--=========================================
 <ID> 40
 <JP> 「………」
-<VN> 
+<VN>  “......”
 
 =--=========================================
 <ID> 41
 <JP> 「今朝は新鮮な……」
-<VN> 
+<VN>  “..... Cá ngừ tươi vừa bắt được ban sáng…”
 
 =--=========================================
 <ID> 42
 <JP> 　「あっ、もういいです」
-<VN> 
+<VN>   “Thôi đủ rồi ạ!”
 
 =--=========================================
 <ID> 43
 <JP> 　一気に不安が押し寄せてきたが、気を取り直してもういちどメニューを眺める。
-<VN> 
+<VN>  Tuy đầu óc hẵng còn ngổn ngang, song tôi nhanh chóng lấy lại bình tĩnh và ngó qua bảng thực đơn một lần nữa.
 
 =--=========================================
 <ID> 44
 <JP> 　「じゃあ……ミンチ天ぷらと鰯バター焼きください。白ご飯も」
-<VN> 
+<VN>   “Vậy… cho em một tempura thịt bò băm và một cá mòi rán bơ. Một bát cơm trắng nữa ạ.”
 
 =--=========================================
 <ID> 45
 <JP> 「わかりましたぁ！」
-<VN> 
+<VN>  “Có ngayyy!”
 
 =--=========================================
 <ID> 46
 <JP> 　てきぱきと準備して、ほとんど待つ暇も無く料理が並べられる。ご飯と一緒に、お新香とお味噌汁も一緒に出てきた。手を合わせて口に運ぶ。
-<VN> 
+<VN>  Chị ấy thoăn thoắt chuẩn bị và dọn đồ ăn ra cho tôi, nhanh đến mức tôi gần như chẳng phải chờ đợi. Ngoài cơm trắng ra còn có một bát dưa chua và súp miso đi kèm. Tôi chắp hai tay lại và bắt đầu dùng bữa.
 
 =--=========================================
 <ID> 47
 <JP> 　「……おいしい」
-<VN> 
+<VN>   “... ngon thật.”
 
 =--=========================================
 <ID> 48
 <JP> 　見た目はなんてことない料理だけど、しみじみおいしい。どれも食べ慣れた味だけど、なんとも新鮮な驚きだ。
-<VN> 
+<VN>  Nhìn ngoài trông như một bữa ăn bình dân, nhưng nếm rồi mới biết nó ngon ra sao. Hương vị này thật thân thuộc, nhưng cũng tươi mới đến lạ kỳ.
 
 =--=========================================
 <ID> 49
 <JP> 男性客「人形が作ったとは思えないだろ」
-<VN> 
+<VN> Khách hàng nam: “Chẳng giống đồ ăn do Hình nhân làm ra tí nào nhể?”
 
 =--=========================================
 <ID> 50
 <JP> 　よっぽど驚いていたのだろう、横にいた赤ら顔の男が、にっこりと笑顔を浮かべる。
-<VN> 
+<VN>  <i>Ngạc nhiên lắm chứ gì?</i>, ông bác mặt đỏ gay ngồi cạnh tôi vừa cười vừa hỏi.
 
 =--=========================================
 <ID> 51
 <JP> 　「……人形」
-<VN> 
+<VN>   “Hình nhân…”
 
 =--=========================================
 <ID> 52
 <JP> 「……はい？」
-<VN> 
+<VN>  “... Vâng?”
 
 =--=========================================
 <ID> 53
 <JP> 　「そうだ！　あの、あなたはっ……」
-<VN> 
+<VN>   “Đúng rồi! Cho hỏi, chị là…”
 
 =--=========================================
 <ID> 54
 <JP> 　ボクは改めて、確認の声を上げた。
-<VN> 
+<VN>  Tôi lại lên tiếng để xác nhận.
 
 =--=========================================
 <ID> 55
 <JP> 「はいっ、箒星です。もちろん人形ですよー」
-<VN> 
+<VN>  “Phải, tôi là Houkiboshi. Như quý khách thấy, tôi là một Hình nhân.”
 
 =--=========================================
 <ID> 56
 <JP> 　くるりと背中を見せてくれる。
-<VN> 
+<VN>  Chị ấy xoay người, cho tôi thấy sau lưng.
 
 =--=========================================
 <ID> 57
 <JP> 　鈍色の背嚢。わずかにたなびく蒸気は、<ruby>自律人形<rt>オートマタ</rt></ruby>の証だ。
-<VN> 
+<VN>  Một chiếc cặp màu xám. Hơi nước khẽ thoát ra từ đó chính là minh chứng cho việc chị gái này là một Hình nhân.
 
 =--=========================================
 <ID> 58
 <JP> 　「……人形って味がわかるんですか？」
-<VN> 
+<VN>   “... Hình nhân cũng có thể nêm nếm sao?”
 
 =--=========================================
 <ID> 59
 <JP> 「分かりますよ。あ、もちろん人間と同じではないでしょうけど……」
-<VN> 
+<VN>  “Có thể chứ. A, nhưng có lẽ hương vị chúng tôi nếm được không hoàn toàn giống con người…”
 
 =--=========================================
 <ID> 60
 <JP> 　「ですよね。それなのにこんなにおいしい……」
-<VN> 
+<VN>   “Cũng phải. Ấy thế mà chị có thể nấu ngon như vậy…”
 
 =--=========================================
 <ID> 61
 <JP> 「それはですねぇー」
-<VN> 
+<VN>  “Chuyện đó thì là thế này~”
 
 =--=========================================
 <ID> 62
 <JP> 　にっこりと微笑みを浮かべる。
-<VN> 
+<VN>  Nói đoạn, chị ấy cười thật tươi.
 
 =--=========================================
 <ID> 63
 <JP> 　そして、きら星のような瞳を向けて、ぱちりとウィンクした。
-<VN> 
+<VN>  Kế đó, chị nhìn tôi bằng đôi mắt lấp lánh tựa như những vì sao sáng và nháy mắt một cái.
 
 =--=========================================
 <ID> 64
 <JP> 「練習あるのみです」
-<VN> 
+<VN>  “Chỉ cần luyện tập là được ấy mà.”
 
 =--=========================================
 <ID> 65
 <JP> 　「……普通ですね」
-<VN> 
+<VN>   “... Bình thường quá nhỉ.”
 
 =--=========================================
 <ID> 66
 <JP> 「それしかありませんよー」
-<VN> 
+<VN>  “Thì có còn cách nào khác đâu mà.”
 
 =--=========================================
 <ID> 67
 <JP> 　くすくす笑っている。その間も注文が入って、てきぱきと料理を準備していた。
-<VN> 
+<VN>  Chị ấy cười khúc khích. Cùng lúc, chị nhận thêm món và mau mắn bắt tay vào chuẩn bị.
 
 =--=========================================
 <ID> 68
 <JP> 「黒猫亭のお仕事はいかかがですか？」
-<VN> 
+<VN>  “Công việc tại quán Mèo Đen thế nào rồi ạ?”
 
 =--=========================================
 <ID> 69
 <JP> 　「えっ……なぜそれを？」
-<VN> 
+<VN>   “Hơ, sao chị biết…?”
 
 =--=========================================
 <ID> 70
 <JP> 「その帽子に描いてますよー」
-<VN> 
+<VN>  “Trên cái mũ kia viết hết mà.”
 
 =--=========================================
 <ID> 71
 <JP> 　「……あ」
-<VN> 
+<VN>   “... à.”
 
 =--=========================================
 <ID> 72
 <JP> 　カウンターの傍らに置いた帽子。
-<VN> 
+<VN>  Chiếc mũ vừa đội tôi đặt trên quầy.
 
 =--=========================================
 <ID> 73
 <JP> 　そこには黒猫亭の刺繍が入っている。
-<VN> 
+<VN>  Trên đó có thêu hàng chữ “Trà quán Mèo Đen”.
 
 =--=========================================
 <ID> 74
 <JP> 「おいしい珈琲と料理、そして人形たちの給仕が自慢……喫茶黒猫亭、です」
-<VN> 
+<VN>  “Một nơi tự hào với món ăn và cà phê ngon, lại được các Hình nhân phục vụ… Trà quán Mèo Đen nhỉ.”
 
 =--=========================================
 <ID> 75
 <JP> 　「そうなんです、黒猫亭で厨房係として働き始めて……」
-<VN> 
+<VN>   “Vâng, em vừa nhận chân làm bếp ở đó…”
 
 =--=========================================
 <ID> 76
 <JP> 「まあまあ、それは大変でしょう」
-<VN> 
+<VN>  “Ôi chao, thế thì vất vả lắm nhỉ.”
 
 =--=========================================
 <ID> 77
 <JP> 　「やりがいはあるんですが、厨房係として壁にぶつかってしまったところもあって……」
-<VN> 
+<VN>   “Tinh thần làm việc thì em có, nhưng với tư cách nhân viên nhà bếp thì bế tắc lắm ạ…”
 
 =--=========================================
 <ID> 78
 <JP> 「壁、ですか？」
-<VN> 
+<VN>  “Bế tắc sao?”
 
 =--=========================================
 <ID> 79
 <JP> 　箒星は人形ながら、おっとりとした空気感を持っていて、ついつい弱音をこぼしてしまう。
-<VN> 
+<VN>  Dù Houkiboshi là một Hình nhân, ở chị lại mang bầu không khí dễ chịu sao đó khiến tôi vô thức muốn tỏ bày mọi chuyện.
 
 =--=========================================
 <ID> 80
 <JP> 　「あの、箒星さん」
-<VN> 
+<VN>   “Houkiboshi-san này.”
 
 =--=========================================
 <ID> 81
 <JP> 「はい」
-<VN> 
+<VN>  “Sao vậy?”
 
 =--=========================================
 <ID> 82
 <JP> 　「もっと料理が美味くなるには、どうすればいいでしょうか？」
-<VN> 
+<VN>   “Em phải làm thế nào để có thể nấu ăn ngon hơn đây?”
 
 =--=========================================
 <ID> 83
 <JP> 「それはもちろん……」
-<VN> 
+<VN>  “Chuyện đó thì đương nhiên là…”
 
 =--=========================================
 <ID> 84
 <JP> 　わかりきったことと言いたげに、箒星さんは笑顔を覗かせた。
-<VN> 
+<VN>  Houkiboshi-san mỉm cười nhìn tôi mà nói, như thể đó là lẽ hiển nhiên.
 
 =--=========================================
 <ID> 85
 <JP> 「練習あるのみですっ」
-<VN> 
+<VN>  “Chỉ cần luyện tập là được.”
+<br />
+<br />
+<span style="font-size:12;">
+<a id = "1_" href="#_1"><sup>[1]</sup></a> Korroke là món rán ngập dầu thường có vỏ là bột mì với nhiều biến thể nhân, bắt nguồn từ bánh croquette của Pháp.
+<a id = "2_" href="#_2"><sup>[1]</sup></a> Trong tiếng Nhật, "điểm nhấn" và "mắt" (hay "nhãn cầu") đều được viết là 目玉. Ở đây Usami đã hiểu nhầm 目玉 là "điểm nhấn", thay vì "mắt (cá ngừ)" như dụng ý thật sự của Houkiboshi.
+<a id = "3_" href="#_3"><sup>[1]</sup></a> Trong tiếng Nhật, "trứng ốp la" được viết là 目玉焼き, với 目玉 có một cách hiểu khác là mắt hay nhãn cầu như chú thích trên. Ở đây Usami đang lo sợ rằng 目玉焼き được hiểu theo nghĩa là "mắt rán" thay vì "trứng ốp la".
+<a id = "4_" href="#_4"><sup>[1]</sup></a> Trong tiếng Nhật, "tanuki" (たぬき) là tên thông tục của một loài lửng chó hay gấu mèo. "Tanuki udon" (たぬきうどん) lại đang ám chỉ món mì udon có phụ liệu ăn kèm là tempura. Ở đây Usami đang lo sợ rằng "tanuki udon" được hiểu theo nghĩa là mì udon làm từ thịt tanuki.
+</span>
 
 =--=========================================
 <ID> 86
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 87
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 88
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：中島由貴（箒星）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Nakashima Yuki (Houkiboshi)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 89
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================
