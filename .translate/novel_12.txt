@@ -1,520 +1,525 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 02-1　きら星と焼き菓子（１）
-<VN> 
+<VN> 02-01: Vì sao lấp lánh và bánh ngọt nướng (1)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 　水曜日。
-<VN> 
+<VN>  Thứ Tư.
 
 =--=========================================
 <ID> 6
 <JP> 　それはボクたちにとって特別な意味を持つ。もの言わぬフィラメント電球。ひっそりと時が止まった室内。黒猫のシャノだけが尻尾をゆらりと振りつつやってきて、いつもの場所に餌が無いことに気付いて、二階へと引き返していく。
-<VN> 
+<VN>  Đối với chúng tôi thì đây là một ngày mang ý nghĩa rất đặc biệt. Chiếc đèn dây tóc nằm im. Căn phòng yên tĩnh như thể thời gian đã dừng lại. Duy có chú mèo đen Chano là đang vung vẩy cái đuôi, tựa hồ nhận ra đồ ăn không được đặt ở chỗ thường lệ, rồi leo tót lên lầu.
 
 =--=========================================
 <ID> 7
 <JP> 　『定休日』
-<VN> 
+<VN>  [Ngày nghỉ định kỳ]
 
 =--=========================================
 <ID> 8
 <JP> 　扉に提げられた掛け看板。
-<VN> 
+<VN>  Tấm bảng treo trên cửa viết như vậy.
 
 =--=========================================
 <ID> 9
 <JP> 　今日は週に一度、羽根を伸ばせる休日なのだ。人形である彼女たちにも保守保全の日は必要だろう。
-<VN> 
+<VN>  Một ngày trong tuần, chúng tôi sẽ được nghỉ và tự do làm bất cứ việc gì. Ngay như những cô gái Hình nhân cùng cần một ngày để bảo trì mà.
 
 =--=========================================
 <ID> 10
 <JP> 宇佐美「……こんなものかな」
-<VN> 
+<VN> Usami: “... như thế này chăng…”
 
 =--=========================================
 <ID> 11
 <JP> 　ボクはと言えば、薄暗い厨房に立ってボウルを抱えていた。こねこねと木べらで中身をかき混ぜる。黄金色の生地を持ち上げると、ぽてりと柔らかく垂れ落ちた。後は絞り袋で天板に絞り出していけばいい。
-<VN> 
+<VN>  Về phần tôi, tôi đang đứng trong căn bếp mờ mờ tối, một tay cầm chiếc bát, tay kia dùng cây vét bột bằng gỗ nhào đều những thứ bên trong. Tôi vốc thử một nắm, chỗ bột vàng mịn từ từ tuột xuống. Sau đó tôi vắt hỗn hợp lên khay nướng bằng một chiếc túi bắt kem.
 
 =--=========================================
 <ID> 12
 <JP> 灰桜「シャノー、ご飯ですよー」
-<VN> 
+<VN> Haizakura: “Chano~ Đến giờ ăn rồi~”
 
 =--=========================================
 <ID> 13
 <JP> 　ぱたぱたと二階から降りてくる音。
-<VN> 
+<VN>  Tiếng chân ai đó tất tả bước từ trên lầu xuống.
 
 =--=========================================
 <ID> 14
 <JP> 　静かな店内に、灰桜の声が響く。
-<VN> 
+<VN>  Bên trong trà quán tĩnh lặng, giọng của Haizakura đánh động thấy rõ.
 
 =--=========================================
 <ID> 15
 <JP> 宇佐美「あれ、さっき二階に戻っていったけど」
-<VN> 
+<VN> Usami: “Ủa, ban nãy tôi mới thấy nó lên lầu mà?”
 
 =--=========================================
 <ID> 16
 <JP> 灰桜「みゅ？　おかしいですね」
-<VN> 
+<VN> Haizakura: “Myu? Kỳ thật nha.”
 
 =--=========================================
 <ID> 17
 <JP> 宇佐美「屋上で、ひなたぼっこでもしてるんじゃないかな」
-<VN> 
+<VN> Usami: “Có khi nó lên sân thượng phơi nắng rồi cũng nên.”
 
 =--=========================================
 <ID> 18
 <JP> 灰桜「では、そのうち戻ってきますね」
-<VN> 
+<VN> Haizakura: “Vậy chắc lát nữa nó sẽ về thôi nhỉ.”
 
 =--=========================================
 <ID> 19
 <JP> 　かがみ込んで、シャノの昼食を準備している。今日のメニューは魚のあらを煮付けた猫まんまだ。
-<VN> 
+<VN>  Em ngồi xổm xuống và chuẩn bị đồ ăn cho Chano. Đó là một đĩa thức ăn cho mèo với thành phần chính là phần thừa của cá được hầm nhừ.
 
 =--=========================================
 <ID> 20
 <JP> 灰桜「ところで、そちらはうささんのお食事ですか？」
-<VN> 
+<VN> Haizakura: “Tiện cho em hỏi, Usa-san đang dùng bữa ạ?”
 
 =--=========================================
 <ID> 21
 <JP> 宇佐美「これは、料理の勉強ってところかな……とと、これじゃ多すぎるかな」
-<VN> 
+<VN> Usami: “Cái này hả, tôi đang học nấu ăn ấy mà… Oái, hình như cho quá tay rồi thì phải…”
 
 =--=========================================
 <ID> 22
 <JP> 　灰桜は気になるようで、厨房をのぞき込んでくる。
-<VN> 
+<VN>  Haizakura ngó vào trong gian bếp, nom chừng hiếu kỳ với việc tôi đang làm.
 
 =--=========================================
 <ID> 23
 <JP> 　生地を天板に慎重に絞り出して、形を整えていく。
-<VN> 
+<VN>  Sau khi đã cẩn thận bóp bột bánh ra khay, tôi bắt đầu tạo hình cho từng cái.
 
 =--=========================================
 <ID> 24
 <JP> 宇佐美「黒猫亭に来てから、ドリンクや生菓子はそれなりに作れるようになったけど……焼き菓子はまだ苦手だからさ。練習しているんだ」
-<VN> 
+<VN> Usami: “Từ lúc đến quán Mèo Đen tôi đã quen làm đồ uống với bánh kẹo tươi rồi… cơ mà bánh nướng thì hẵng còn non lắm. Cần luyện tập thêm.”
 
 =--=========================================
 <ID> 25
 <JP> 灰桜「焼き菓子……素敵です！」
-<VN> 
+<VN> Haizakura: “Bánh nướng… thích ghê!”
 
 =--=========================================
 <ID> 26
 <JP> 宇佐美「シュー生地だよ。うまくいったら一緒に食べようよ」
-<VN> 
+<VN> Usami: “Bánh su đấy. Tôi mà làm ngon thì mình cùng ăn nhé.”
 
 =--=========================================
 <ID> 27
 <JP> 灰桜「はいっ！」
-<VN> 
+<VN> Haizakura: “Vâng ạ!”
 
 =--=========================================
 <ID> 28
 <JP> 　霧吹きで生地をしっとりさせると、オーブンにセットした。
-<VN> 
+<VN>  Sau khi tạo ẩm cho vỏ bánh bằng vòi phun sương, tôi cho tất cả vào trong lò nướng.
 
 =--=========================================
 <ID> 29
 <JP> 　灰桜は期待に瞳を輝かせながら、じっと側でそんな様子を眺めていた。
-<VN> 
+<VN>  Haizakura quan sát bên cạnh tôi, đôi mắt em long lanh kỳ vọng.
 
 =--=========================================
 <ID> 30
 <JP> 月下「煙突からきな臭い匂いがするであります」
-<VN> 
+<VN> Gekka: “Có mùi giống mùi cháy bốc ra từ ống khói.”
 
 =--=========================================
 <ID> 31
 <JP> 　ひょこりと顔を覗かせたのは、月下だ。
-<VN> 
+<VN>  Người vừa bỗng đâu ló mặt là Gekka.
 
 =--=========================================
 <ID> 32
 <JP> 　胸元にはシャノを抱いている。二人で遊んでいたのかもしれない。
-<VN> 
+<VN>  Cô bé đang ôm Chano trong lồng ngực. Có khi hai đứa vừa chơi với nhau không chừng.
 
 =--=========================================
 <ID> 33
 <JP> 宇佐美「きな臭いって……オーブンの余熱がうまく行ってないのかな」
-<VN> 
+<VN> Usami: “Mùi cháy á… hay tại phần nhiệt dư trong lò không thoát ra được?”
 
 =--=========================================
 <ID> 34
 <JP> 月下「今日は定休日でありますが」
-<VN> 
+<VN> Gekka: “Hôm nay là ngày nghỉ kia mà…”
 
 =--=========================================
 <ID> 35
 <JP> 灰桜「シューの練習をしているんだそうです！」
-<VN> 
+<VN> Haizakura: “Ngài ấy đang tập làm bánh su ạ!”
 
 =--=========================================
 <ID> 36
 <JP> 宇佐美「これが結構難しくてね。レシピ帳頼りだよ」
-<VN> 
+<VN> Usami: “Khó ra phết đấy. Tôi toàn phải dựa vào sổ hướng dẫn.”
 
 =--=========================================
 <ID> 37
 <JP> 　前任者の残してくれたレシピ帳をパラパラと眺める。
-<VN> 
+<VN>  Tôi lật giở từng trang trong quyển vở công thức người tiền nhiệm để lại.
 
 =--=========================================
 <ID> 38
 <JP> 　ひとつひとつのメニューについて事細かに指示が書いてあり、これが無ければボクの仕事はとうてい成り立たない。
-<VN> 
+<VN>  Từng món ăn trong này đều được ghi chép hướng dẫn vô cùng tỉ mỉ, đến độ nếu không có nó, có khi tôi còn chẳng làm được gì ra hồn.
 
 =--=========================================
 <ID> 39
 <JP> 宇佐美「でも、いつまでも頼ってはいられないからさ」
-<VN> 
+<VN> Usami: “Nhưng mình không thể dựa vào quyển sổ này mãi được.”
 
 =--=========================================
 <ID> 40
 <JP> 　そう、厨房係として一本立ちするためには。
-<VN> 
+<VN>  Phải, vì mục tiêu trở thành một nhân viên nhà bếp độc lập.
 
 =--=========================================
 <ID> 41
 <JP> 月下「戻ってくるそうでありますが」
-<VN> 
+<VN> Gekka: “Nghe nói sắp về rồi.”
 
 =--=========================================
 <ID> 42
 <JP> 宇佐美「え？」
-<VN> 
+<VN> Usami: “Hả?”
 
 =--=========================================
 <ID> 43
 <JP> 月下「厨房係」
-<VN> 
+<VN> Gekka: “Người đứng bếp ấy.”
 
 =--=========================================
 <ID> 44
 <JP> 灰桜「みゅ？」
-<VN> 
+<VN> Haizakura: “Myu?!”
 
 =--=========================================
 <ID> 45
 <JP> 月下「そのレシピ帳を作った前任者であります」
-<VN> 
+<VN> Gekka: “Là người tiền nhiệm đã để lại quyển sổ đó ấy.”
 
 =--=========================================
 <ID> 46
 <JP> 宇佐美「え……ちょ、ちょっと待って」
-<VN> 
+<VN> Usami: “Ơ… k-khoan, từ từ đã…”
 
 =--=========================================
 <ID> 47
 <JP> 月下「なにか」
-<VN> 
+<VN> Gekka: “Sao vậy?”
 
 =--=========================================
 <ID> 48
 <JP> 宇佐美「このレシピ帳作った人、辞めちゃったわけじゃないの？」
-<VN> 
+<VN> Usami: “Chứ không phải cái người viết ra quyển sổ này bị cho thôi việc rồi à?”
 
 =--=========================================
 <ID> 49
 <JP> 月下「保有オーナーが変わった……という話は聞いておりません」
-<VN> 
+<VN> Gekka: “Tôi chưa từng nghe bà chủ ra quyết định nào như vậy bao giờ…”
 
 =--=========================================
 <ID> 50
 <JP> 宇佐美「ちょっとお休みしていただけ？」
-<VN> 
+<VN> Usami: “Vậy là người đó chỉ nghỉ phép thôi sao?”
 
 =--=========================================
 <ID> 51
 <JP> 月下「別の任務というところでしょうか」
-<VN> 
+<VN> Gekka: “Được điều đi làm một nhiệm vụ khác thì đúng hơn.”
 
 =--=========================================
 <ID> 52
 <JP> 宇佐美「じゃあ……戻ってきたらボクはどうなるの？」
-<VN> 
+<VN> Usami: “Thế… người đó mà về thì tôi sẽ ra sao?”
 
 =--=========================================
 <ID> 53
 <JP> 月下「それは……」
-<VN> 
+<VN> Gekka: “Chuyện đó…”
 
 =--=========================================
 <ID> 54
 <JP> 　しばらく考え込む月下。
-<VN> 
+<VN>  Cô bé thoáng lộ vẻ trầm tư.
 
 =--=========================================
 <ID> 55
 <JP> 　やがていつもの、涼しげな瞳を向けた。
-<VN> 
+<VN>  Rồi lại quay sang nhìn tôi bằng ánh mắt lãnh đạm như mọi khi.
 
 =--=========================================
 <ID> 56
 <JP> 月下「クビでありましょうか」
-<VN> 
+<VN> Gekka: “Bất quá thì bị đuổi việc chứ gì.”
 
 =--=========================================
 <ID> 57
 <JP> 宇佐美「嫌だぁあーーーーーーーーーー！」
-<VN> 
+<VN> Usami: “Không đâuuuuuuuuuuu!!!!!!”
 
 =--=========================================
 <ID> 58
 <JP> 灰桜「うささん、辞めちゃ嫌ですーーーー！」
-<VN> 
+<VN> Haizakura: “Em không muốn Usa-san nghỉ việc đâuuuuuuuuuu!!!!!!”
 
 =--=========================================
 <ID> 59
 <JP> 宇佐美「言われなくても辞めないよ！　せっかく見つけた働き口だし！　ようやく慣れてきたんだし！　それにそれに……！」
-<VN> 
+<VN> Usami: “Em không nói thì tôi cũng không nghỉ đâu! Mãi tôi mới kiếm được việc mà… Mãi tôi mới quen việc mà… Với cả…. với cả…!”
 
 =--=========================================
 <ID> 60
 <JP> 月下「落ち着くであります」
-<VN> 
+<VN> Gekka: “Bình tĩnh lại đi.”
 
 =--=========================================
 <ID> 61
 <JP> 宇佐美「ボクなりに頑張っているんだよ。見てなよ、このお菓子だってバッチリ焼き上げて、腕前を証明してみせるさ」
-<VN> 
+<VN> Usami: “Tôi đang cố gắng hết sức đây. Xem này, để tôi phô diễn kỹ năng bằng cách nướng chỗ bánh này chuẩn đét cho em coi!”
 
 =--=========================================
 <ID> 62
 <JP> 月下「決めるのはオーナーであります」
-<VN> 
+<VN> Gekka: “Người quyết định là bà chủ chứ có phải tôi đâu.”
 
 =--=========================================
 <ID> 63
 <JP> 鴉羽「ちょっと、なにやってるの？」
-<VN> 
+<VN> Karasuba: “Này, mọi người đang làm gì thế hả?”
 
 =--=========================================
 <ID> 64
 <JP> 　すこし慌てた様子で、鴉羽さんが厨房をのぞき込んでいる。
-<VN> 
+<VN>  Karasuba-san nhìn vào trong bếp, trông thần sắc có chút hoảng loạn.
 
 =--=========================================
 <ID> 65
 <JP> 鴉羽「なんだか焦げ臭いわよ！？」
-<VN> 
+<VN> Karasuba: “Sao lại có mùi cháy khét thế kia?!”
 
 =--=========================================
 <ID> 66
 <JP> 宇佐美「えっ……ああっ！？」
-<VN> 
+<VN> Usami: “Hở?... AAAAAAAA!!!!!”
 
 =--=========================================
 <ID> 67
 <JP> 　オーブンの隙間から、ぷすぷすと煙が漏れていた。
-<VN> 
+<VN>  Khói đang tràn ra ngoài lò nướng qua khe hở.
 
 =--=========================================
 <ID> 68
 <JP> 　慌てて中を確かめるが、時既に遅し。
-<VN> 
+<VN>  Tôi cuống quýt mở ra kiểm tra bên trong, nhưng đã quá muộn.
 
 =--=========================================
 <ID> 69
 <JP> 　滑らかな黄金色を放っていたシュー生地は、無残にも炭化していた。
-<VN> 
+<VN>  Bánh su vốn có màu vàng, giờ đây đã cháy đen không rõ hình hài.
 
 =--=========================================
 <ID> 70
 <JP> 宇佐美「やってしまった……」
-<VN> 
+<VN> Usami: “Thế là xong phim…”
 
 =--=========================================
 <ID> 71
 <JP> 　温度調節を失敗していたのかもしれない。
-<VN> 
+<VN>  Có lẽ tôi đã làm sai ngay từ khâu điều chỉnh nhiệt độ.
 
 =--=========================================
 <ID> 72
 <JP> 　月下がきな臭いといったところで気付くべきだった。
-<VN> 
+<VN>  Đáng ra tôi phải để ý khi Gekka bảo là có mùi cháy chứ.
 
 =--=========================================
 <ID> 73
 <JP> 鴉羽「これはもう、食べられそうにないわね」
-<VN> 
+<VN> Karasuba: “Thế này thì… làm sao ăn được nữa…”
 
 =--=========================================
 <ID> 74
 <JP> 灰桜「うみゅみゅ、おいひくないですっ」
-<VN> 
+<VN> Haizakura: “Umyumyu! Trẳng ngoong trút nào!”
 
 =--=========================================
 <ID> 75
 <JP> 宇佐美「言ってるそばから摘まんじゃダメだって！」
-<VN> 
+<VN> Usami: “Vừa nói xong đã nhón ăn cho được!”
 
 =--=========================================
 <ID> 76
 <JP> 鴉羽「ほら、ぺっぺしなさい。シャノも食べないの！」
-<VN> 
+<VN> Karasuba: “Nào, nhè ra nhanh! Chano cũng đừng có ăn!”
 
 =--=========================================
 <ID> 77
 <JP> 宇佐美「あぁ、料理の腕前を見せようと思ったのに……」
-<VN> 
+<VN> Usami: “Aaa… tôi vốn chỉ định trổ tài bếp núc thôi mà…”
 
 =--=========================================
 <ID> 78
 <JP> 月下「やはりクビでありましょうか」
-<VN> 
+<VN> Gekka: “Xem ra chỉ còn cách sa thải thôi nhỉ.”
 
 =--=========================================
 <ID> 79
 <JP> 宇佐美「嫌だーーーー！」
-<VN> 
+<VN> Usami: “Không đâuuuuuuuuuuuu!!!!!!!!!!!”
 
 =--=========================================
 <ID> 80
 <JP> ＊　　　　　　　＊　　　　　　　＊
-<VN> 
+<VN> ＊　　　　　　　＊　　　　　　　＊
 
 =--=========================================
 <ID> 81
 <JP> 宇佐美「はぁ……」
-<VN> 
+<VN> Usami: “Hầy…”
 
 =--=========================================
 <ID> 82
 <JP> 　長い影を追いながらとぼとぼと歩く。
-<VN> 
+<VN>  Tôi lảo đảo lê bước theo cái bóng đổ dài ngoẵng trên mặt đường.
 
 =--=========================================
 <ID> 83
 <JP> 　お日様が溶けそうな顔で、山の手城の後ろに沈んでいく。街灯がなんとも頼りなく明滅していた。
-<VN> 
+<VN>  Ông Mặt Trời nom như khuôn mặt chảy xệ đang dần lặn xuống đằng sau tòa thành Yamanote. Còn ánh đèn đường thì cứ nhấp nha nhấp nháy, chẳng thể trông cậy vào được.
 
 =--=========================================
 <ID> 84
 <JP> 宇佐美「なんとも奥が深いものだなぁ……」
-<VN> 
+<VN> Usami: “Đúng là thâm sâu khó lường mà…”
 
 =--=========================================
 <ID> 85
 <JP> 　あれからいくつか洋菓子を試し焼きして見たが、なんとも上手くいかない。
-<VN> 
+<VN>  Từ lúc ấy tôi đã thử làm bánh nướng Tây phương chẳng biết bao nhiêu phen, vậy mà phen nào cũng thất bại.
 
 =--=========================================
 <ID> 86
 <JP> 　それならと二区まで足を伸ばして、流行の洋菓子屋を覗いて参考にしてみようとしたのだが、そこはなんともきらびやかな世界で、硝子ケースに並べられたお菓子はまるで宝石のような艶っぽさで、要するに激しい敗北感を覚えて、こうして石畳の上をふらふら歩いているのだ。
-<VN> 
+<VN>  Thế là tôi bèn sang quận Hai, nghía qua những cửa hàng bánh kẹo của Tây hòng tham khảo, nhưng đó lại là cả một tân thế giới rực rỡ chói lòa. Vô số chiếc kệ thủy tinh xếp hàng hàng lớp lớp nào bánh nào kẹo sáng bóng tựa bảo ngọc, khiến cho cái cảm giác bại trận đâm tôi không trượt phát nào. Thành thử tôi mới thất thểu lang thang trên con đường lát đá thế này đây.
 
 =--=========================================
 <ID> 87
 <JP> 　急かすような音を鳴らして、路面電車がやってくる。ちょうど帰宅どき、小さな車体に人々が飲み込まれていく。なんとなくまだ帰る気持ちにはなれなかった。運賃だけ払って気持ちを落ち込ませただけという事実を認めたくない気持ちもあったし、なにより先程からずっとお腹が空いている。気落ちしているのはそのせいもあるだろう。
-<VN> 
+<VN>  Xe điện phố vừa khi chạy đến, phát ra âm thanh cơ hồ giục giã. Vì vừa đúng giờ tan tầm, nên người người đang đổ xô lên toa xe bé tẹo. Dù vậy tôi vẫn chưa muốn về nhà. Một mặt không dám thừa nhận sự thật rằng ban đầu mình trả tiền vé chỉ để đổi lấy tâm trạng ỉu xìu, mặt khác, bụng tôi đã réo ùng ục từ nãy tới giờ rồi. Hẳn đó là nguyên do chính làm tôi sa sút tinh thần.
 
 =--=========================================
 <ID> 88
 <JP> 　近くの洋食屋を覗いてみるが、なんとなく敷居が高そうで、いまの懐具合でははばかられた。どうするでもなく、なんとも優柔不断に街を彷徨い歩いていると……。
-<VN> 
+<VN>  Tôi liếc qua nhà hàng đồ Tây gần đây, có điều nghe chừng tình hình tài chính hiện tại của tôi khó mà kham nổi thứ gì ở đó rồi. Chẳng biết làm sao, tôi lưỡng lự, rồi bắt đầu dạo quanh thị trấn trong vô định…
 
 =--=========================================
 <ID> 89
 <JP> 宇佐美（……いい匂いだ）
-<VN> 
+<VN> Usami: (... mùi gì thơm quá.)
 
 =--=========================================
 <ID> 90
 <JP> 　なんとも懐かしい出汁の匂いが鼻先をくすぐった。外観は酒屋さんのようだが、どうして？と思うと何のことは無い。店内の一画で酒肴を提供しているのだ。いわゆる立ち飲み屋で、よく見ると酒屋としての入り口と、飲み屋としての入り口が分けられているのが分かる。店内はぎゅうぎゅうで、よほど繁盛しているらしい。
-<VN> 
+<VN>  Mùi nước dùng thân thuộc này đang kích thích khứu giác của tôi. Cơ mà nhìn bề ngoài thì nơi này giống cửa hàng rượu hơn chứ nhỉ? Suy luận sao cũng chẳng ra manh mối. Họ dùng một góc quán để bán đồ uống cùng đồ nhắm. Hẳn đây là nơi người ta hay gọi là quán nhậu. Nhìn kỹ hơn, tôi chợt nhận ra cửa hàng rượu và quán nhậu đi vào bằng hai cửa khác nhau. Bên trong quán đông kín người, xem bộ nơi này làm ăn cũng khấm khá.
 
 =--=========================================
 <ID> 91
 <JP> 「こんばんわぁ」
-<VN> 
+<VN>  “Chào buổi tối.”
 
 =--=========================================
 <ID> 92
 <JP> 　ちょうどカウンターを拭いていたお姉さんと目が合った。夜空を思わせる着物をたすき掛けにしている。肩までの短い髪がさらりと揺れる。頭の上には三角巾。背中には鈍色の煙突が伸びている。
-<VN> 
+<VN>  Vừa bước chân vào, tôi được một chị gái đang lau dọn quầy uống chào đón. Chị ấy vận trên người một bộ kimono thêu họa tiết gợi người ta nghĩ về bầu trời đêm, lại còn thắt chéo khăn tasuki<a href="#1_"><sup>[1]</sup></a> sau lưng. Mái tóc ngắn ngang vai của chị khẽ lay động. Trên đầu chị là một tấm vải tam giác hay dùng khi làm bếp, và một ống khói màu xám gắn sau lưng…
 
 =--=========================================
 <ID> 93
 <JP> 　……煙突？
-<VN> 
+<VN>  … Ống khói á?
+<br />
+<br />
+<span style="font-size:12;">
+<a id = "1_" href="#_1"><sup>[1]</sup></a> Tasuki là một dải băng vài thường dùng để bó tay áo rộng của kimono để không bị vướng víu khi lao động.
+</span>
 
 =--=========================================
 <ID> 94
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 95
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 96
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：中島由貴（箒星）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Nakashima Yuki (Houkiboshi)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 97
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================

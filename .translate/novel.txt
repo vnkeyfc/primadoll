@@ -296,12 +296,12 @@
 =--=========================================
 <ID> 53
 <JP> 2020年12月15日更新　約2700文字／目安読書時間【5分】
-<VN> Cập nhật ngày 26/02/2023 ‧ Khoảng 1400 chữ ‧ Ước tính thời gian đọc: 5 phút
+<VN> Cập nhật ngày 19/03/2023 ‧ Khoảng 1400 chữ ‧ Ước tính thời gian đọc: 5 phút
 
 =--=========================================
 <ID> 54
 <JP> 『定休日』今日は週に一度、羽根を伸ばせる休日なのだ。
-<VN> [Ngày nghỉ cố định]. Một ngày trong tuần, chúng tôi sẽ được nghỉ và thoải mái làm bất cứ thứ gì.
+<VN> [Ngày nghỉ định kỳ]. Một ngày trong tuần, chúng tôi sẽ được nghỉ và tự do làm bất cứ việc gì.
 
 =--=========================================
 <ID> 55
@@ -311,7 +311,7 @@
 =--=========================================
 <ID> 56
 <JP> 2020年12月18日更新　約1800文字／目安読書時間【4分】
-<VN> Cập nhật ngày 26/02/2023 ‧ Khoảng 1000 chữ ‧ Ước tính thời gian đọc: 4 phút
+<VN> Cập nhật ngày 19/03/2023 ‧ Khoảng 1000 chữ ‧ Ước tính thời gian đọc: 4 phút
 
 =--=========================================
 <ID> 57
@@ -326,12 +326,12 @@
 =--=========================================
 <ID> 59
 <JP> 2020年12月22日更新　約2000文字／目安読書時間【4分】
-<VN> Cập nhật ngày 26/02/2023 ‧ Khoảng 900 chữ ‧ Ước tính thời gian đọc: 4 phút
+<VN> Cập nhật ngày 19/03/2023 ‧ Khoảng 900 chữ ‧ Ước tính thời gian đọc: 4 phút
 
 =--=========================================
 <ID> 60
 <JP> 「ですが、なんだか私の運がとっても悪いみたいじゃないですか」
-<VN> “Nhưng nếu cứ để yên thì chẳng phải quả vận của mình nó quá thảm hại rồi hay sao?”
+<VN> “Nhưng nếu cứ để vậy thì chẳng phải quả vận của mình nó quá thảm hại rồi hay sao?”
 
 =--=========================================
 <ID> 61
@@ -341,7 +341,7 @@
 =--=========================================
 <ID> 62
 <JP> 2020年12月25日更新　約1500文字／目安読書時間【3分】
-<VN> Cập nhật ngày 26/02/2023 ‧ Khoảng 650 chữ ‧ Ước tính thời gian đọc: 3 phút
+<VN> Cập nhật ngày 19/03/2023 ‧ Khoảng 650 chữ ‧ Ước tính thời gian đọc: 3 phút
 
 =--=========================================
 <ID> 63
