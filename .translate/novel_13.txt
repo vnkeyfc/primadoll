@@ -205,12 +205,12 @@
 =--=========================================
 <ID> 35
 <JP> 　「もしかして、こっちの目玉焼きっていうのは……」
-<VN>   “Có khi nào, cái trứng ốp la<a href ="#3_><sup>[3]</sup> trên kia…”
+<VN>   “Có khi nào, cái trứng ốp la<a href ="#3_><sup>[3]</sup></a> trên kia…”
 
 =--=========================================
 <ID> 36
 <JP> 「今朝は新鮮なまぐろが市場にあがりまして……」
-<VN>  “Cá ngừ tươi vừa bắt được ban sáng tôi đã mua ngoài…”
+<VN>  “Cá ngừ tươi vừa bắt được ban sáng tôi đã mua ngoài…”<span id = "_4"></span>
  
 =--=========================================
 <ID> 37
@@ -225,7 +225,7 @@
 =--=========================================
 <ID> 39
 <JP> 　「あの、じゃあもしかして、たぬきうどんっていうのは」
-<VN>   “Vậy, lẽ nào cái tanuki udon<a id = "_4" href="#4_"><sup>[4]</sup></a> kia chính là…”
+<VN>   “Vậy, lẽ nào cái tanuki udon<a  href="#4_"><sup>[4]</sup></a> kia chính là…”
 
 =--=========================================
 <ID> 40
@@ -460,7 +460,7 @@
 =--=========================================
 <ID> 86
 <JP> 
-<VN> << <br /><br />
+<VN><br /><br />
 <span style="font-size:12;">
 <a id = "1_" href="#_1"><sup>[1]</sup></a> Korroke là món rán ngập dầu thường có vỏ là bột mì với nhiều biến thể nhân, bắt nguồn từ bánh croquette của Pháp.
 <br />
