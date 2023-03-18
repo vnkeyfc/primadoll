@@ -1116,7 +1116,7 @@ li{list-style-type:none}
 }
 
 .novel_text_style,
-.novel_text_style>:is(i,em,b,u){
+.novel_text_style>:is(a,i,em,b,u){
 	font-size: 18px;
 	line-height: 38px;
 }
