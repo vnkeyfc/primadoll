@@ -456,17 +456,6 @@
 <ID> 85
 <JP> 「練習あるのみですっ」
 <VN>  “Chỉ cần luyện tập là được.”
-<br />
-<br />
-<span style="font-size:12;">
-<a id = "1_" href="#_1"><sup>[1]</sup></a> Korroke là món rán ngập dầu thường có vỏ là bột mì với nhiều biến thể nhân, bắt nguồn từ bánh croquette của Pháp.
-<br />
-<a id = "2_" href="#_2"><sup>[2]</sup></a> Trong tiếng Nhật, "điểm nhấn" và "mắt" (hay "nhãn cầu") đều được viết là 目玉. Ở đây Usami đã hiểu nhầm 目玉 là "điểm nhấn", thay vì "mắt (cá ngừ)" như dụng ý thật sự của Houkiboshi.
-<br />
-<a id = "3_" href="#_3"><sup>[3]</sup></a> Trong tiếng Nhật, "trứng ốp la" được viết là 目玉焼き, với 目玉 có một cách hiểu khác là mắt hay nhãn cầu như chú thích trên. Ở đây Usami đang lo sợ rằng 目玉焼き được hiểu theo nghĩa là "mắt rán" thay vì "trứng ốp la".
-<br />
-<a id = "4_" href="#_4"><sup>[4]</sup></a> Trong tiếng Nhật, "tanuki" (たぬき) là tên thông tục của một loài lửng chó hay gấu mèo. "Tanuki udon" (たぬきうどん) lại đang ám chỉ món mì udon có phụ liệu ăn kèm là tempura. Ở đây Usami đang lo sợ rằng "tanuki udon" được hiểu theo nghĩa là mì udon làm từ thịt tanuki.
-</span>
 
 =--=========================================
 <ID> 86
