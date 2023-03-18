@@ -320,7 +320,7 @@
 =--=========================================
 <ID> 58
 <JP> 　はぐはぐとピーナッツ入りシューを頬張るボクの隣で、またぱちりと片目をつぶる。
-<VN>  Trong khi tôi còn đang mải ngấu nghiến chiếc bánh, chị ấy tiến lại cạnh bên và một lần nữa nháy mắt.
+<VN>  <i>Trong khi</i> tôi còn đang mải ngấu nghiến chiếc bánh, chị ấy tiến lại cạnh bên và một lần nữa nháy mắt.
 
 =--=========================================
 <ID> 59
