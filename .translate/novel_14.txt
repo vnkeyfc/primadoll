@@ -305,7 +305,7 @@
 =--=========================================
 <ID> 55
 <JP> 「食感が面白いですよね。西邦では、お祝いのお菓子には豆を練り込むみたいなんです」
-<VN>  “Ăn vào cảm giác rất thú vị đúng không? Giống như <i>thức quà chúc phúc<a id = "1_" href="#_1"><sup>[1]</sup></a></i> nhào với đậu theo kiểu Tây ấy.”
+<VN>  “Ăn vào cảm giác rất thú vị đúng không? Giống như <i>thức quà chúc phúc<sup><a href="#_1">[1]</a></sup></i> nhào với đậu theo kiểu Tây ấy.”
 
 =--=========================================
 <ID> 56
