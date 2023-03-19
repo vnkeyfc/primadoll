@@ -346,7 +346,7 @@
 =--=========================================
 <ID> 63
 <JP> 「いいえ、からちゃんとげっちゃん……それに、灰ちゃんによろしくお願いします」
-<VN> “Không sao mà. Nhờ bạn chăm sóc Kara-chan, Gecchan… và cả Hai-chan nhé.”
+<VN> “Đừng thế mà. Nhờ bạn chăm sóc Kara-chan, Gecchan… và cả Hai-chan nhé.”
 
 =--=========================================
 <ID> 64
