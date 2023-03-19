@@ -200,7 +200,7 @@
 =--=========================================
 <ID> 34
 <JP> 「本日の目玉ですから」
-<VN>  “Thì <i>nó đúng</i> là món mắt cá<object><a id = "forced_navigate_1" href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”
+<VN>  “Thì <i style="font-size:18px;">nó đúng</i> là món mắt cá<object><a id = "forced_navigate_1" href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”
 
 =--=========================================
 <ID> 35
