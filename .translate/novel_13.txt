@@ -200,7 +200,7 @@
 =--=========================================
 <ID> 34
 <JP> 「本日の目玉ですから」
-<VN>  “Thì <i>nó đúng</i> là món mắt cá<object><a href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”
+<VN>  “Thì <i>nó đúng</i> là món mắt cá<object><a id = "forced_navigate_1" href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”
 
 =--=========================================
 <ID> 35
@@ -470,6 +470,15 @@
 <br />
 <a id = "4_" href="#_4"><sup>[4]</sup></a> Trong tiếng Nhật, "tanuki" (たぬき) là tên thông tục của một loài lửng chó hay gấu mèo. "Tanuki udon" (たぬきうどん) lại đang ám chỉ món mì udon có phụ liệu ăn kèm là tempura. Ở đây Usami đang lo sợ rằng "tanuki udon" được hiểu theo nghĩa là mì udon làm từ thịt tanuki.
 </span>
+<script>
+var toonakko = document.getElementById("forced_navigate_1");
+toonakko.addEventListener("click", forced_navigate_1)
+
+function forced_navigate_1(){
+    window.location.href = "#2_"
+}
+
+</script>
 
 =--=========================================
 <ID> 87
