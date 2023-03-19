@@ -230,8 +230,8 @@
 <div class="jp-type-single">
 <div class="jp-gui jp-interface">
 <ul class="jp-controls character_sv_bt4">
-<li><a class="jp-play" href="javascript:;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Nguyên liệu bí mật… chính là đậu phộng đó!”<span id="1_"></span></a></li>
-<li><a class="jp-pause" href="javascript:;" style="display: none;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Nguyên liệu bí mật… chính là đậu phộng đó!”<span id="1_"></span></a></li>
+<li><a class="jp-play" href="javascript:;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Nguyên liệu bí mật… chính là đậu phộng đó!”<span id="_1"></span></a></li>
+<li><a class="jp-pause" href="javascript:;" style="display: none;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Nguyên liệu bí mật… chính là đậu phộng đó!”<span id="_1"></span></a></li>
 </ul>
 </div>
 </div>
@@ -241,8 +241,8 @@
 <div class="jp-type-single">
 <div class="jp-gui jp-interface">
 <ul class="jp-controls character_sv_bt4">
-<li><a class="jp-play" href="javascript:;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Ăn vào cảm giác rất thú vị đúng không? Giống như <i style="font-size:18px;">thức quà chúc phúc</i><object><sup><a href="#_1" id="forced_navigate_1">[1]</a></sup></object> nhào với đậu theo kiểu Tây ấy.”</a></li>
-<li><a class="jp-pause" href="javascript:;" style="display: none;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Ăn vào cảm giác rất thú vị đúng không? Giống như <i style="font-size:18px;">thức quà chúc phúc</i><object><sup><a href="#_1" id="forced_navigate_1">[1]</a></sup></object> nhào với đậu theo kiểu Tây ấy.”</a></li>
+<li><a class="jp-play" href="javascript:;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Ăn vào cảm giác rất thú vị đúng không? Giống như <i style="font-size:18px;">thức quà chúc phúc</i><object><sup><a href="javascript:;" id="forced_navigate_1">[1]</a></sup></object> nhào với đậu theo kiểu Tây ấy.”</a></li>
+<li><a class="jp-pause" href="javascript:;" style="display: none;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Ăn vào cảm giác rất thú vị đúng không? Giống như <i style="font-size:18px;">thức quà chúc phúc</i><object><sup><a href="javascript:;" id="forced_navigate_1">[1]</a></sup></object> nhào với đậu theo kiểu Tây ấy.”</a></li>
 </ul>
 </div>
 </div>
@@ -410,7 +410,15 @@
 <br/><br/>
 <span style="font-size:12;">
 <a href="#_1" id="1_"><sup>[1]</sup></a> Nguyên văn là "oiwai no okashi" (お祝いのお菓子) từ chỉ các loại bánh kẹo có quà tặng (thường là phụ liệu) ngẫu nhiên bên trong mà chỉ người may mắn mới ăn trúng.
-</span><br/>
+</span>
+<script>
+var toonakko = document.getElementById("forced_navigate_1");
+toonakko.addEventListener("click", forced_navigate_1);
+
+function forced_navigate_1(){
+    window.location.href = "#1_";
+}
+</script><br/>
 <br/>
 <div class="novel_main_title_pn">
 <a href="novel_13.html">&lt;&lt; Chương trước</a>　　　<a href="novel_15.html">Chương kế tiếp &gt;&gt;</a>
