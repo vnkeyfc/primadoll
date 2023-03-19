@@ -295,7 +295,7 @@
 =--=========================================
 <ID> 53
 <JP> 「その秘密は……ピーナッツです！」
-<VN>  “Nguyên liệu bí mật… chính là đậu phộng đó!”<span id = "1_"></span>
+<VN>  “Nguyên liệu bí mật… chính là đậu phộng đó!”<span id = "_1"></span>
 
 =--=========================================
 <ID> 54
@@ -305,7 +305,7 @@
 =--=========================================
 <ID> 55
 <JP> 「食感が面白いですよね。西邦では、お祝いのお菓子には豆を練り込むみたいなんです」
-<VN>  “Ăn vào cảm giác rất thú vị đúng không? Giống như <i style="font-size:18px;">thức quà chúc phúc</i><object><sup><a id = "forced_navigate_1" href="#_1">[1]</a></sup></object> nhào với đậu theo kiểu Tây ấy.”
+<VN>  “Ăn vào cảm giác rất thú vị đúng không? Giống như <i style="font-size:18px;">thức quà chúc phúc</i><object><sup><a id = "forced_navigate_1" href="javascript:;">[1]</a></sup></object> nhào với đậu theo kiểu Tây ấy.”
 
 =--=========================================
 <ID> 56
@@ -474,6 +474,14 @@
 <span style="font-size:12;">
 <a id = "1_" href="#_1"><sup>[1]</sup></a> Nguyên văn là "oiwai no okashi" (お祝いのお菓子) từ chỉ các loại bánh kẹo có quà tặng (thường là phụ liệu) ngẫu nhiên bên trong mà chỉ người may mắn mới ăn trúng.
 </span>
+<script>
+var toonakko = document.getElementById("forced_navigate_1");
+toonakko.addEventListener("click", forced_navigate_1);
+
+function forced_navigate_1(){
+    window.location.href = "#1_";
+}
+</script>
 
 =--=========================================
 <ID> 89
