@@ -295,12 +295,12 @@
 =--=========================================
 <ID> 53
 <JP> 鴉羽「うささん、あなたもその一人なんだから」
-<VN> Karasuba: “Usa-san, ngài cũng là một người như vậy đấy.”
+<VN> Karasuba: “Usa-san, ngài cũng là một người như vậy đấy.
 
 =--=========================================
 <ID> 54
 <JP> 鴉羽「箒星も、すぐにって訳じゃ無さそうだし。だから……期待してるわね」
-<VN> Karasuba: “Houkiboshi cũng không phải sẽ về ngay nên… em kỳ vọng vào ngài lắm đó.”
+<VN> Houkiboshi cũng không phải sẽ về ngay nên… em kỳ vọng vào ngài lắm đó.”
 
 =--=========================================
 <ID> 55
