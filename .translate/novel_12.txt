@@ -499,7 +499,7 @@
 <br />
 <br />
 <span style="font-size:12;">
-<a id = "1_" href="#_1"><sup>[1]</sup></a> Tasuki là một dải băng vài thường dùng để bó tay áo rộng của kimono để không bị vướng víu khi lao động.
+<a id = "1_" href="#_1"><sup>[1]</sup></a> Tasuki là một dải băng vài thường dùng để bó tay áo rộng của kimono nhằm tránh bị vướng víu khi lao động.
 </span>
 
 =--=========================================
