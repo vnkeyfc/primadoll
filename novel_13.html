@@ -150,8 +150,8 @@
 <div class="jp-type-single">
 <div class="jp-gui jp-interface">
 <ul class="jp-controls character_sv_bt4">
-<li><a class="jp-play" href="javascript:;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Thì <i>nó đúng</i> là món mắt cá<object><a href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”</a></li>
-<li><a class="jp-pause" href="javascript:;" style="display: none;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Thì <i>nó đúng</i> là món mắt cá<object><a href="#2_"><sup>[2]</sup></a></object> của ngày hôm nay mà.”</a></li>
+<li><a class="jp-play" href="javascript:;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Thì <i>nó đúng</i> là món mắt cá<object><a href="#2_" id="forced_navigate_1"><sup>[2]</sup></a></object> của ngày hôm nay mà.”</a></li>
+<li><a class="jp-pause" href="javascript:;" style="display: none;" tabindex="1"><img src="common/image/koe_houkiboshi.png"/> “Thì <i>nó đúng</i> là món mắt cá<object><a href="#2_" id="forced_navigate_1"><sup>[2]</sup></a></object> của ngày hôm nay mà.”</a></li>
 </ul>
 </div>
 </div>
@@ -399,6 +399,15 @@
 <br/>
 <a href="#_4" id="4_"><sup>[4]</sup></a> Trong tiếng Nhật, "tanuki" (たぬき) là tên thông tục của một loài lửng chó hay gấu mèo. "Tanuki udon" (たぬきうどん) lại đang ám chỉ món mì udon có phụ liệu ăn kèm là tempura. Ở đây Usami đang lo sợ rằng "tanuki udon" được hiểu theo nghĩa là mì udon làm từ thịt tanuki.
 </span>
+<script>
+var toonakko = document.getElementById("forced_navigate_1");
+toonakko.addEventListener("click", forced_navigate_1)
+
+function forced_navigate_1(){
+    window.location.href = "#2_"
+}
+
+</script>
 <br/><br/>
 <div class="novel_main_title_pn">
 <a href="novel_12.html">&lt;&lt; Chương trước</a>　　　<a href="novel_14.html">Chương kế tiếp &gt;&gt;</a>
