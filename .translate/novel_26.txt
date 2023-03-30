@@ -225,7 +225,7 @@
 =--=========================================
 <ID> 39
 <JP> おとめ「酒だ」
-<VN> Otome: “Là rượu chứ còn gì nữa.”
+<VN> Otome: “Là rượu chứ còn gì nữa.”<span id="1_"></span>
 
 =--=========================================
 <ID> 40
@@ -564,7 +564,7 @@
 <br />
 <br />
 <span style="font-size:12;">
-<a id = "1_" href="#_1"><sup>[1]</sup></a> Ở đây ngụ ý "brandy", một loại rượu được chưng cất từ trái cây, rau quả lên men với nồng độ cồn thấp hơn hẳn rượu nguyên chất.
+<a id = "_1" href="#1_"><sup>[1]</sup></a> Ở đây ngụ ý "brandy", một loại rượu được chưng cất từ trái cây, rau quả lên men với nồng độ cồn thấp hơn hẳn rượu nguyên chất.
 </span>
 
 =--=========================================
