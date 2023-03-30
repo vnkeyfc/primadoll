@@ -1,691 +1,691 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 04-3　黒猫亭のうさぎ（3）
-<VN> 
+<VN> 04-03: Nàng thỏ ở quán Mèo Đen (3)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 　皇都第六区──
-<VN> 
+<VN> Quận Sáu Hoàng Đô—
 
 =--=========================================
 <ID> 6
 <JP> 　戦前より古くから、皇都の歓楽街として成長してきた区画。
-<VN> 
+<VN> Một khu vực vốn đã là phố đèn đỏ ngay từ thời tiền chiến.
 
 =--=========================================
 <ID> 7
 <JP> 　様々な色のネオンの輝きは、夜にも関わらず大通りを昼よりも明るく、蠱惑的に照らしている。
-<VN> 
+<VN> Dù đang là ban đêm, ánh đèn neon đủ thứ màu sắc vẫn soi sáng một vẻ mê hoặc, khiến đường chính trông còn rực rỡ hơn cả ban ngày.
 
 =--=========================================
 <ID> 8
 <JP> 　大戦末期は灯火管制のおかげですっかり寂れていたそうだが、ここ数年は往年の賑わいを取り戻しつつある。
-<VN> 
+<VN> Do thời kỳ quản chế ánh sáng mà nơi này hoàn toàn bị bỏ rơi suốt giai đoạn cuối cuộc đại chiến, nhưng trong vài năm gần đây nó đã được hồi sinh, thậm chí còn náo nhiệt hơn cả khi xưa.
 
 =--=========================================
 <ID> 9
 <JP> 宇佐美「これは場違いだなあ……」
-<VN> 
+<VN> Usami: “Đứng đây trông mình lạc quẻ thật…”
 
 =--=========================================
 <ID> 10
 <JP> 　ネオンの眩しさに圧倒されるボクたちを、大人達はチラチラと見ては通り過ぎていく。
-<VN> 
+<VN> Những người lớn qua đường cứ len lén liếc trộm chúng tôi – những kẻ còn đang bị choáng ngợp trong ánh đèn neon.
 
 =--=========================================
 <ID> 11
 <JP> 灰桜「おおー……お～～……」
-<VN> 
+<VN> Haizakura: “Oa—... Oa~~”
 
 =--=========================================
 <ID> 12
 <JP> 　灰桜はというと、ボクとは違う意味で目を丸くしていた。
-<VN> 
+<VN> Về phần Haizakura, em đang tròn xoe mắt theo một nghĩa khác so với tôi.
 
 =--=========================================
 <ID> 13
 <JP> 灰桜「うささん、凄いです！　まるでお祭りのような街です！　ここはとても楽しい場所なのでしょうか？」
-<VN> 
+<VN> Haizakura: “Usa-san, tuyệt quá đi! Phố xá cứ như đang mở hội ấy! Nơi này lúc nào cũng vui nhộn thế này ạ?”
 
 =--=========================================
 <ID> 14
 <JP> 　街の雰囲気に興奮しているようで、背嚢の煙突から蒸気を小刻みに噴かしている。
-<VN> 
+<VN> Xem chừng bị phấn khích bởi bầu không khí nơi đây hay sao, mà chiếc ống khói sau lưng em cứ nhả hơi nước từng đợt từng đợt một.
 
 =--=========================================
 <ID> 15
 <JP> 灰桜「ところでここはどういう所なのでしょうか？」
-<VN> 
+<VN> Haizakura: “Cơ mà, nơi này là như thế nào vậy ạ?”
 
 =--=========================================
 <ID> 16
 <JP> 宇佐美「えっとー……大人がお酒を楽しく飲む～……場所ってところかな……？」
-<VN> 
+<VN> Usami: “Ờ… là chỗ người lớn vui vẻ uống rượu… chăng…?”
 
 =--=========================================
 <ID> 17
 <JP> 　どこまで言っていいか分からず、なんとも曖昧な言い方になってしまう。
-<VN> 
+<VN> Tôi chẳng biết nói cho em nghe tới đâu thì nên, thành ra lời giải thích của tôi mơ hồ đến lạ.
 
 =--=========================================
 <ID> 18
 <JP> 宇佐美「とりあえず鴉羽さんのところにいこう。奥宮さんから貰った地図だとこの先の角を曲がったところだよ」
-<VN> 
+<VN> Usami: “Trước hết cứ đến chỗ Karasuba-san đã. Theo bản đồ Okunomiya-san vẽ thì nó chỉ ở đâu đó quanh đây thôi.”
 
 =--=========================================
 <ID> 19
 <JP> 灰桜「はい！」
-<VN> 
+<VN> Haizakura: “Vâng!”
 
 =--=========================================
 <ID> 20
 <JP> 　ほろ酔い気分で盛り上がっている人々をすり抜けていく。
-<VN> 
+<VN> Chúng tôi lướt qua những con người đang hưng phấn trong men say.
 
 =--=========================================
 <ID> 21
 <JP> 　時々灰桜を見て、人形だと気づいて距離をとる人も居た。
-<VN> 
+<VN> Đôi lúc lại có người dừng lại ngắm Haizakura, để rồi khi nhận ra em là Hình nhân thì bắt đầu giữ khoảng cách.
 
 =--=========================================
 <ID> 22
 <JP> 　残念なことだけど、仕方の無い事でもあることは承知しているけど、やるせない気持ちになる。
-<VN> 
+<VN> Cay thật đấy, song tôi hiểu rằng đây là lẽ tất yếu. Mặc dù vậy, cái cảm giác bức bối vẫn ứ đọng trong tôi.
 
 =--=========================================
 <ID> 23
 <JP> 　だけど幸い、当の本人は街のネオンに夢中で、そんな視線にも気づいていなかったことだった。
-<VN> 
+<VN> May mắn thay, nhân vật chính lại đang mơ màng ngắm nhìn ánh đèn neon mà chẳng để tâm đến những ánh mắt đó chút nào.
 
 =--=========================================
 <ID> 24
 <JP> 　そして──
-<VN> 
+<VN> Và rồi—
 
 =--=========================================
 <ID> 25
 <JP> 宇佐美「ここ……かな」
-<VN> 
+<VN> Usami: “Là chỗ này… nhỉ?”
 
 =--=========================================
 <ID> 26
 <JP> 　地図に記されていた場所には、一際華やかなネオンで彩られたお店があった。
-<VN> 
+<VN> Tại nơi được đánh dấu trên bản đồ, là một căn tiệm được tô điểm nhờ hằng hà sa số bóng đèn neon.
 
 =--=========================================
 <ID> 27
 <JP> 　「キャバレー La-Bit's」と書かれた看板と、店頭にはオープンを祝う胡蝶蘭の鉢植えがいくつも並んでいる。
-<VN> 
+<VN> Tấm biển ghi [Hộp đêm La-Bit’s], ngoài ra còn có nhiều không kể xiết những chậu hoa lan hồ điệp xếp thẳng hàng ngoài cửa vào.
 
 =--=========================================
 <ID> 28
 <JP> 宇佐美「……あれ？　黒猫亭からもお花を贈ってる？」
-<VN> 
+<VN> Usami: “... Ô? Có cả hoa từ quán Mèo Đen mình này.”
 
 =--=========================================
 <ID> 29
 <JP> 　『喫茶・黒猫亭一同』という札が、白い胡蝶蘭の鉢に立てられていた。
-<VN> 
+<VN> Có một chiếc thẻ ghi dòng chữ [Từ toàn thể Trà quán Mèo Đen] cài trên một chậu lan hồ điệp trắng.
 
 =--=========================================
 <ID> 30
 <JP> 灰桜「どういうお店なんでしょうか？」
-<VN> 
+<VN> Haizakura: “Đây là cửa hàng gì vậy nhỉ?”
 
 =--=========================================
 <ID> 31
 <JP> 宇佐美「大人がショーを見ながら、楽しくお酒を飲むお店だよ」
-<VN> 
+<VN> Usami: “Là một nơi người lớn có thể vừa xem biểu diễn vừa thưởng rượu.”
 
 =--=========================================
 <ID> 32
 <JP> 灰桜「それは素敵なところですね」
-<VN> 
+<VN> Haizakura: “Nghe thích ghê.”
 
 =--=========================================
 <ID> 33
 <JP> 　また灰桜が目を輝かせていたけど、何かに気づいてボクの服の袖を引っ張る。
-<VN> 
+<VN> Đôi mắt của Haizakura một lần nữa lại sáng lấp lánh, nhưng rồi chừng như để ý thấy gì đó, em kéo tay áo tôi.
 
 =--=========================================
 <ID> 34
 <JP> 灰桜「うささん、このお店、まだ開店していないようです」
-<VN> 
+<VN> Haizakura: “Usa-san, nơi này hình như vẫn chưa mở cửa ạ.”
 
 =--=========================================
 <ID> 35
 <JP> 宇佐美「あれ？　本当だ」
-<VN> 
+<VN> Usami: “Hả? Thật này.”
 
 =--=========================================
 <ID> 36
 <JP> 　扉に貼られている貼り紙を見つめる。
-<VN> 
+<VN> Tôi nhìn vào tờ giấy thông báo treo trên cửa.
 
 =--=========================================
 <ID> 37
 <JP> 　どうやら新装開店するらしく、営業は明後日からだ。
-<VN> 
+<VN> Xem ra họ đang đóng cửa để tân trang, và sẽ mở cửa trở lại vào ngày kia.
 
 =--=========================================
 <ID> 38
 <JP> 宇佐美「困ったな。本当にここなのかな……？」
-<VN> 
+<VN> Usami: “Rắc rối rồi đây. Có thật là chỗ này không nhỉ.”
 
 =--=========================================
 <ID> 39
 <JP> 　奥宮さんから預かった黒猫亭の鍵をポケットから取り出して見つめる。
-<VN> 
+<VN> Tôi rút từ túi áo ra chiếc chìa khóa quán Mèo Đen mà Okunomiya-san giao cho.
 
 =--=========================================
 <ID> 40
 <JP> 灰桜「ごめんくださーい」
-<VN> 
+<VN> Haizakura: “CHO HỎI!”
 
 =--=========================================
 <ID> 41
 <JP> 宇佐美「え？！」
-<VN> 
+<VN> Usami: “Hả?!”
 
 =--=========================================
 <ID> 42
 <JP> 　いつのまにか灰桜がキャバレーの扉の前まで移動して、ドアをノックしていた。
-<VN> 
+<VN> Không biết tự lúc nào, Haizakura đã đứng trước cửa hộp đêm và gõ cửa.
 
 =--=========================================
 <ID> 43
 <JP> 灰桜「鴉羽さんはいらしゃいますかー！」
-<VN> 
+<VN> Haizakura: “Karasuba-san có ở đây không ạ?!”
 
 =--=========================================
 <ID> 44
 <JP> 宇佐美「わわっ、灰桜、駄目だよ」
-<VN> 
+<VN> Usami: “Oái oái, Haizakura! Vậy là không được đâu!”
 
 =--=========================================
 <ID> 45
 <JP> 灰桜「ですが、鴉羽さんはこの中にいるのかと……」
-<VN> 
+<VN> Haizakura: “Nhưng mà, có thể Karasuba-san đang ở trong đó…”
 
 =--=========================================
 <ID> 46
 <JP> 宇佐美「どうなんだろう……？」
-<VN> 
+<VN> Usami: “Chuyện đấy thì…”
 
 =--=========================================
 <ID> 47
 <JP> 　灰桜を扉の前から下がらせていると、見計らったようにドアが開いた。
-<VN> 
+<VN> Đúng lúc tôi vừa kéo Haizakura lùi ra sau thì cánh cửa bất ngờ bật mở.
 
 =--=========================================
 <ID> 48
 <JP> 支配人「気が早いね、開店してから来ておくれよ」
-<VN> 
+<VN> Quản lý: “Thiếu kiên nhẫn quá nhỉ. Đợi đến lúc quán mở cửa rồi hẵng quay lại nhé.”
 
 =--=========================================
 <ID> 49
 <JP> 　開いたドアから姿を現したのは、大胆に胸元の開いたドレスを着た壮齢の女性。
-<VN> 
+<VN> Người vừa mới mở cửa là một chị gái đứng tuổi khoác trên người bộ đầm lộ khe ngực đầy táo bạo.
 
 =--=========================================
 <ID> 50
 <JP> 　派手目の化粧で目鼻立ちをはっきりさせているせいか、視線に圧があった。
-<VN> 
+<VN> Ánh nhìn của chị ta thật áp đảo, hẳn là nhờ lớp trang điểm tôn lên vẻ ấn tượng cho đôi mắt.
 
 =--=========================================
 <ID> 51
 <JP> 支配人「おや？　あんたは……」
-<VN> 
+<VN> Quản lý: “Ôi chà? Hai đứa là…”
 
 =--=========================================
 <ID> 52
 <JP> 宇佐美「す、すみません、黒猫亭の者です。えっと……」
-<VN> 
+<VN> Usami: “E-Em xin lỗi đã làm phiền, chúng em đến từ quán Mèo Đen ạ! Ơ…”
 
 =--=========================================
 <ID> 53
 <JP> 灰桜「は、初めまして、灰桜と言います。鴉羽さんと一緒に黒猫亭で働いてます。まだ新人ですがどうぞよろしくお願いします」
-<VN> 
+<VN> Haizakura: “H-Hân hạnh được gặp chị, em tên là Haizakura ạ. Em là đồng nghiệp tại quán Mèo Đen của Karasuba-san ạ. Em vẫn còn là người mới, nên mong được chị chiếu cố ạ.”
 
 =--=========================================
 <ID> 54
 <JP> 宇佐美「鴉羽がお伺いしてると思うんですが、彼女の忘れ物を届けに来まして……」
-<VN> 
+<VN> Usami: “Cho em hỏi Karasuba-san có ở đây không ạ? Chúng em tới đưa đồ cậu ấy để quên…”
 
 =--=========================================
 <ID> 55
 <JP> 　深々と頭を下げると、灰桜もボクに倣って頭を下げる。
-<VN> 
+<VN> Thấy tôi cúi đầu thật thấp, Haizakura cũng cúi đầu theo tôi.
 
 =--=========================================
 <ID> 56
 <JP> 　女性はボクと灰桜をじっと見定めるように、頭から足までを眺める。
-<VN> 
+<VN> Chị gái nọ nhìn xoáy vào cả tôi và Haizakura từ đầu tới chân.
 
 =--=========================================
 <ID> 57
 <JP> 支配人「ふーむ……あんた黒猫亭の新人かい？　まあ良い、お入り」
-<VN> 
+<VN> Quản lý: “Hừm… mấy đứa là nhân viên mới của quán Mèo Đen hả? Mà thôi, vào đi.”
 
 =--=========================================
 <ID> 58
 <JP> 宇佐美「え？　いえ、ボクたちは鴉羽さんに鍵を渡せば……」
-<VN> 
+<VN> Usami: “Hơ? À không, tụi em tới để đưa Karasuba-san chìa khóa thôi…”
 
 =--=========================================
 <ID> 59
 <JP> 支配人「いま活躍してもらっているよ。ほら、見ていっておやり」
-<VN> 
+<VN> Quản lý: “Con bé giờ vẫn đang làm đấy. Vào xem đi.”
 
 =--=========================================
 <ID> 60
 <JP> ＊　　　　　　　＊　　　　　　　＊
-<VN> 
+<VN> ＊　　　　　　　＊　　　　　　　＊
 
 =--=========================================
 <ID> 61
 <JP> 　店内は外観の派手さに比べて、余りに静かだった。
-<VN> 
+<VN> Bên trong quán có phần tĩnh lặng quá mức so với vẻ hào nhoáng bên ngoài.
 
 =--=========================================
 <ID> 62
 <JP> 　ベルベット生地の上質なソファーは、ゆったりとした広さがあり、座っているとなんとも贅沢な心地だ。
-<VN> 
+<VN> Chiếc sofa làm bằng vải nhung cao cấp choán hết một không gian rộng rãi, tạo cảm giác xa xỉ khi ngồi vào.
 
 =--=========================================
 <ID> 63
 <JP> 　分厚い天板のテーブルの上には、高そうなお酒の瓶や、氷が山盛りに入れられたアイスぺール、フルーツの盛り合わせが並べられている。
-<VN> 
+<VN> Đặt trên mặt bàn dày cộp nào là những chai rượu đắt tiền, nào là những xô chậu chất đầy đá bên trong, và nào là những hoa quả gọt sẵn được bài trí rất đẹp mắt.
 
 =--=========================================
 <ID> 64
 <JP> 　沢山の間接照明が通路脇や壁に点けられていて、鏡で構成されている壁や天井に反射してどこか幻想的な奥行を演出していた。
-<VN> 
+<VN> Vô số đèn hắt được lắp đặt ở hai bên lối vào và trên tường, phản chiếu lên mặt tường và trần nhà có lắp gương, tạo nên một chiều sâu ma mị.
 
 =--=========================================
 <ID> 65
 <JP> 　ただ、天井からぶら下がっている豪華なシャンデリアは灯りが消えていて、フロア全体が薄暗い。
-<VN> 
+<VN> Tuy nhiên, chiếc đèn chùm sang trọng treo trên trần kia đang bị tắt, khiến toàn sảnh có cảm giác hơi âm u.
 
 =--=========================================
 <ID> 66
 <JP> 　まるで異世界に迷い込んだような場所だった。
-<VN> 
+<VN> Nơi này khiến tôi cảm tưởng như mình vừa lạc vào một thế giới khác vậy.
 
 =--=========================================
 <ID> 67
 <JP> 灰桜「ずいぶん静かな場所ですね……」
-<VN> 
+<VN> Haizakura: “Có hơi yên tĩnh nhỉ…”
 
 =--=========================================
 <ID> 68
 <JP> 宇佐美「キャバレーって、もっと賑やかな所だったと思ったけど……」
-<VN> 
+<VN> Usami: “Tôi tưởng hộp đêm thì sẽ phải nhộn nhịp hơn thế này cơ…”
 
 =--=========================================
 <ID> 69
 <JP> 　ボクも不安になって、フロアを見回す。
-<VN> 
+<VN> Tôi dáo dác nhìn xung quanh sảnh, lòng sinh lo.
 
 =--=========================================
 <ID> 70
 <JP> 支配人「さっ、特別にショーを見ていきなよ。誰よりも早くね」
-<VN> 
+<VN> Quản lý: “Nào, chị đặc cách cho mấy đứa xem biểu diễn trước đấy. Sớm nhất luôn nhé.”
 
 =--=========================================
 <ID> 71
 <JP> 　女性の言葉を合図にしたかのように、天井から数本のスポットライトがフロアを照らした。
-<VN> 
+<VN> Cứ như thể những lời chị gái nói là tín hiệu, cơ man nào những đèn chiếu điểm từ trên trần nhà bắt đầu rọi sáng toàn sảnh.
 
 =--=========================================
 <ID> 72
 <JP> 　そこには、見覚えのある人物が立っていた。
-<VN> 
+<VN> Đứng tại đó, là một nhân ảnh mà chúng tôi vốn đã nhẵn mặt.
 
 =--=========================================
 <ID> 73
 <JP> 「さあみんな、いままでの練習の成果を出すわよ！」
-<VN> 
+<VN> “Nào, mọi người ơi! Phô diễn thành quả luyện tập của chúng ta thôi!”
 
 =--=========================================
 <ID> 74
 <JP> 　パンと音を立てながら胸の前で両手を合わせる。
-<VN> 
+<VN> Người ấy chắp hai tay trước ngực và hô vang.
 
 =--=========================================
 <ID> 75
 <JP> 　頭についたうさ耳が、ぴょこんと揺れた。
-<VN> 
+<VN> Chiếc tai thỏ trên đầu cô đung đưa.
 
 =--=========================================
 <ID> 76
 <JP> 　すると、ステージの裏から、バニースーツ姿のショーガールが両手を広げながら六人ほど登場する。
-<VN> 
+<VN> Sau đấy, khoảng sáu vũ nữ bận đồ thỏ non xuất hiện từ trong cánh gà với đôi tay dang rộng.
 
 =--=========================================
 <ID> 77
 <JP> 「じゃあ、お客さんへのご挨拶から始めましょう――」
-<VN> 
+<VN> “Giờ thì, bắt đầu bằng việc chào hỏi khách hàng nào!”
 
 =--=========================================
 <ID> 78
 <JP> ショーガール「はい、先生！」
-<VN> 
+<VN> Vũ nữ: “Vâng, thưa cô!”
 
 =--=========================================
 <ID> 79
 <JP> 「今宵は装いを新たに生まれ変わったキャバレー"La-Bit's"へようこそおいで下さいました」
-<VN> 
+<VN> “Tối nay, xin chào mừng quý vị ghé thăm hộp đêm [La-Bit’s] vừa mang diện mạo mới ạ!”
 
 =--=========================================
 <ID> 80
 <JP> 　鴉羽さんがマイクを持って声を上げると、バニースーツのショーガールが同じ台詞を復唱する。
-<VN> 
+<VN> Karasuba-san cầm mic cất cao giọng, rồi thì đến lượt mấy cô vũ nữ đằng sau cũng nhại lại theo.
 
 =--=========================================
 <ID> 81
 <JP> 「皆様との再会をキャスト一同、心よりお待ちしておりました。それでは、最初のショーの幕開けです」
-<VN> 
+<VN> “Tất cả chúng em đều vô cùng mong đợi được gặp lại mọi người đấy ạ! Và bây giờ, màn trình diễn đầu tiên xin được phép bắt đầu!”
 
 =--=========================================
 <ID> 82
 <JP> 　鴉羽さんが恭しく頭を下げる。
-<VN> 
+<VN> Karasuba-san cúi đầu đầy kính cẩn.
 
 =--=========================================
 <ID> 83
 <JP> 　それに続いて、ショーガールたちも優雅に礼をした。
-<VN> 
+<VN> Sau đó, tốp vũ nữ cũng hành lễ với tất cả sự thanh lịch.
 
 =--=========================================
 <ID> 84
 <JP> 　しばらくその姿勢を保ってから、やがて鴉羽さんは曲げていた腰を伸ばして、凛とした佇まいで顔を上げた。
-<VN> 
+<VN> Giữ nguyên tư thế một lúc, cuối cùng Karasuba-san cũng thẳng lưng lên và ngẩng cao khuôn mặt rạng rỡ.
 
 =--=========================================
 <ID> 85
 <JP> 「それじゃー、みんないっくわよーーーーー！」
-<VN> 
+<VN> “Nào mọi người ơi, quẩy~lên~thôi!!!”
 
 =--=========================================
 <ID> 86
 <JP> 灰桜「んみゅ！？」
-<VN> 
+<VN> Haizakura: “Myu?!!!”
 
 =--=========================================
 <ID> 87
 <JP> 宇佐美「え？？」
-<VN> 
+<VN> Usami: “Hở??”
 
 =--=========================================
 <ID> 88
 <JP> 　鴉羽さんが豹変した！
-<VN> 
+<VN> Karasuba-san đột nhiên lột xác.
 
 =--=========================================
 <ID> 89
 <JP> 　聞いたことのない明るく元気な声で、ミラーボールに向かって指を突き上げる。
-<VN> 
+<VN> Cùng tông giọng rạng ngời và hân hoan tôi chưa nghe bao giờ, cô chỉ thẳng vào quả cầu thủy tinh phía trên đầu.
 
 =--=========================================
 <ID> 90
 <JP> 「ミュージック、スターートーーー♪」
-<VN> 
+<VN> “Music, START—— ♪”
 
 =--=========================================
 <ID> 91
 <JP> 灰桜・宇佐美「誰！？」
-<VN> 
+<VN> Haizakura / Usami: ““AI KIA?!!!””
 
 =--=========================================
 <ID> 92
 <JP> 　軽快な音楽と、目がくらむようなライトの点滅。
-<VN> 
+<VN> Tiếng nhạc du dương, cùng những ánh đèn nhấp nháy.
 
 =--=========================================
 <ID> 93
 <JP> 　その中にあって、見ているお客さん達を楽しませるダンスショー。
-<VN> 
+<VN> Tâm điểm của hết thảy, là một tiết mục trình diễn vũ đạo nhằm mua vui cho người xem.
 
 =--=========================================
 <ID> 94
 <JP> 「いいわ、脚の動きもぴったり！」
-<VN> 
+<VN> “Được đó mọi người, cử động chân chuẩn lắm!”
 
 =--=========================================
 <ID> 95
 <JP> 　ショーガールたちを従えながら、励ましの声を上げている。
-<VN> 
+<VN> Cô ấy lên tiếng động viên các vũ nữ trong khi vẫn không ngừng làm mẫu cho họ.
 
 =--=========================================
 <ID> 96
 <JP> 灰桜「か……鴉羽ひゃん……」
-<VN> 
+<VN> Haizakura: “K-Karasuba-hyan……”
 
 =--=========================================
 <ID> 97
 <JP> 　ステージで満面の笑みを浮かべて踊る鴉羽さんを前に、ショーを楽しむどころじゃなかった。
-<VN> 
+<VN> Trước một Karasuba-san đang tươi cười nhảy múa trên sân khấu, chúng tôi chẳng thể nào để tâm tới buổi diễn cho nổi.
 
 =--=========================================
 <ID> 98
 <JP> 宇佐美「あの、鴉羽さんはなにを……」
-<VN> 
+<VN> Usami: “Cho hỏi, Karasuba-san đang…”
 
 =--=========================================
 <ID> 99
 <JP> 支配人「戦争前は、人が人形にダンスを教えていたのに……逆転してしまうなんてね」
-<VN> 
+<VN> Quản lý: “Trước chiến tranh thì con người dạy Hình nhân nhảy múa, thế mà giờ… lại thành ngược lại mất rồi.”
 
 =--=========================================
 <ID> 100
 <JP> 　そんなボクらの隣に、先程の女性が腰を下ろした。
-<VN> 
+<VN> Chị gái khi nãy ngồi xuống cạnh tôi.
 
 =--=========================================
 <ID> 101
 <JP> 　彼女は、このキャバレーの支配人だという。
-<VN> 
+<VN> Chị ấy bảo mình là người quản lý hộp đêm này.
 
 =--=========================================
 <ID> 102
 <JP> 支配人「昔はね、人間と機械人形が一緒にショーをしていたのさ」
-<VN> 
+<VN> Quản lý: “Hồi trước, con người và Hình nhân Cơ khí từng cùng biểu diễn với nhau đấy.”
 
 =--=========================================
 <ID> 103
 <JP> 宇佐美「それは……聞いたことがあります」
-<VN> 
+<VN> Usami: “Chuyện đó… đúng là em có từng nghe.”
 
 =--=========================================
 <ID> 104
 <JP> 支配人「でも、戦争が続いて、いつの間にか人形は戦いの道具ってことになってしまって……それは戦後も変わらなかった。人形の暴走事件なんかも起こったしね……」
-<VN> 
+<VN> Quản lý: “Nhưng rồi, khi chiến tranh nổ ra thì chẳng biết từ lúc nào mà Hình nhân lại bị trưng dụng làm công cụ… mãi đến khi tàn cuộc vẫn chẳng khác đi. Còn có nhiều vụ việc Hình nhân nổi loạn nữa mà…”
 
 =--=========================================
 <ID> 105
 <JP> 灰桜「………そう、なのですか」
-<VN> 
+<VN> Haizakura: “... Là vậy, sao ạ?”
 
 =--=========================================
 <ID> 106
 <JP> 支配人「ああ、人形たちへの風当たりは強いまんまだ」
-<VN> 
+<VN> Quản lý: “Ừ, Hình nhân từng bị phân biệt đối xử kinh lắm đấy.”
 
 =--=========================================
 <ID> 107
 <JP> 　灰桜は不思議そうな顔をしているが、有名な話だ。
-<VN> 
+<VN> Haizakura trưng ra một vẻ mặt khó hiểu, nhưng câu chuyện đó thật sự rất thịnh hành.
 
 =--=========================================
 <ID> 108
 <JP> 　黒猫亭が青息吐息なのも、そういう偏見が残り続けているせいだ。
-<VN> 
+<VN> Sở dĩ quán Mèo Đen khốn đốn đến thế này chủ yếu là do những thành kiến như vậy vẫn chưa hết nguôi ngoai.
 
 =--=========================================
 <ID> 109
 <JP> 灰桜「で、ですが、黒猫亭に何度も来てくれるお客様もいます！　人形のわたしたちを慕ってくれる方も……！」
-<VN> 
+<VN> Haizakura: “N-Nhưng mà, vẫn có nhiều vị khách đến với quán Mèo Đen mà! Có những người còn mến mộ Hình nhân chúng em nữa…!”
 
 =--=========================================
 <ID> 110
 <JP> 支配人「ああ、私もそうさ。人形と人間が楽しく過ごしていた時のことを覚えているからね」
-<VN> 
+<VN> Quản lý: “Ừ, chị đây cũng thế mà. Bởi chị còn nhớ cái thời Hình nhân và con người vui vẻ bên nhau.”
 
 =--=========================================
 <ID> 111
 <JP> 灰桜「あ……」
-<VN> 
+<VN> Haizakura: “A…”
 
 =--=========================================
 <ID> 112
 <JP> 灰桜「でも……それで、どうして鴉羽さんがきゃばれえのショーを教えているんですか……？」
-<VN> 
+<VN> Haizakura: “Nhưng mà… nếu vậy, tại sao Karasuba-san lại phải đi dạy biểu diễn tại ‘hộp đen’ này ạ?”
 
 =--=========================================
 <ID> 113
 <JP> 　ボクが不思議に思っていることをあっさりと訊いた。
-<VN> 
+<VN> Đó chính là điều làm tôi phân vân nãy giờ.
 
 =--=========================================
 <ID> 114
 <JP> 　こういう時、灰桜の素直さが羨ましくなる。
-<VN> 
+<VN> Những lúc thế này tôi mới thấy ghen tị với tính thật thà của Haizakura.
 
 =--=========================================
 <ID> 115
 <JP> 支配人「いつだったかね、あの子が私に弟子入りしてね」
-<VN> 
+<VN> Quản lý: “Không nhớ là khi nào nữa, cơ mà chị từng nhận con bé làm học viên.”
 
 =--=========================================
 <ID> 116
 <JP> 灰桜「えっ！？」
-<VN> 
+<VN> Haizakura: “Dạ?!”
 
 =--=========================================
 <ID> 117
 <JP> 支配人「お客様を楽しませる方法を、いちから学びたいと言ってね。ちょっと店の感じが違うんじゃないかと思ったけど、これも経験だと思って、みっちり教えてやったのさ」
-<VN> 
+<VN> Quản lý: “Con bé muốn học cách làm sao để tiêu khiển cho khách. Chị bảo rõ ràng phong cách giữa hai quán khác nhau hoàn toàn, nhưng con bé lại bảo có thể đây sẽ trở thành kinh nghiệm về sau, thành ra chị đã nghiêm túc chỉ dạy con bé đủ điều.”
 
 =--=========================================
 <ID> 118
 <JP> 宇佐美「だ、だからあんなに踊れるんですね……」
-<VN> 
+<VN> Usami: “V-Vậy nên cậu ấy mới nhảy được như thế kia ạ…”
 
 =--=========================================
 <ID> 119
 <JP> 支配人「私の言ったことを全部守ってる。あんな優秀な生徒はいないさ」
-<VN> 
+<VN> Quản lý: “Con bé nhớ hết những gì chị dạy. Chẳng có học trò nào xuất sắc hơn thế đâu.”
 
 =--=========================================
 <ID> 120
 <JP> 宇佐美「それはやっぱり、人形だからでしょうか……」
-<VN> 
+<VN> Usami: “Thì tại, cậu ấy là Hình nhân mà…”
 
 =--=========================================
 <ID> 121
 <JP> 支配人「キャバレー"La-Bit's"のショーガールはみんな新人ばかり。私も、もういい歳だしね。だから優秀な弟子に教えにきてもらったってわけさ」
-<VN> 
+<VN> Quản lý: “Vũ nữ tại [La-Bit’s] này toàn người mới, mà chị thì cũng có tuổi rồi, nên chị nhờ cô học trò ưu tú kia chỉ dạy tụi nó luôn.”
 
 =--=========================================
 <ID> 122
 <JP> 　ボクが嘆いているちに、ショーは終盤に差し掛かっている。
-<VN> 
+<VN> Trong khi tôi còn đang ca cẩm, thì màn trình diễn đã gần đến hồi kết.
 
 =--=========================================
 <ID> 123
 <JP> 支配人「鴉羽は、いまさら踊るのは恥ずかしかったらしいけどね……でも、ステージにあがればあの通りさ」
-<VN> 
+<VN> Quản lý: “Karasuba coi bộ tới giờ vẫn còn ngại nhảy nhỉ… nhưng một khi đã lên sân khấu rồi thì vũ đạo của con bé sẽ như thế kia đó.”
 
 =--=========================================
 <ID> 124
 <JP> 　ステージでは最後の決めのポーズを、笑顔で皆が取っていた。
-<VN> 
+<VN> Trên bục diễn, mọi người đều đang mỉm cười mà tạo dáng kết màn.
 
 =--=========================================
 <ID> 125
 <JP> 　一糸乱れぬ綺麗な──……
-<VN> 
+<VN> Quá sức mãn nhã—...
 
 =--=========================================
 <ID> 126
 <JP> 宇佐美「ひっ……」
-<VN> 
+<VN> Usami: “Hii…!”
 
 =--=========================================
 <ID> 127
 <JP> 　みんな笑顔でポーズを決めている中――
-<VN> 
+<VN> Trong khi mọi người đều đang mỉm cười mà tạo dáng—
 
 =--=========================================
 <ID> 128
 <JP> 　同じように笑顔でいる鴉羽さんの目が、ボクらを捉えていた。
-<VN> 
+<VN> Cũng với khuôn miệng tươi tắn đó, ánh mắt của Karasuba-san va phải chúng tôi.
 
 =--=========================================
 <ID> 129
 <JP> 　笑顔にも関わらず、瞳に得も言われぬ負の感情を込めながら……
-<VN> 
+<VN> Dẫu cũng đang cười như bao người, ánh mắt của cô ấy đột nhiên bị bao phủ trong một thứ cảm xúc hắc ám không nói nên lời.
 
 =--=========================================
 <ID> 130
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 131
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 132
@@ -700,11 +700,11 @@
 =--=========================================
 <ID> 134
 <JP> 執筆：魁　挿絵：まろやか　ＣＶ：楠木ともり（鴉羽）
-<VN> 
+<VN> Kịch bản: Kai ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Kusunoki Tomori (Karasuba)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 135
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================
