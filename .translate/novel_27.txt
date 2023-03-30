@@ -755,7 +755,7 @@
 =--=========================================
 <ID> 145
 <JP> 　どんなことにも全力。
-<VN> Của đáng tội, chuyện nào em cũng làm đến kiệt sức.
+<VN> Của đáng tội, chuyện nào cũng khiến em phải hao tâm tổn trí.
 
 =--=========================================
 <ID> 146
