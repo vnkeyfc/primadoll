@@ -235,7 +235,7 @@
 =--=========================================
 <ID> 41
 <JP> 灰桜「みゅ？　黒猫亭には、黒猫ブランという名物があります。ワインも取り扱っていますし……」
-<VN> Haizakura: “Myu? Quán Mèo Đen mình có một cái gọi là Bran<a href="#1_"><sup>[1]</sup></a> Mèo Đen mà. Vậy là có phục vụ rượu rồi…”
+<VN> Haizakura: “Myu? Quán Mèo Đen mình có một cái gọi là Bran<sup><a href="#_1">[1]</a></sup> Mèo Đen mà. Vậy là có phục vụ rượu rồi…”
 
 =--=========================================
 <ID> 42
