@@ -345,7 +345,7 @@
 =--=========================================
 <ID> 63
 <JP> 　写真には、バニースーツを身に纏った鴉羽さんが支配人さんと写っていた。
-<VN> Trong bức ảnh mà chị quản lý đã chụp, là Karasuba-san mặc bộ đồ thỏ non.
+<VN> Trong bức ảnh mà chị quản lý đã chụp, là Karasuba-san mặc bộ đồ thỏ non.<span id="_1"></span>
 
 =--=========================================
 <ID> 64
