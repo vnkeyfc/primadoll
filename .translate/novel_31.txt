@@ -607,7 +607,7 @@
 =--=========================================
 <ID> 115
 <JP> 　ボクは灰桜の一言に、固まったままだった。
-<VN> Tôi vẫn chưa hoàn hồn trước những gì Haizakura nói.
+<VN> Tôi vẫn chưa định thần lại trước những gì Haizakura vừa nói.
 
 =--=========================================
 <ID> 116
