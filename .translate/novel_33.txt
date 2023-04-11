@@ -65,7 +65,7 @@
 =--=========================================
 <ID> 7
 <JP> 灰桜「鴉羽さん、お掃除のときいつも歌っていて……とっても楽しそうです」
-<VN> Haizakura: “Karasuba-san hễ lúc nào dọn dẹp là hát bài này… trông chị ấy vui lắm luôn!”
+<VN> Haizakura: “Karasuba-san hễ lúc nào dọn dẹp là hát bài này… trông chị ấy vui lắm luôn!” <span id="_1"></span>
 
 =--=========================================
 <ID> 8
