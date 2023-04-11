@@ -1,601 +1,601 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 05-1　異邦人形（1）
-<VN> 
+<VN> 05-01: Hình nhân ngoại quốc (1)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 　皇都に雨が降る。
-<VN> 
+<VN> Hôm nay Hoàng Đô đổ mưa.
 
 =--=========================================
 <ID> 6
 <JP> 　朝からどんよりとした曇り空。昼下がりにはしとしと泣いて石畳を濡らして、夜になったいまでも微かな雨音を残している。
-<VN> 
+<VN> Bầu trời đã kéo mây suốt cả sáng, đến trưa thì bắt đầu lâm râm trên con đường lát đá cuội, và tận bây giờ khi màn đêm buông xuống, mưa vẫn chưa tạnh.
 
 =--=========================================
 <ID> 7
 <JP> 　それも当然で、なぜなら梅雨真っ盛りだからだ。
-<VN> 
+<VN> Đương nhiên rồi, vì đang là mùa mưa mà.
 
 =--=========================================
 <ID> 8
 <JP> 　閉店したばかりの黒猫亭。丁寧にテーブルを拭いていると、じわりと額に汗が滲んでくる。微かに空いた小窓から、吹き込んでくるひんやりとした風が心地よい。お店の片隅では、シャノがしきりに顔を洗っていた。
-<VN> 
+<VN> Trà quán Mèo Đen vừa mới đóng cửa. Sau khi lau dọn bàn sạch sẽ, tôi để ý thấy trán mình lấm tấm mồ hôi. Thi thoảng những cơn gió mát chui qua khe cửa sổ để mở kia thổi vào trong quán mang theo phong vị dễ chịu. Chano thì đang chú tâm rửa mặt nơi góc quán.
 
 =--=========================================
 <ID> 9
 <JP> 鴉羽「ららら～ら～らら～♪　ら～ららら～♪」
-<VN> 
+<VN> Karasuba: “Lalala~la~lala~♪ La~lalala~♪”
 
 =--=========================================
 <ID> 10
 <JP> 　鼻歌交じりに、床をモップがけしているのは鴉羽さんだ。いつもは気を張っているのに、こんなに上機嫌なのは珍しい。そういえば、営業中もずっと笑顔だったっけ。
-<VN> 
+<VN> Người đang vừa ngâm nga vừa hót rác trên sàn là Karasuba-san. Vì luôn mang biểu cảm nghiêm túc nên vẻ cao hứng cô ấy đang bộc lộ ra đúng thật là hiếm có. Nghĩ lại thì, suốt cả lúc làm việc cô cũng toàn cười.
 
 =--=========================================
 <ID> 11
 <JP> 鴉羽「ららら～らら～♪」
-<VN> 
+<VN> Karasuba: “Lalala~lala~♪”
 
 =--=========================================
 <ID> 12
 <JP> 　ブーツを鳴らして、華麗にくるりとターン。
-<VN> 
+<VN> Lại còn tạo nhịp bằng đế giày và xoay người một cú thật hoa mỹ.
 
 =--=========================================
 <ID> 13
 <JP> 　ますます様子がおかしい。雨続きのせいで客足もいまいち、食材の足は速いし、髪だってうまくまとまらないはずなのに。
-<VN> 
+<VN> Càng lúc càng lạ. Vì trời mưa không ngớt nên khách hàng chẳng có mấy mống, đồ ăn thì nhanh hỏng, mà tóc thì khó mà chải cho đẹp nổi.
 
 =--=========================================
 <ID> 14
 <JP> 宇佐美「……なにか、いいことあったんですかね？」
-<VN> 
+<VN> Usami: “... Bộ hôm nay có gì đáng mừng à?”
 
 =--=========================================
 <ID> 15
 <JP> 箒星「ふふふ……実はですねぇー」
-<VN> 
+<VN> Houkiboshi: “Hì hì hì… thật ra là thế này…”
 
 =--=========================================
 <ID> 16
 <JP> 　隣で砂糖壺を回収している箒星さんに話を振る。今日は酒屋さんのお仕事は休みをもらったらしく、黒猫亭の手伝い兼ボクの料理修行に付き合ってくれていた。
-<VN> 
+<VN> Houkiboshi-san lên tiếng trong lúc đang dở tay thu dọn chum đường bên cạnh tôi. Hình như hôm nay chị ấy được nghỉ ở quán nhậu nên sang quán Mèo Đen phụ việc, và cũng để hỗ trợ tôi luyện nấu nướng nữa.
 
 =--=========================================
 <ID> 17
 <JP> 箒星「先代のオーナーが帰国するらしいですよ」
-<VN> 
+<VN> Houkiboshi: “Hình như ông chủ trước sắp về nước á.”
 
 =--=========================================
 <ID> 18
 <JP> 宇佐美「先代というと……」
-<VN> 
+<VN> Usami: “Ông chủ trước nghĩa là…”
 
 =--=========================================
 <ID> 19
 <JP> 箒星「そう、鴉羽さんやわたしたちを直してくれたマスターです。ずっと大陸にいってたんですけどねぇー」
-<VN> 
+<VN> Houkiboshi: “Đúng, là người đã sửa Kara-chan và tụi mình á. Đó giờ ngài ấy ở bên Đại lục hoài à—”
 
 =--=========================================
 <ID> 20
 <JP> 宇佐美「奥宮さんが言ってましたね。アルタリアですか？」
-<VN> 
+<VN> Usami: “Okunomiya-san có nói em nghe rồi. Altaria phải không ạ?”
 
 =--=========================================
 <ID> 21
 <JP> 箒星「ローベリアですよ」
-<VN> 
+<VN> Houkiboshi: “Là Lobelia cơ.”
 
 =--=========================================
 <ID> 22
 <JP> 宇佐美「え゛」
-<VN> 
+<VN> Usami: “Hở?”
 
 =--=========================================
 <ID> 23
 <JP> 　思わず掃除の手を止めて、顔を上げる。
-<VN> 
+<VN> Trong vô thức, tôi dừng tay quét dọn mà ngẩng mặt lên.
 
 =--=========================================
 <ID> 24
 <JP> 宇佐美「あのローベリアですか」
-<VN> 
+<VN> Usami: “Ý chị là, Lobelia đó ấy ạ?”
 
 =--=========================================
 <ID> 25
 <JP> 箒星「はい、３６年間ずーーーっと戦争していた帝政ローベリアです」
-<VN> 
+<VN> Houkiboshi: “Đúng, là Đế chế Lobelia đã chiến tranh với chúng ta su~~~ốt 36 năm qua ấy.”
 
 =--=========================================
 <ID> 26
 <JP> 宇佐美「知らなかった……行けるものなんですね」
-<VN> 
+<VN> Usami: “Em không biết luôn đấy… Tới đó được ạ?”
 
 =--=========================================
 <ID> 27
 <JP> 箒星「終戦したとはいえ、すごく大変だったみたいですよー。でも、平和的な技術交換ということとで……」
-<VN> 
+<VN> Houkiboshi: “Chiến tranh đã kết thúc rồi, nhưng xem ra cũng chẳng thuận lợi lắm đâu~ Có điều đó chỉ là một cuộc trao đổi kỹ thuật trong hòa bình thôi nên…”
 
 =--=========================================
 <ID> 28
 <JP> 宇佐美「それでいけたんですね」
-<VN> 
+<VN> Usami: “Nên mới đi được đấy nhỉ.”
 
 =--=========================================
 <ID> 29
 <JP> 箒星「裏技と寝技を使ってなんとかねじ込んだとか」
-<VN> 
+<VN> Houkiboshi: “Nghe đâu ngài ấy phải dùng đến vài mánh khóe lẫn tay trong để xoay được một suất đi đấy.”
 
 =--=========================================
 <ID> 30
 <JP> 宇佐美「ははは……勇気ありますね」
-<VN> 
+<VN> Usami: “Ha ha ha, nghe lớn gan quá nhỉ.”
 
 =--=========================================
 <ID> 31
 <JP> 箒星「一度言い出したら聞かない人ですからねぇ」
-<VN> 
+<VN> Houkiboshi: “Ngài ấy là kiểu người một khi đã quyết chí rồi thì khuyên can đến mấy cũng bằng thừa.”
 
 =--=========================================
 <ID> 32
 <JP> 宇佐美「でも、鴉羽さんは心配だったでしょうね。無事で帰ってきてくれるといいんですが」
-<VN> 
+<VN> Usami: “Nhưng chắc Karasuba-san đã phải lo lắm đấy nhỉ. Mong là anh ấy trở về bình an vô sự.”
 
 =--=========================================
 <ID> 33
 <JP> 箒星「きっと、それは問題ありませんよ。レーツェルを連れて行きましたから」
-<VN> 
+<VN> Houkiboshi: “Chắc chắn là sẽ không vấn đề gì đâu. Ngài ấy có dẫn theo Retzel mà.”
 
 =--=========================================
 <ID> 34
 <JP> 宇佐美「レーツェル……」
-<VN> 
+<VN> Usami: “Retzel…”
 
 =--=========================================
 <ID> 35
 <JP> 箒星「彼女は、ローベリア製の<ruby>自律人形<rt>オートマタ</rt></ruby>ですから」
-<VN> 
+<VN> Houkiboshi: “Cô bé ấy, là <ruby>Hình nhân Tự hành<rt>Automata</rt></ruby> sản xuất tại Lobelia mà.”
 
 =--=========================================
 <ID> 36
 <JP> 　箒星さんと話をしていると、ドアベルが涼やかな音を響かせる。
-<VN> 
+<VN> Đương lúc tôi nói chuyện với Houkiboshi-san, chuông cửa chợt vang lên một tiếng leng keng.
 
 =--=========================================
 <ID> 37
 <JP> 灰桜「ただいまですっ」
-<VN> 
+<VN> Haizakura: “Em về rồi ạ!”
 
 =--=========================================
 <ID> 38
 <JP> 　帰ってきたのは灰桜だ。
-<VN> 
+<VN> Người vừa trở về là Haizakura.
 
 =--=========================================
 <ID> 39
 <JP> 　こうもり傘を畳んで、雨粒を落としている。
-<VN> 
+<VN> Em gấp cái ô lại để nước mưa chảy xuống.
 
 =--=========================================
 <ID> 40
 <JP> 　お使いがあって、オーナーの奥宮さんの元へ足を運んでいたのだ。
-<VN> 
+<VN> Vừa đi làm việc vặt về, em lập tức tới chỗ bà chủ là Okunomiya-san.
 
 =--=========================================
 <ID> 41
 <JP> 宇佐美「お帰り、濡れなかった？」
-<VN> 
+<VN> Usami: “Em bị ướt trên đường về hả?”
 
 =--=========================================
 <ID> 42
 <JP> 　いちおうタオルを持って出迎える。
-<VN> 
+<VN> Tôi tạm đưa em một cái khăn lau người.
 
 =--=========================================
 <ID> 43
 <JP> 灰桜「雨下駄を借りたのでへっちゃらです！　それより大変なことが起きました」
-<VN> 
+<VN> Haizakura: “Em có mượn guốc đi mưa rồi nên không sao hết ạ. Còn có chuyện kinh khủng hơn cơ!”
 
 =--=========================================
 <ID> 44
 <JP> 宇佐美「ええっ、どうしたの？」
-<VN> 
+<VN> Usami: “Hở? Là chuyện gì thế?”
 
 =--=========================================
 <ID> 45
 <JP> 箒星「背嚢に雨が入ったとか？　だったら念のため点検しないと……」
-<VN> 
+<VN> Houkiboshi: “Mưa rơi vào cặp em hả? Thế thì lát phải kiểm tra cho chắc…”
 
 =--=========================================
 <ID> 46
 <JP> 　灰桜の言葉を聞きつけて、箒星もやってくる。
-<VN> 
+<VN> Trước những lời của Haizakura, Houkiboshi-san cũng tham gia.
 
 =--=========================================
 <ID> 47
 <JP> 灰桜「いえ、油紙を巻いていただいたのでそれは大丈夫なのですが～」
-<VN> 
+<VN> Haizakura: “Dạ không, em đã cuộn giấy dầu rồi nên không sao đâu ạ.”
 
 =--=========================================
 <ID> 48
 <JP> 宇佐美「じゃあ大変なことって？」
-<VN> 
+<VN> Usami: “Vậy chuyện kinh khủng là chuyện gì thế?”
 
 =--=========================================
 <ID> 49
 <JP> 灰桜「<ruby>機械人形<rt>メカニカ</rt></ruby>の暴走事故があったそうです！」
-<VN> 
+<VN> Haizakura: “Hình như đang có một vụ <ruby>Hình nhân Cơ khí<rt>Mechanica</rt></ruby> bị mất kiểm soát đấy ạ!”
 
 =--=========================================
 <ID> 50
 <JP> 　その言葉に、ぴくりと反応する鴉羽。
-<VN> 
+<VN> Nghe đến đây, Karasuba-san giật mình phản ứng.
 
 =--=========================================
 <ID> 51
 <JP> 鴉羽「……なんですって？」
-<VN> 
+<VN> Karasuba: “... Em nói gì cơ?”
 
 =--=========================================
 <ID> 52
 <JP> 灰桜「二区で騒ぎになったそうです」
-<VN> 
+<VN> Haizakura: “Nghe đâu quận Hai đang hỗn loạn lắm đấy ạ.”
 
 =--=========================================
 <ID> 53
 <JP> 鴉羽「まさか、戦闘用<ruby>機械人形<rt>メカニカ</rt></ruby>？　でも、それはもう……」
-<VN> 
+<VN> Karasuba: “Lẽ nào là, <ruby>Hình nhân Cơ khí<rt>Mechanica</rt></ruby> loại chiến đấu? Nhưng mà, loại đó đã…”
 
 =--=========================================
 <ID> 54
 <JP> 灰桜「いえ、こう、大きめの……わんこぐらいのサイズだそうです！」
-<VN> 
+<VN> Haizakura: “Dạ không, chỉ to cỡ này… tầm cỡ một chú cún thôi ạ!”
 
 =--=========================================
 <ID> 55
 <JP> 宇佐美「……わんこ？」
-<VN> 
+<VN> Usami: “... Cún?”
 
 =--=========================================
 <ID> 56
 <JP> 　どうにも想像ができない。
-<VN> 
+<VN> Tôi khó mà tưởng tượng nổi.
 
 =--=========================================
 <ID> 57
 <JP> 　ボクの知る<ruby>機械人形<rt>メカニカ</rt></ruby>と言えば、厳めしくて重量感のある戦闘用人形だ。停戦条約にも盛り込まれている通り、製造・運用が禁止されている。戦後すぐは十分管理されておらず、事故も多かったが、最近はすっかり対策されているはずだ。
-<VN> 
+<VN> <ruby>Hình nhân Cơ khí<rt>Mechanica</rt></ruby> mà tôi biết, là loại Hình nhân phục vụ trận mạc tạo cảm giác uy nghi và nặng nề. Thể theo hiệp ước đình chiến thì việc sản xuất và vận hành chúng đã bị cấm. Ngay sau khi chiến tranh kết thúc, vì người ta quản lý chúng chưa đủ chặt nên đã dẫn đến hàng loạt sự cố, và phải tới gần đây vấn đề này mới có đối sách triệt để.
 
 =--=========================================
 <ID> 58
 <JP> 箒星「きっと荷役用の第四世代人形ですね。“銀太郎”じゃないでしょうか？」
-<VN> 
+<VN> Houkiboshi: “Đấy chắc là Hình nhân thế hệ thứ tư chuyên dụng để chở hàng, [Gintarou] rồi ha?”
 
 =--=========================================
 <ID> 59
 <JP> 鴉羽「ああ、なるほど」
-<VN> 
+<VN> Karasuba: “À, hóa ra là thế.”
 
 =--=========================================
 <ID> 60
 <JP> 宇佐美「そんなのがあるんですか？」
-<VN> 
+<VN> Usami: “Còn có thứ như vậy nữa hả?”
 
 =--=========================================
 <ID> 61
 <JP> 鴉羽「山岳地帯で荷物を運ぶために開発された人形よ。犬にも見えるかもしれないわね。戦闘力はないけれど……」
-<VN> 
+<VN> Karasuba: “Đó là Hình nhân được chế tác để khuân vác hành trang lên các vùng núi đấy ạ. Trông đúng là cũng hơi giống chó thật. Nhưng nó làm gì có khả năng chiến đấu…”
 
 =--=========================================
 <ID> 62
 <JP> 箒星「でも、馬力はあるので、けっこう危ないですよ」
-<VN> 
+<VN> Houkiboshi: “Nhưng vẫn có mã lực, nên tựu trung lại là vẫn nguy hiểm lắm đó.”
 
 =--=========================================
 <ID> 63
 <JP> 灰桜「みゅっ、怖いです」
-<VN> 
+<VN> Haizakura: “Myu! Em sợ quá!”
 
 =--=========================================
 <ID> 64
 <JP> 鴉羽「……その子も可哀想ね」
-<VN> 
+<VN> Karasuba: “... Tội cho nó thật.”
 
 =--=========================================
 <ID> 65
 <JP> 　箒星さんと鴉羽さんいわく、暴走人形というのは正確ではないらしい。
-<VN> 
+<VN> Theo lời Karasuba-san và Houkiboshi-san, gọi đó là Hình nhân mất kiểm soát cũng không chính xác lắm.
 
 =--=========================================
 <ID> 66
 <JP> 機械人形
-<VN> 
+<VN> Hình nhân Cơ khí 
 
 =--=========================================
 <ID> 67
 <JP> メカニカ
-<VN> 
+<VN> Mechanica
 
 =--=========================================
 <ID> 68
 <JP> は命令がないと動けない。自分の上位機種が誤った命令を送ったり、過去の命令を取り消さずにおいている場合がある。すると、傍から見るとまるで理解不能の行動を取っているように見える。この状態を暴走と称するのだ。
-<VN> 
+<VN> không thể hành động mà không có mệnh lệnh. Có nhiều trường hợp thiết bị đầu trên nhập nhầm mệnh lệnh, hay mệnh lệnh từng nhập chưa được hủy. Những lúc như thế thì nhìn từ ngoài vào sẽ thấy chúng hành động vô cùng khó hiểu. Những trường hợp như vậy được gọi là [mất kiểm soát].
 
 =--=========================================
 <ID> 69
 <JP> 　おそらくその“銀太郎”も、なにかの輸送命令が残り続けたままだったのだろう。たまたま誰かが見つけて、物珍しさで起動した結果、こういう結果になったのだろう……ということだ。
-<VN> 
+<VN> Có lẽ vụ việc [Gintarou] này cũng thế, khi mà vẫn còn mệnh lệnh vận chuyển nào đó chưa được hủy. Rồi tình cờ ai đó lại tìm ra nó và khởi động vì thấy của lạ, thế là thành cơ sự như bây giờ đây…
 
 =--=========================================
 <ID> 70
 <JP> 鴉羽「気をつけないとね。あまり夜に外を出歩かないほうがいいわ」
-<VN> 
+<VN> Karasuba: “Mọi người cẩn trọng nhé. Tốt nhất là không nên đi ra ngoài vào ban đêm nhiều quá.”
 
 =--=========================================
 <ID> 71
 <JP> 箒星「わたし、いまから酒屋さんに帰るのですが……」
-<VN> 
+<VN> Houkiboshi: “Mình… giờ phải về chỗ quán nhậu thì…”
 
 =--=========================================
 <ID> 72
 <JP> 鴉羽「箒星なら大丈夫じゃないかしら？」
-<VN> 
+<VN> Karasuba: “Nếu là Houkiboshi thì chắc không sao đâu nhỉ?”
 
 =--=========================================
 <ID> 73
 <JP> 箒星「心配してくださいよ～」
-<VN> 
+<VN> Houkiboshi: “Lo lắng cho mình chút đi mà~”
 
 =--=========================================
 <ID> 74
 <JP> ＊　　　　　　　＊　　　　　　　＊
-<VN> 
+<VN> ＊　　　　　　　＊　　　　　　　＊
 
 =--=========================================
 <ID> 75
 <JP> 　閉店してからもしばらく、箒星さんは練習に付き合ってくれた。
-<VN> 
+<VN> Sau khi quán đóng cửa được một lúc, Houkiboshi-san vẫn ở lại cùng tôi luyện tập.
 
 =--=========================================
 <ID> 76
 <JP> 　さすがに焼き上がるのを待っていると遅くなりすぎるので、オーブンにセットするところまで手伝ってもらってから帰宅してもらった。暴走事故は気になるけれど、箒星さんは実のところあまり気にしていない様子だった。鴉羽さんの言うとおり、箒星さんなら大丈夫……なのかもしれない。
-<VN> 
+<VN> Quả nhiên chờ nó nướng xong thì muộn quá rồi, nên chị ấy quyết định cùng tôi cho nguyên liệu vào bếp nướng rồi về. Tôi thấy hơi lo về vụ việc mất kiểm soát kia, nhưng Houkiboshi-san thì có vẻ chẳng bận tâm lắm. Đúng như Karasuba-san nói, nếu là Houkiboshi-san thì chắc… sẽ không sao đâu.
 
 =--=========================================
 <ID> 77
 <JP> 宇佐美「よしよし、いい感じにできたぞ」
-<VN> 
+<VN> Usami: “Rồi rồi, có vẻ ổn đấy.”
 
 =--=========================================
 <ID> 78
 <JP> 　オーブンを開けると、甘い香りが厨房中に立ちこめる。長方形のケーキ型の中で、こんがりと膨らんでいる姿。テーブルの上に取り出してみると、ほかほかと蒸気を漏らしながら、ふかふかと柔らかそうに揺れた。平刃のナイフで切り分けてみると……
-<VN> 
+<VN> Tôi mở cửa bếp nướng, tức thì mùi hương ngòn ngọt lan tỏa khắp căn bếp. Trong cái khuôn bánh hình chữ nhật, một thứ chín vàng đang phồng lên. Khi tôi lấy ra và đặt lên trên bàn, nó nảy nhè nhẹ và từ từ nhả hơi. Đến chừng tôi dùng dao cắt bánh để cắt nó ra thì…
 
 =--=========================================
 <ID> 79
 <JP> 宇佐美「……おお」
-<VN> 
+<VN> Usami: “... Ồ.”
 
 =--=========================================
 <ID> 80
 <JP> 　思わず感嘆の声が漏れる。パウンドケーキの中は見事な黄金色で、レーズンならぬほくほくした黒豆が底面に詰まっている。見栄えは申し分ない。あつあつの一切れを頬張ってみると、思わず飛び上がりそうなほどおいしい。
-<VN> 
+<VN> Tôi bất giác thốt lên một tiếng thán phục. Bên trong chiếc bánh bông lan là một màu vàng óng đẹp mắt, và mặt đáy thì đầy những hạt đậu đen (không phải nho khô đâu). Trông khó mà chê vào đâu được. Cắt một miếng nóng hôi hổi ăn thử, nó ngon đến độ khiến tôi suýt thì nhảy cẫng lên.
 
 =--=========================================
 <ID> 81
 <JP> 　これは売り物になる。
-<VN> 
+<VN> Cái này sẽ bán được.
 
 =--=========================================
 <ID> 82
 <JP> 　珈琲との相性もばっちりで、みんなも賛成してくれるだろう。ボクはさっそく小さく切り分けると、小皿にせっせと盛っていた。この感動を分かち合いたい。これぐらいの大きさなら人形でも食べられるだろう。最初に誘うなら、やっぱり彼女だろうと思った。
-<VN> 
+<VN> Ăn cùng cà phê là chuẩn bài, chắc hẳn mọi người đều sẽ đồng tình. Tôi nhanh nhẹn cắt chiếc bánh thành nhiều phần nhỏ, và chia nó vào nhiều đĩa nhỏ. Tôi muốn san sẻ khối cảm xúc này với mọi người. Chỉ cỡ tầm này thì Hình nhân có thể ăn hết được ngon lành. Cân nhắc xem nên rủ ai trước, tôi ngay lập tức nghĩ tới em ấy.
 
 =--=========================================
 <ID> 83
 <JP> ＊　　　　　　　＊　　　　　　　＊
-<VN> 
+<VN> ＊　　　　　　　＊　　　　　　　＊
 
 =--=========================================
 <ID> 84
 <JP> 宇佐美「灰桜、起きてる？」
-<VN> 
+<VN> Usami: “Haizakura, còn thức không em?”
 
 =--=========================================
 <ID> 85
 <JP> 　ドアをノックするが、反応はない。
-<VN> 
+<VN> Tôi thử gõ cửa, song chẳng thấy ai trả lời.
 
 =--=========================================
 <ID> 86
 <JP> 　いるのかな？と思って、すこしだけドアを開けて呼びかけてみた。
-<VN> 
+<VN> Em ấy có trong phòng không nhỉ? Tôi tự hỏi, đoạn dùng tay thử mở hé cửa rồi gọi.
 
 =--=========================================
 <ID> 87
 <JP> 宇佐美「ありゃ……寝てるのか」
-<VN> 
+<VN> Usami: “Ây chà… ngủ mất rồi à…”
 
 =--=========================================
 <ID> 88
 <JP> 　ちらりと細くて白い足が覗いていた。
-<VN> 
+<VN> Liếc vào trong phòng, tôi thấy một đôi chân trắng nõn mảnh mai.
 
 =--=========================================
 <ID> 89
 <JP> 　灰桜はお腹の上で手を組んで、ベッドに横になっていた。目は閉じて、穏やかな寝顔を見せている。正確にいうと寝ているのではなくて、電源を切って休眠状態になっているのだけど。論理機関はあまり長時間稼働させるのはよくないらしく、こうして人間と同じように休ませる必要があるのだという。
-<VN> 
+<VN> Haizakura đang nằm trên giường, hai tay em đặt lên bụng. Đôi mắt em nhắm nghiền và khuôn mặt em đang ngủ mới thanh thản làm sao. Nói cho chính xác thì không phải em đang ngủ, mà chỉ đang ngắt điện và bước vào trạng thái ngừng hoạt động tạm thời thôi. Hình như là cơ quan lý luận của em không phù hợp để hoạt động trong một thời gian dài, nên em vẫn cần nghỉ ngơi như một người bình thường.
 
 =--=========================================
 <ID> 90
 <JP> 宇佐美（せっかくだし、置いていこうかな）
-<VN> 
+<VN> Usami: (Cũng mất công làm rồi, thôi đành để đây vậy.)
 
 =--=========================================
 <ID> 91
 <JP> 　布巾をかけておけば乾かないだろう。冷めてもおいしいと、箒星さんも言っていたし。だから室内に入ると、机の上にそっとお皿を置いた。
-<VN> 
+<VN> Đặt một cái khăn phủ lên trên là không lo bánh bị khô. Houkiboshi-san cũng bảo thứ này ăn nguội vẫn ngon mà. Vậy nên tôi bước vào trong phòng, nhẹ nhàng đặt chiếc đĩa lên trên bàn.
 
 =--=========================================
 <ID> 92
 <JP> 宇佐美「………」
-<VN> 
+<VN> Usami: “.......”
 
 =--=========================================
 <ID> 93
 <JP> 　灰桜の姿を見る。
-<VN> 
+<VN> Tôi nhìn sang Haizakura.
 
 =--=========================================
 <ID> 94
 <JP> 　真っ暗な室内。月光だけがその顔を照らし出している。まるで子供みたいな、無垢な寝顔だ。いや、実際灰桜は子供なのかもしれない。大事なことはなにひとつ憶えていなくて、だけど大切なことはしっかり憶えている……。
-<VN> 
+<VN> Trong căn phòng tối mịt này, chỉ có ánh trăng là soi sáng khuôn mặt em. Khuôn mặt khi ngủ của em ngây thơ quá đỗi, chẳng khác nào con nít. À không, có lẽ Haizakura thật sự là trẻ con không chừng. Những chuyện quan trọng thì em không sao nhớ nổi, nhưng những gì bản thân trân trọng thì em lại nhớ rất rõ.
 
 =--=========================================
 <ID> 95
 <JP> 　なんだかその柔らかな髪を撫でたくなって、そっと手を伸ばす。
-<VN> 
+<VN> Kỳ lạ thay tôi chợt muốn vuốt ve mái tóc mềm mượt đó, thế rồi tôi vô thức vươn tay ra.
 
 =--=========================================
 <ID> 96
 <JP> 　ふわりと風が吹いて、その前髪を揺らした。
-<VN> 
+<VN> Cơn gió mát lạnh thổi qua, làm tóc mái em khẽ đung đưa.
 
 =--=========================================
 <ID> 97
 <JP> 「なに者ですの？」
-<VN> 
+<VN> “Cho hỏi nhà ngươi là ai vậy?”
 
 =--=========================================
 <ID> 98
 <JP> 　冷たい声が響いた。
-<VN> 
+<VN> Một giọng nói lạnh lùng vang lên.
 
 =--=========================================
 <ID> 99
 <JP> 　気がつくと窓が開いていて、カーテンが揺れている。聞こえたのは、ボクでも、灰桜でも、ましてや黒猫亭のどの人形でもない声……。
-<VN> 
+<VN> Đến chừng tôi nhận ra, chẳng biết cửa sổ đã mở tự lúc nào và rèm cửa đang tung bay theo gió. Giọng nói tôi vừa nghe chẳng phải của tôi hay của Haizakura, huống chi những Hình nhân khác trong quán…
 
 =--=========================================
 <ID> 100
 <JP> 「お姉様から、手を離しなさい」
-<VN> 
+<VN> “Mau bỏ tay ra khỏi onee-sama.”
 
 =--=========================================
 <ID> 101
 <JP> 　月光差し込む窓辺。まるで猫のようなしなやかさで身体を起こす黒い影。
-<VN> 
+<VN> Khoảng không bên cửa sổ nơi ánh trăng soi chiếu, có một bóng đen di động uyển chuyển như loài mèo.
 
 =--=========================================
 <ID> 102
 <JP> 　切りそろえられた銀髪が、さらりと流れる。赤い瞳が、じっとボクを見つめていた。
-<VN> 
+<VN> Mái tóc ánh bạc suôn mềm buộc hai đuôi bằng nhau. Đôi mắt đỏ rực nhìn thẳng về phía tôi.
 
 =--=========================================
 <ID> 103
 <JP> 宇佐美「………え？」
-<VN> 
+<VN> Usami: “... Hơ?”
 
 =--=========================================
 <ID> 104
 <JP> 　と思った次の瞬間。
-<VN> 
+<VN> Trong lúc tôi đang thầm nghĩ, thì thoắt một cái, cô gái đã biến mất.
 
 =--=========================================
 <ID> 105
 <JP> 　彼女は消えていた。まるで最初からそこに存在していなかったように。
-<VN> 
+<VN> Ngỡ như ngay từ đầu cô đã không có ở đó rồi vậy.
 
 =--=========================================
 <ID> 106
 <JP> 　いったいいまのは何だったのだろう……？
-<VN> 
+<VN> Rốt cuộc chuyện mới nãy là sao…?
 
 =--=========================================
 <ID> 107
 <JP> 「動かないでくださいな」
-<VN> 
+<VN> “Vui lòng không cử động nhé.”
 
 =--=========================================
 <ID> 108
 <JP> 宇佐美「ひぃ！？」
-<VN> 
+<VN> Usami: “Hii?!”
 
 =--=========================================
 <ID> 109
 <JP> 　気がつけば、首筋に冷たい感触がある。
-<VN> 
+<VN> Còn chưa nhận thức được sự thể thì đã có thứ gì lạnh toát kè vào cổ tôi rồi.
 
 =--=========================================
 <ID> 110
 <JP> 　背後に気配がある。手袋に包まれた、しなやかな指先。
-<VN> 
+<VN> Ai đó đang đứng ngay sau lưng tôi.
 
 =--=========================================
 <ID> 111
 <JP> 　そこに握られているのは――冷たい輝きを放つナイフだ。
-<VN> 
+<VN> Những ngón tay mềm mại bọc trong găng tay, đang cầm theo… một con dao sáng loáng tỏa ra hàn khí.
 
 =--=========================================
 <ID> 112
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 113
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 114
@@ -610,11 +610,11 @@
 =--=========================================
 <ID> 116
 <JP> 執筆：丘野塔也　挿絵：まろやか　ＣＶ：鬼頭明里（レーツェル）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Kitou Akari (Retzel)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 117
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================
