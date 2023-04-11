@@ -377,12 +377,12 @@
 =--=========================================
 <ID> 69
 <JP> 箒星「はい、はい………ええっ！？　灰ちゃんが？」
-<VN> Houkiboshi: “Hừm, hừm… hả?!!! Hai-chan sao?!”
+<VN> Houkiboshi: “Hừm, hừm… hả?!!! Hai-chan sao?!
 
 =--=========================================
 <ID> 70
 <JP> 箒星「わかりました、もうお店も終わりますので……はい、はい」
-<VN> Houkiboshi: “Mình hiểu rồi… quán cũng sắp đóng cửa rồi nên… hừm hừm…”
+<VN> Mình hiểu rồi… quán cũng sắp đóng cửa rồi nên… hừm hừm…”
 
 =--=========================================
 <ID> 71
