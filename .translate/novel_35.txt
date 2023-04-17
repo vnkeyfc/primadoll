@@ -1,56 +1,56 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 06-02    雪華文様(2)
-<VN> 
+<VN> 06-02: Hoa văn bông tuyết (2)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
@@ -471,12 +471,12 @@
 =--=========================================
 <ID> 88
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 89
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 90
@@ -491,11 +491,11 @@
 =--=========================================
 <ID> 92
 <JP> 執筆：丘野塔也    挿絵：まろやか    ＣＶ：楠木ともり（鴉羽）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Kusunoki Tomori (Karasuba)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 93
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================

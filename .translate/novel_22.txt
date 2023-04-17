@@ -1,376 +1,376 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】
-<VN> 
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa
 
 =--=========================================
 <ID> meta_keywords
 <JP> Key,キー,kinetic,novel,キネティックノベル
-<VN> 
+<VN> Key, kinetic, novel, Vietnamese
 
 =--=========================================
 <ID> meta_og:title
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:site_name
 <JP> 歌と人形。新たに上がる、物語の幕。 | Key公式サイト
-<VN> 
+<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_og:description
 <JP> 多彩なクリエイターを迎えて贈るメディアミックス企画、今秋より始動！
-<VN> 
+<VN> Một dự án đa phương tiện bao gồm vô vàn các nhà sáng tạo nội dung, khởi động vào mùa thu này!
 
 =--=========================================
 <ID> 0
 <JP> プリマドール・アンコール
-<VN> 
+<VN> Prima Doll Encore
 
 =--=========================================
 <ID> 1
 <JP> 03-07    冬の花火（７）
-<VN> 
+<VN> 03-07: Pháo hoa trời đông (7)
 
 =--=========================================
 <ID> 2
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 3
 <JP> 目次
-<VN> 
+<VN> Mục lục
 
 =--=========================================
 <ID> 4
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 5
 <JP> 日が落ちると、芯から凍えるような寒さが襲ってきた。
-<VN> 
+<VN> Mặt Trời vừa khuất núi, cái lạnh ập tới thấu đến tận xương.
 
 =--=========================================
 <ID> 6
 <JP> 雪はいっこうに止む気配がなく、目抜き通りに白い絨毯を敷き詰めている。せめて体を濡らすことは避けようと、鎧戸が落とされた商店の前でかがみ込んでいた。月も見えない夜。遠くで微かに灯るガス灯だけが寄る辺だった。
-<VN> 
+<VN> Tuyết rơi chẳng có vẻ gì là sắp dứt, tạo thành một tấm thảm trắng trải dài khắp con phố chính. Cô tựa mình trước một nhà buôn đã đóng cửa chớp để ít nhất có thể tránh bị ướt. Đêm nay không trăng, nên cô chỉ còn biết dựa vào ánh đèn đường mập mờ đằng xa.
 
 =--=========================================
 <ID> 7
 <JP> 「灰桜……あなたは温かいわね」
-<VN> 
+<VN> “Haizakura… người cậu ấm thật đấy.”
 
 =--=========================================
 <ID> 8
 <JP> ストールを２人でかぶって、身を寄せ合っている。灰桜の体はぽかぽかと発熱しており、冷え切った体を少しずつ溶かしてくれる。
-<VN> 
+<VN> Hai người rúc lại gần nhau, cùng quấn một chiếc khăn choàng. Cơ thể của Haizakura phát nhiệt ấm vô cùng, từng chút một sưởi đi thân người đang bị cái lạnh làm cho đông cứng của cô.
 
 =--=========================================
 <ID> 9
 <JP> 「わたしは、役に立つ<ruby>自律人形<rt>オートマタ</rt></ruby>ですのでっ」
-<VN> 
+<VN> “Bởi mình là một <ruby>Hình nhân Tự hành<rt>Automata</rt></ruby> hữu ích mà.”
 
 =--=========================================
 <ID> 10
 <JP> 「本当ね……くすっ……」
-<VN> 
+<VN> “Thật đấy nhỉ… hức…”
 
 =--=========================================
 <ID> 11
 <JP> 冗談抜きで、彼女がいなければ凍死していたかもしれない。
-<VN> 
+<VN> Nào phải chuyện đùa, nếu không có em ở đây thì hẳn cô đã chết vì rét rồi.
 
 =--=========================================
 <ID> 12
 <JP> 「ごめんね」
-<VN> 
+<VN> “Xin lỗi nhé.”
 
 =--=========================================
 <ID> 13
 <JP> 「どうして謝るのでしょーか？」
-<VN> 
+<VN> “Tại sao bạn lại xin lỗi?”
 
 =--=========================================
 <ID> 14
 <JP> 「また嘘をついたの……あの人形はね、こっそり売るつもりだったの」
-<VN> 
+<VN> “Tớ lại gạt cậu lần nữa… Hình nhân đó, tớ vốn đã định lén bán đi.”
 
 =--=========================================
 <ID> 15
 <JP> 「こっそり……？」
-<VN> 
+<VN> “Lén bán…?”
 
 =--=========================================
 <ID> 16
 <JP> 「お金持ちにとって、人形はステイタスなの。でもいまは民間の人形なんてほとんど出回っていないから……だから、高値で売れるのよ。こっそり持ち出した……ううん、盗み出したの」
-<VN> 
+<VN> “Với người giàu thì, có Hình nhân là có địa vị. Nhưng thời buổi này, Hình nhân cá nhân hầu như không còn xuất hiện trên thị trường nữa… Vậy nên có thể bán họ với giá cao. Tớ đã lén mang cô ấy đi… không, là tớ đã <i>ăn trộm</i> cô ấy.”
 
 =--=========================================
 <ID> 17
 <JP> 「人のものを盗むのは、良くないです」
-<VN> 
+<VN> “Trộm đồ của người khác là không tốt đâu.”
 
 =--=========================================
 <ID> 18
 <JP> 「そんなの分かってる……でもどうしようもなかったの」
-<VN> 
+<VN> “Chuyện ấy tớ cũng ý thức được chứ… nhưng tớ biết phải làm sao đây…”
 
 =--=========================================
 <ID> 19
 <JP> どうしようもなく悲しくて、涙がにじむのが分かった。
-<VN> 
+<VN> Chịu đựng nỗi buồn không gì đong đếm được, nước mắt chảy tràn từ khóe mi cô.
 
 =--=========================================
 <ID> 20
 <JP> 「私にはローベリアの血が入っている……母さんの血よ。劇団には……ううん、この国に居場所なんてないの。毎日、毎日……ひどい扱いをされて……それでも収容所に送られないだけマシだけど……」
-<VN> 
+<VN> “Tớ có mang dòng máu Lobelia… dòng máu của mẹ mà. Trong đoàn kịch… không, trên đất nước này, không một nơi nào dành cho tớ cả. Ngày nào cũng vậy… tớ luôn bị đối xử tàn tệ… dù vậy thì miễn không bị tống vào trại tập trung đã là tốt lắm rồi…”
 
 =--=========================================
 <ID> 21
 <JP> 「……そんな……」
-<VN> 
+<VN> “... Chuyện như vậy…”
 
 =--=========================================
 <ID> 22
 <JP> 「だからお金を作って……お母さんとお父さんの元へ行きたかったの。わたしの居場所に……でも、もうそれは無理だわ……」
-<VN> 
+<VN> “Thế nên tớ muốn kiếm tiền… để trở về bên ba mẹ…. một nơi dành cho tớ… Nhưng mà, giờ thì không được nữa rồi…”
 
 =--=========================================
 <ID> 23
 <JP> 「諦めないでください、リリアさん」
-<VN> 
+<VN> “Đừng bỏ cuộc mà, Lilia-san.”
 
 =--=========================================
 <ID> 24
 <JP> 「ダメなのよ。あいつらとの約束を破った……お金なんてまともに払ってくれないわ。ううん、きっといまも私を探している……見つかったらどんな目に合うか……」
-<VN> 
+<VN> “Không bỏ cuộc sao được. Tớ đã hủy giao kèo với ông ta rồi… nên không còn được trả tiền nữa. À không, chắc chắn giờ ông ta vẫn đang truy lùng tớ đấy… Đến lúc tìm ra rồi thì không biết ông ta sẽ nhìn tớ bằng ánh mắt gì đây…”
 
 =--=========================================
 <ID> 25
 <JP> 「………」
-<VN> 
+<VN> “.......”
 
 =--=========================================
 <ID> 26
 <JP> 「ごめんね灰桜、こんなことに巻き込んで。早くマスターと合流して。所有者が側にいれば下手なことはできないから……だから」
-<VN> 
+<VN> “Xin lỗi nhé, Haizakura, vì đã kéo cậu vào chuyện này. Nhanh về chỗ chủ nhân cậu đi. Nếu có chủ nhân bên cạnh thì mấy gã đó sẽ không dám làm gì đâu… nên là…”
 
 =--=========================================
 <ID> 27
 <JP> 「……リリアさんは、どうするのですか？」
-<VN> 
+<VN> “... Vậy còn Lilia-san thì sao?”
 
 =--=========================================
 <ID> 28
 <JP> 「私は……」
-<VN> 
+<VN> “Tớ thì…”
 
 =--=========================================
 <ID> 29
 <JP> 灰桜の疑問に、リリアは答えることが出来なかった。
-<VN> 
+<VN> Lilia không cách chi trả lời được câu hỏi của Haizakura.
 
 =--=========================================
 <ID> 30
 <JP> ただしんしんと、雪の降り続ける空だけを見つめた。
-<VN> 
+<VN> Cô chỉ còn biết nhìn trân trân vào bầu trời đang đổ tuyết kia.
 
 =--=========================================
 <ID> 31
 <JP> 「……国境でも、越えようかしら」
-<VN> 
+<VN> “... Có lẽ, tớ sẽ vượt biên.”
 
 =--=========================================
 <ID> 32
 <JP> 「みゅ？」
-<VN> 
+<VN> “Myu?”
 
 =--=========================================
 <ID> 33
 <JP> 「そうよね、ずっとずっと歩いていって……国境線さえ超えればそこはローベリアよ」
-<VN> 
+<VN> “Đúng rồi nhỉ, nếu cứ đi bộ liên tục không ngừng nghỉ… vượt qua đường biên giới ấy, sẽ là Lobelia.”
 
 =--=========================================
 <ID> 34
 <JP> 乾いた笑いが漏れる。
-<VN> 
+<VN> Cô bật cười khô khốc.
 
 =--=========================================
 <ID> 35
 <JP> 自分がどれだけ無謀なことを言っているかは分かっている。それでも空想の一つもしなければ心が持たなかった。
-<VN> 
+<VN> Cô biết điều mình đang nói điên rồ đến nhường nào, nhưng nếu không ảo tưởng một chút thì trái tim cô sẽ tan vỡ mất.
 
 =--=========================================
 <ID> 36
 <JP> 「皇軍の目をかいくぐって、うまく森を抜けて、ふふふっ……」
-<VN> 
+<VN> “Tránh đi tai mắt Hoàng Quân, băng rừng ngon lành… hi hi hi…”
 
 =--=========================================
 <ID> 37
 <JP> 「リリアさん」
-<VN> 
+<VN> “Lilia-san.”
 
 =--=========================================
 <ID> 38
 <JP> 気がつけば、隣りにいた温もりがなくなっていた。
-<VN> 
+<VN> Cô nhận ra hơi ấm bên cạnh mình đã không còn nữa rồi.
 
 =--=========================================
 <ID> 39
 <JP> 灰桜が立ち上がって、真剣な表情で見つめている。
-<VN> 
+<VN> Haizakura đứng dậy, nhìn cô với vẻ mặt nghiêm trang.
 
 =--=========================================
 <ID> 40
 <JP> 「……怒らないで」
-<VN> 
+<VN> “...... Đừng có giận chứ.”
 
 =--=========================================
 <ID> 41
 <JP> 馬鹿なことを言っているのは分かっている。
-<VN> 
+<VN> Cô biết mình chỉ nói ra toàn những lời ngu xuẩn.
 
 =--=========================================
 <ID> 42
 <JP> それが、自殺行為以外のなにものでもないということも……
-<VN> 
+<VN> Đó chẳng khác nào là hành vi tự sát…
 
 =--=========================================
 <ID> 43
 <JP> 「怒ってなんかいません」
-<VN> 
+<VN> “Mình không có giận.”
 
 =--=========================================
 <ID> 44
 <JP> 「じゃあ……なに？」
-<VN> 
+<VN> “Vậy thì… là gì?”
 
 =--=========================================
 <ID> 45
 <JP> 「一緒に、ローベリアに行きましょう」
-<VN> 
+<VN> “Chúng mình, cùng tới Lobelia nào.”
 
 =--=========================================
 <ID> 46
 <JP> 「……は？」
-<VN> 
+<VN> “... Hả?”
 
 =--=========================================
 <ID> 47
 <JP> 灰桜はいたって真面目だった。
-<VN> 
+<VN> Haizakura đang vô cùng nghiêm túc.
 
 =--=========================================
 <ID> 48
 <JP> ぎゅっとリリアの手を取ると、懸命に引っ張って体を起こしてくれる。
-<VN> 
+<VN> Em nắm lấy hai tay Lilia và cố sức kéo cô dậy.
 
 =--=========================================
 <ID> 49
 <JP> 「灰桜、あなたまさか……」
-<VN> 
+<VN> “Haizakura, chẳng lẽ cậu…”
 
 =--=========================================
 <ID> 50
 <JP> 「はいっ」
-<VN> 
+<VN> “Vâng!”
 
 =--=========================================
 <ID> 51
 <JP> 手をつないだまま、灰桜はにっこりと微笑んだ。
-<VN> 
+<VN> Tay nắm tay, Haizakura nở một nụ cười rạng rỡ.
 
 =--=========================================
 <ID> 52
 <JP> 「わたし、お供します！」
-<VN> 
+<VN> “Mình, sẽ đi cùng bạn!”
 
 =--=========================================
 <ID> 53
 <JP> ＊                            ＊                            ＊
-<VN> 
+<VN> ＊                            ＊                            ＊
 
 =--=========================================
 <ID> 54
 <JP> 雪帽子をかぶった針葉樹林が密集しており、その奥には完全な暗闇が広がっている。足元には申し訳程度の有刺鉄線が敷かれており、片隅には簡素な警告看板。実際のところ、この程度の注意喚起で十分だった。アルタリアに住むもので、この森を抜けるという意味を知らないものはいない。
-<VN> 
+<VN> Rừng lá kim bị bao phủ trong tuyết trắng tạo cảm giác thật rậm rạp, và trải dài ra sau nó là màn đen thâm u ngự trị. Một sợi dây thép gai được giăng ngang tầm chân, còn trong góc khuất kia là một bảng cảnh báo đơn giản. Thực tế, mức độ cảnh báo thế này đã đủ hiệu quả rồi. Bởi ai sống ở Altaria này cũng đều biết băng qua khu rừng này có nghĩa là gì.
 
 =--=========================================
 <ID> 55
 <JP> 皇軍の前線はこのずっと先だ。その間に守備基地、地雷原、汚染地帯とあらゆる障害が待ち受けている。うかつな侵入者は敵スパイとみなされるに違いない。ましてやリリアにはローベリアの血が入っている。
-<VN> 
+<VN> Tiền tuyến của Hoàng Quân đang ở ngay phía trước. Ngay lúc này, những cứ điểm phòng thủ, những bãi mìn, những vùng ô nhiễm cùng vô số chướng ngại đang chờ đợi. Một kẻ xâm nhập cẩu thả sẽ ngay lập tức bị coi là gián điệp phe địch. Ấy là còn chưa kể Lilia quả thật mang dòng máu Lobelia trong người.
 
 =--=========================================
 <ID> 56
 <JP> 「灰桜……本当にいいの？」
-<VN> 
+<VN> “Haizakura… thật sự ổn không vậy?”
 
 =--=========================================
 <ID> 57
 <JP> 震える声で、隣りにいる人形に尋ねた。手袋越しに、小さな指先の感触が伝わってくる。
-<VN> 
+<VN> Bằng giọng run run, cô hỏi cô bé Hình nhân bên cạnh mình. Xúc cảm từ những ngón tay thon gọn của em đang truyền qua chiếc găng tay.
 
 =--=========================================
 <ID> 58
 <JP> 「もちろんです、リリアさん」
-<VN> 
+<VN> “Tất nhiên rồi, Lilia-san.”
 
 =--=========================================
 <ID> 59
 <JP> なにも不安を覚えていない様子で、にっこりと灰桜は笑った。
-<VN> 
+<VN> Haizakura mỉm cười, cứ như thể em chẳng hề có chút bất an nào vậy.
 
 =--=========================================
 <ID> 60
 <JP> 「行きましょう、リリアさんが幸せに暮らせる場所に」
-<VN> 
+<VN> “Cùng đi nào, tới nơi mà Lilia-san có thể sống hạnh phúc.”
 
 =--=========================================
 <ID> 61
 <JP> なんだかその表情を見つめていると、不思議と安堵の気持ちがこみ上げてくる。彼女が隣にいてくれることが、心から嬉しかった。
-<VN> 
+<VN> Kỳ lạ thay, khi nhìn thấy biểu cảm đó của em, cô lại thoáng thở phào nhẹ nhõm. Chỉ riêng việc ở bên cô bé này đã giúp cô an yên từ tận đáy lòng rồi.
 
 =--=========================================
 <ID> 62
 <JP> 「……ありがとう」
-<VN> 
+<VN> “... Cảm ơn cậu.”
 
 =--=========================================
 <ID> 63
 <JP> ぎゅっとその手を握りしめて。
-<VN> 
+<VN> Cô nắm chặt lấy bàn tay kia.
 
 =--=========================================
 <ID> 64
 <JP> 「行きましょ、灰桜」
-<VN> 
+<VN> “Đi thôi, Haizakura.”
 
 =--=========================================
 <ID> 65
 <JP> 「はいっ」
-<VN> 
+<VN> “Vâng!”
 
 =--=========================================
 <ID> 66
 <JP> やがて、雪を踏みしめて有刺鉄線を超えていた。
-<VN> 
+<VN> Cuối cùng, bước trên nền tuyết, họ vượt qua hàng dây thép gai.
 
 =--=========================================
 <ID> 67
 <JP> ＜＜前のエピソード
-<VN> 
+<VN> << Chương trước
 
 =--=========================================
 <ID> 68
 <JP> 次のエピソード＞＞
-<VN> 
+<VN> Chương kế tiếp >>
 
 =--=========================================
 <ID> 69
@@ -385,11 +385,11 @@
 =--=========================================
 <ID> 71
 <JP> 執筆：丘野塔也    挿絵：まろやか    ＣＶ：和氣あず未（灰桜）
-<VN> 
+<VN> Kịch bản: Okano Touya ‧ Minh họa: Maroyaka ‧ Lồng tiếng: Waki Azumi (Haizakura)<br />Người dịch: Tennouji Akane ‧ Hiệu đính: Minata Hatsune
 
 =--=========================================
 <ID> 72
 <JP> 目次へ戻る
-<VN> 
+<VN> Trở về mục lục
 
 =--=========================================

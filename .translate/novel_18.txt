@@ -1,6 +1,6 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
@@ -135,7 +135,7 @@
 =--=========================================
 <ID> 21
 <JP> 「アルタリアの幼い子どもは、冬のお小遣い稼ぎにはちみつハーブティーを売るそうですね。寒い季節にはぴったり、身も心もあたたまるお味だとか」
-<VN> “Ngài kể là, trẻ em ở Lobelia thường bán trà thảo mộc mật ong để kiếm tiền tiêu vặt mùa đông. Vừa hay đúng lúc trời đang lạnh, thứ này sẽ giúp sưởi ấm cả cơ thể lẫn tâm hồn đó.”
+<VN> “Ngài kể là, trẻ em ở Altaria thường bán trà thảo mộc mật ong để kiếm tiền tiêu vặt mùa đông. Vừa hay đúng lúc trời đang lạnh, thứ này sẽ giúp sưởi ấm cả cơ thể lẫn tâm hồn đó.”
 
 =--=========================================
 <ID> 22

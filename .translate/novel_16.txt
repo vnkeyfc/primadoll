@@ -1,6 +1,6 @@
 <ID> title
 <JP> 「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key
-<VN> Hình nhân và ca hát, vén màn một câu chuyện mới. | Vietnam Key FanClub
+<VN> "Prima Doll" [Hình nhân và ca hát, vén màn một câu chuyện mới.] Việt hóa | Vietnam Key FanClub
 
 =--=========================================
 <ID> meta_description
@@ -95,7 +95,7 @@
 =--=========================================
 <ID> 13
 <JP> リリア「すみません、通ります」
-<VN> Lilia: “Xin lỗi, cho cháu qua với ạ.”Lilia cao giọng xin phép, tay vẫn đẩy chiếc xe lăn. Tuyết đã bám đầy lên bánh xe và cô không thể di chuyển đúng theo ý muốn được. Chẳng màng bận tâm tới những ánh mắt hiếu kỳ xung quanh, cô tiếp tục lách qua những kẽ hở trong dòng người mà tiến lên. Trên chiếc xe lăn là một cô bé có vẻ ngoài còn nhỏ nhắn hơn cả Lilia. Cô bé quấn chiếc khăn quàng cổ thành nhiều lớp và đội chiếc mũ da thuộc xuống thấp hơn cả mắt. Trên vai cô bé chất lên cơ man nào là tuyết.
+<VN> Lilia: “Xin lỗi, cho cháu qua với ạ.”
 
 =--=========================================
 <ID> 14
@@ -185,7 +185,7 @@
 =--=========================================
 <ID> 31
 <JP> リリア「……あ」
-<VN> Lilia: “... a.
+<VN> Lilia: “... a.”
 
 =--=========================================
 <ID> 32
