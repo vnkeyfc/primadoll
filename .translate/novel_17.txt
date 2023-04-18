@@ -450,8 +450,6 @@
 <ID> 84
 <JP> Reference
 <VN> 
-<br />
-<br />
 <span style="font-size:12;">
 <a id = "1_" href="#_1"><sup>[1]</sup></a> 
 </span>
