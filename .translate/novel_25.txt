@@ -55,512 +55,512 @@
 =--=========================================
 <ID> 5
 <JP> 目が醒めたとき、リリアは光の中にいた。
-<VN> 
+<VN> Khoảnh khắc tỉnh giấc, Lilia được bao bọc trong ánh sáng.
 
 =--=========================================
 <ID> 6
 <JP> 暖かな光だ。白銀に反射するオレンジ色の輝き。まるで目を灼くような眩さを感じていた。
-<VN> 
+<VN> Một luồng sáng ấm áp. Sắc cam phản chiếu trên nền tuyết trắng, chói lóa như muốn thiêu đốt đôi mắt cô vậy.
 
 =--=========================================
 <ID> 7
 <JP> 天国に行けたのだろうか。でも、そんなはずはない。リリアはいくつもの罪を犯した。罪人は地獄に堕ちる。幼い頃から、総主教会で何度も聞かされたはずだ。こんな平穏が手に入るはずもない……。
-<VN> 
+<VN> Phải chăng cô đã lên thiên đàng rồi? Không, không thể có chuyện đó được. Lilia đã phạm biết bao nhiêu tội lỗi, mà tội nhân thì phải xuống địa ngục. Đó là điều mà cô đã được nghe tại Nhà thờ Thượng phụ không biết bao nhiêu lần từ hồi còn bé xíu. Cô không thể tới một chốn bình yên như thế này được…
 
 =--=========================================
 <ID> 8
 <JP> 中年女「おはよう、お嬢ちゃん」
-<VN> 
+<VN> Người phụ nữ trung niên: “Chào buổi sáng, cô bé.”
 
 =--=========================================
 <ID> 9
 <JP> 女性の声だ。太く、それでいて柔らかい。瞳を巡らせると、恰幅のいい中年女性の姿があった。
-<VN> 
+<VN> Một giọng nữ vang lên, hơi nặng song cũng có phần dịu êm. Nhìn xung quanh, cô bắt gặp một bác gái đứng tuổi với vóc người tương đối đầy đặn.
 
 =--=========================================
 <ID> 10
 <JP> 中年女「まったく、命冥加なこった」
-<VN> 
+<VN> Người phụ nữ trung niên: “Thiệt tình, cô bé đúng là được trời thương mà.”
 
 =--=========================================
 <ID> 11
 <JP> どうやらリリアは、ベッドの上に寝かされているらしかった。
-<VN> 
+<VN> Có vẻ như Lilia đã ngủ trên chiếc giường này.
 
 =--=========================================
 <ID> 12
 <JP> リリア「私……どうして……」
-<VN> 
+<VN> Lilia: “Cháu… tại sao lại…?”
 
 =--=========================================
 <ID> 13
 <JP> 中年女「どうもこうもあるものか」
-<VN> 
+<VN> Người phụ nữ trung niên: “Cháu không nhớ gì thật hả?”
 
 =--=========================================
 <ID> 14
 <JP> 腕組みをして、大げさに息を漏らす。
-<VN> 
+<VN> Bác gái khoanh hai tay lại, và thở hắt ra thật mạnh.
 
 =--=========================================
 <ID> 15
 <JP> 中年女「機械人形があんたを連れてきたのさ」
-<VN> 
+<VN> Người phụ nữ trung niên: “Đám Hình nhân Cơ khí đã đưa cháu tới đây đấy.”
 
 =--=========================================
 <ID> 16
 <JP> リリア「え……？」
-<VN> 
+<VN> Lilia: “Dạ…?”
 
 =--=========================================
 <ID> 17
 <JP> 中年女「しかも皇国製だ。いったいどこから領内に入ったんだろうね。こっちが慌てている間にどっかにいっちまったけど……」
-<VN> 
+<VN> Người phụ nữ trung niên: “Với lại còn là loại sản xuất ở Hoàng Quốc nữa. Chẳng biết chúng nó đột nhập vào từ đâu. Sau đó thì chúng nó vội chạy đi đằng nào rồi ấy…”
 
 =--=========================================
 <ID> 18
 <JP> 話がまったく見えない。機械人形が？    私を？
-<VN> 
+<VN> Cô không tài nào hình dung ra nổi câu chuyện. <i>Đám Hình nhân Cơ khí? Đưa mình tới đây?</i>
 
 =--=========================================
 <ID> 19
 <JP> 中年女「あんた、アルタリアに侵入しようとしたのかい？    まったく無茶をしたねぇ……射殺されても文句はいえないよ。足だけで済んで幸いだったね……医者の到着があと少し遅れていたら、どうなっていたことか……」
-<VN> 
+<VN> Người phụ nữ trung niên: “Cháu tính xâm nhập vào Altaria đấy à? Đúng thật là, đừng có làm liều chứ… không đến lúc bỏ mạng thì lại đổ tại số. Còn may là chỉ bị bắn vào chân thôi đấy… Bác sĩ mà đến muộn hơn tí nữa thì chẳng biết cháu thành ra cái gì rồi…”
 
 =--=========================================
 <ID> 20
 <JP> リリア「あ、あの……ここは……いったい……？」
-<VN> 
+<VN> Lilia: “C-Cho cháu hỏi… nơi này… rốt cuộc là…”
 
 =--=========================================
 <ID> 21
 <JP> 中年女「……ああ、心配しないでいいさ。ここは正真正銘ローベリア領内さ。ま、森を超えればそこは敵国だけどね……」
-<VN> 
+<VN> Người phụ nữ trung niên: “À, chớ lo. Chỗ này hoàn toàn là lãnh thổ Lobelia. Mà, băng qua khu rừng kia thì lại vào địa phận nước địch rồi…”
 
 =--=========================================
 <ID> 22
 <JP> リリア「………あぁ……」
-<VN> 
+<VN> Lilia: “....... Aaa….”
 
 =--=========================================
 <ID> 23
 <JP> 中年女「ハーブティーでも用意するから、待ってな」
-<VN> 
+<VN> Người phụ nữ trung niên: “Bác sẽ pha chút trà thảo mộc, chờ một xíu nhé.”
 
 =--=========================================
 <ID> 24
 <JP> そう言って去っていく。
-<VN> 
+<VN> Bác ta nói vậy rồi rời đi.
 
 =--=========================================
 <ID> 25
 <JP> ただ天井を見上げていると、どこからか甘い香りが漂ってくる。少しずつ体の感覚が戻ってくるのを感じた。
-<VN> 
+<VN> Đương lúc Lilia nhìn trân trân lên trần nhà, chợt cô ngửi được mùi hương ngọt ngào thoang thoảng đâu đây. Dần dà cô cảm thấy như các giác quan đang quay lại cơ thể mình.
 
 =--=========================================
 <ID> 26
 <JP> ふと、右手になにやら感覚があった。ずっと握りしめていた拳の中に、なにやら硬いものがある。
-<VN> 
+<VN> Chính lúc đó, cô nhận ra đang có thứ gì nằm trong tay phải. Một vật rắn mà cô đã luôn nắm chặt lấy.
 
 =--=========================================
 <ID> 27
 <JP> リリア「……これは……」
-<VN> 
+<VN> Lilia: “...... Đây là…”
 
 =--=========================================
 <ID> 28
 <JP> そっと目の前に持ってきて、開いてみる。
-<VN> 
+<VN> Cô chầm chậm giơ tay lên trước mặt và mở nó ra.
 
 =--=========================================
 <ID> 29
 <JP> それは一枚のシリングコインだった。
-<VN> 
+<VN> Nằm gọn trong ấy là một đồng shilling.
 
 =--=========================================
 <ID> 30
 <JP> 『すこしでも、旅費の足しなればと思いまして』
-<VN> 
+<VN> [Mình nghĩ rằng bạn sẽ cần thêm dù chỉ là một đồng lộ phí.]
 
 =--=========================================
 <ID> 31
 <JP> そんな声が、まざまざと蘇ってくる。
-<VN> 
+<VN> Giọng nói ấy, được tái hiện sống động trong tâm trí cô.
 
 =--=========================================
 <ID> 32
 <JP> 気づけば、リリアはぽろりと涙をこぼしていた。
-<VN> 
+<VN> Đến chừng nhận ra, thì khuôn mặt Lilia đã giàn giụa nước mắt rồi.
 
 =--=========================================
 <ID> 33
 <JP> リリア「灰桜………」
-<VN> 
+<VN> Lilia: “Haizakura…”
 
 =--=========================================
 <ID> 34
 <JP> ぎゅっと胸に抱きしめる。
-<VN> 
+<VN> Cô ôm chặt đồng xu trước ngực.
 
 =--=========================================
 <ID> 35
 <JP> ほかほかと、命の灯火のように温かかった。
-<VN> 
+<VN> Nó ấm áp làm sao, tựa như ngọn lửa sinh mệnh vậy.
 
 =--=========================================
 <ID> 36
 <JP> リリア「ひくっ……ぐすっ……ふぇぇぇ………あああぁあぁああ～……」
-<VN> 
+<VN> Lilia: “Híc… Hức… Hu… Aaaaaaaaaaaa….”
 
 =--=========================================
 <ID> 37
 <JP> ぽろぽろと、止めどなく涙がこぼれていた。
-<VN> 
+<VN> Hàng lệ thi nhau chảy mãi không ngừng.
 
 =--=========================================
 <ID> 38
 <JP> ＊                            ＊                            ＊
-<VN> 
+<VN> ＊                            ＊                            ＊
 
 =--=========================================
 <ID> 39
 <JP> 兵士「遠間博士、こちらです」
-<VN> 
+<VN> Người lính: “Lối này, thưa tiến sĩ Tohma.”
 
 =--=========================================
 <ID> 40
 <JP> 兵士の後に続いて、ボクは鼠色のせせこましい通路を進んでいく。国境線の要塞ともなれば、通路一つとってもひどく複雑で、案内なしではたちまち迷子になってしまうだろう。
-<VN> 
+<VN> Theo sau chàng lính, tôi rảo bước trên một lối mòn xám tro chật hẹp. Đã gọi là đồn lũy nơi biên giới, ta dễ nghĩ ngay tới những con đường rối rắm đến độ không có người dẫn thì lạc là cái chắc.
 
 =--=========================================
 <ID> 41
 <JP> ナギ「すまないが、その博士というのはやめてくれないかな」
-<VN> 
+<VN> Nagi: “Xin lỗi, nhưng cậu vui lòng đừng gọi tôi là tiến sĩ, được chứ?”
 
 =--=========================================
 <ID> 42
 <JP> 兵士「は？」
-<VN> 
+<VN> Người lính: “Dạ?”
 
 =--=========================================
 <ID> 43
 <JP> ナギ「おじいちゃんと紛らわしいからね」
-<VN> 
+<VN> Nagi: “Như thế dễ nhầm với ông tôi lắm.”
 
 =--=========================================
 <ID> 44
 <JP> もういいだろうと思って、軍帽を脱ぐ。前髪がさらりと揺れた。軍施設内では風紀を保つこと……血気盛んな士官にでも見つかれば煩く言われるが、ここならもう大丈夫だろう。
-<VN> 
+<VN> Nghĩ rằng chắc tới đây là được rồi, tôi cởi chiếc mũ nhà binh xuống. Tóc mái của tôi khẽ đung đưa. Gì mà giữ gìn tác phong sinh hoạt trong quân đội… Giả mà đụng phải mấy ông sĩ quan hăng máu thì mới phiền, chứ đã ở đây rồi thì có lẽ chẳng sao đâu.
 
 =--=========================================
 <ID> 45
 <JP> 兵士「ですが、他になんと……技術大尉、でよろしいですか？」
-<VN> 
+<VN> Người lính: “Nhưng mà, gọi ngài bằng cách khác… Đại úy Kỹ thuật thì sao ạ?”
 
 =--=========================================
 <ID> 46
 <JP> ナギ「ナギさん、でいいんだよ。ボクは民間から徴用された、単なる人形師なんだからね」
-<VN> 
+<VN> Nagi: “Nagi-san là được rồi. Tôi chỉ là một người  thợ chế tạo Hình nhân được thuê vào thôi mà.”
 
 =--=========================================
 <ID> 47
 <JP> 兵士「いや、しかし、そういうわけには……」
-<VN> 
+<VN> Người lính: “Không, nhưng mà, chuyện như vậy…”
 
 =--=========================================
 <ID> 48
 <JP> そうやって兵士を困らせていると、やがて小さな営倉に行き当たった。
-<VN> 
+<VN> Vừa đi vừa trêu chọc cậu lính như vậy, cuối cùng tôi cũng tới được một nhà giam nhỏ.
 
 =--=========================================
 <ID> 49
 <JP> そこに、一台の自律人号がちょこんと腰掛けている。桜色の髪に、瑠璃色の瞳。そわそわした様子で辺りを見回している……。
-<VN> 
+<VN> Có một Hình nhân đang ngồi yên lặng trong đó. Mái tóc màu anh đào, đôi mắt màu lưu ly. Em dáo dác nhìn xung quanh với vẻ hoang mang…
 
 =--=========================================
 <ID> 50
 <JP> ナギ「やあ、迎えに来たよ」
-<VN> 
+<VN> Nagi: “Chào, tôi đến đón em đây.”
 
 =--=========================================
 <ID> 51
 <JP> 「あっ……ナギさん！」
-<VN> 
+<VN> “A, Nagi-san!”
 
 =--=========================================
 <ID> 52
 <JP> ナギ「寂しい思いをさせたね」
-<VN> 
+<VN> Nagi: “Chắc em thấy cô đơn lắm nhỉ.”
 
 =--=========================================
 <ID> 53
 <JP> こちらに気づくと、ぱあっと顔が明るくなる。ぴょんと飛び上がるように近づいてきていた。
-<VN> 
+<VN> Nhận ra tôi, khuôn mặt em chợt bừng sáng. Em nhảy lóc cóc tới bên tôi.
 
 =--=========================================
 <ID> 54
 <JP> ナギ「ボクの試作人形が迷惑をかけたね」
-<VN> 
+<VN> Nagi: “Hình nhân thực nghiệm của tôi đã gây rắc rối cho mọi người rồi.”
 
 =--=========================================
 <ID> 55
 <JP> 兵士「いえ、早期に発見できたのは幸いでした。国境付近はなにが起こるかわかりませんから」
-<VN> 
+<VN> Người lính: “À không, là chúng tôi may mắn đã tìm ra cô ấy sớm. Ai mà biết được lảng vảng gần biên giới sẽ phát sinh ra chuyện gì.”
 
 =--=========================================
 <ID> 56
 <JP> ナギ「……こないだも、機械人形が暴走したんだって？」
-<VN> 
+<VN> Nagi: “... Tôi nghe nói, gần đây cũng có một toán Hình nhân Cơ khí bị mất kiểm soát đúng không?”
 
 =--=========================================
 <ID> 57
 <JP> 兵士「は、そうなのです。ちょうどこの試作人形を発見したときですね。命令を受け付けなくなって……まる二日失踪したのです」
-<VN> 
+<VN> Người lính: “À vâng, đúng là vậy. Vừa lúc chúng tôi tìm thấy Hình nhân thực nghiệm này thì bọn chúng không còn nhận được mệnh lệnh nữa… Chúng đã biến mất đâu khoảng hai ngày ạ.”
 
 =--=========================================
 <ID> 58
 <JP> ナギ「無事に見つかったのかい？」
-<VN> 
+<VN> Nagi: “Các cậu đã tìm ra chúng vô sự rồi chứ?”
 
 =--=========================================
 <ID> 59
 <JP> 兵士「ローベリア領内付近で見つかりました。技師の見立てでは、なにか攻撃命令が残っていたのかもしれないということでしたが……」
-<VN> 
+<VN> Người lính: “Chúng tôi tìm thấy chúng ở gần lãnh thổ Lobelia. Theo lời các kỹ sư thì có khả năng vẫn còn tồn đọng một số mệnh lệnh chưa hủy hay gì đó…”
 
 =--=========================================
 <ID> 60
 <JP> ナギ「後で確認してみよう、キミの上官……ええと、誰だっけ。とにかく報告しておいてくれないかい？」
-<VN> 
+<VN> Nagi: “Để lát nữa tôi kiểm tra. Cấp trên của cậu… ờ, là ai ấy nhỉ? Thôi thì, báo cáo cho người ấy giùm tôi được chứ?”
 
 =--=========================================
 <ID> 61
 <JP> 兵士「了解しました」
-<VN> 
+<VN> Người lính: “Tuân lệnh!”
 
 =--=========================================
 <ID> 62
 <JP> 踵を鳴らして敬礼する。
-<VN> 
+<VN> Anh lính khép hai chân lại và kính lễ.
 
 =--=========================================
 <ID> 63
 <JP> ナギ「じゃあ、行こうか」
-<VN> 
+<VN> Nagi: “Rồi, mình đi thôi.”
 
 =--=========================================
 <ID> 64
 <JP> そっと彼女の背中を押して、その場を後にした。
-<VN> 
+<VN> Nhẹ nhàng đẩy lưng cô bé, tôi và em cùng rời khỏi phòng giam.
 
 =--=========================================
 <ID> 65
 <JP> ＊                            ＊                            ＊
-<VN> 
+<VN> ＊                            ＊                            ＊
 
 =--=========================================
 <ID> 66
 <JP> ナギ「少女歌劇団から盗まれた人形、無事回収されたみたいだよ。いまどきああいう人形は珍しいからね。いつか劇団が再開されたら、また歌声を響かせて欲しいものだ……」
-<VN> 
+<VN> Nagi: “Tôi nghe nói cô bé Hình nhân bị ăn cắp khỏi đoàn ca kịch nữ đã được thu hồi bình an. Thời nay loại Hình nhân đó cũng khá hiếm mà. Nếu ngày nào đó đoàn kịch mở cửa trở lại, tôi muốn được nghe giọng hát đó một lần nữa…”
 
 =--=========================================
 <ID> 67
 <JP> ボクのすこし後を、灰桜はふわふわした足取りで歩いている。
-<VN> 
+<VN> Đằng sau tôi một chút, Haizakura đang khẽ khàng đặt từng bước chân.
 
 =--=========================================
 <ID> 68
 <JP> 話を聞いているのかいないのか。要塞内が珍しいらしく、あちこちに視線を彷徨わせていた。
-<VN> 
+<VN> Chẳng rõ cô bé có đang nghe không. Chắc là do hiếm khi được vào đồn lũy nên ánh mắt em đang đảo hết chỗ này sang chỗ khác.
 
 =--=========================================
 <ID> 69
 <JP> ナギ「灰桜」
-<VN> 
+<VN> Nagi: “Haizakura.”
 
 =--=========================================
 <ID> 70
 <JP> 「みゅっ……はい、なんでしょうか？」
-<VN> 
+<VN> “Myu! Vâng, có chuyện gì vậy ạ?”
 
 =--=========================================
 <ID> 71
 <JP> ナギ「機械人形を操ったのは、キミだね？」
-<VN> 
+<VN> Nagi: “Em là người điều khiển đám Hình nhân Cơ khí đó phải không?”
 
 =--=========================================
 <ID> 72
 <JP> 「……操った？」
-<VN> 
+<VN> “... Điều khiển ấy ạ?”
 
 =--=========================================
 <ID> 73
 <JP> ナギ「指揮権を奪って……操作しただろう？」
-<VN> 
+<VN> Nagi: “Em đã chiếm quyền chỉ huy… và điều khiển chúng phải không?”
 
 =--=========================================
 <ID> 74
 <JP> 「……ああっ！」
-<VN> 
+<VN> “...... Aaaa!!”
 
 =--=========================================
 <ID> 75
 <JP> いま初めて気づいたというように、ぽんと手を打つ。
-<VN> 
+<VN> Tựa hồ vừa được khai thông, em vỗ tay một cái.
 
 =--=========================================
 <ID> 76
 <JP> ナギ「皇軍の機械人形を勝手に操ってはいけないよ。記録が残るからね……あとで消すのも結構大変なんだ」
-<VN> 
+<VN> “Không được tự ý điều khiển Hình nhân Cơ khí của Hoàng Quân đâu đấy. Làm thế sẽ để lại nhật trình… sau này xóa đi sẽ khó lắm.”
 
 =--=========================================
 <ID> 77
 <JP> 「ごめんなさい、私……どうしても～……理由を言いますと、そのっ……」
-<VN> 
+<VN> “Em xin lỗi, chẳng qua em chỉ… nếu nói ra lý do thì… ưm…”
 
 =--=========================================
 <ID> 78
 <JP> ナギ「怒ってないさ、キミがそうしたいと思ったんだろう？」
-<VN> 
+<VN> Nagi: “Tôi không giận đâu, em đã quyết chí làm như vậy mà, phải chứ?”
 
 =--=========================================
 <ID> 79
 <JP> 「それはそうなのですが～……」
-<VN> 
+<VN> “Chuyện đó thì đúng, nhưng mà…”
 
 =--=========================================
 <ID> 80
 <JP> ナギ「いいんだ。帰ったら、調律しよう」
-<VN> 
+<VN> Nagi: “Thế là được rồi. Về đến nhà mình chỉnh trang lại chút nhé.”
 
 =--=========================================
 <ID> 81
 <JP> 「はいっ」
-<VN> 
+<VN> “Vâng!”
 
 =--=========================================
 <ID> 82
 <JP> 歩きながら、小さくため息を付く。彼女に悟られないよう。
-<VN> 
+<VN> Trong lúc thả bước, tôi khẽ thở ra một hơi, tránh để em nhận thấy.
 
 =--=========================================
 <ID> 83
 <JP> 軍用機械人形の指揮権を強制的に奪い、意のままに操る。そんな芸当を教えた覚えはなかった。しかし、灰桜はさも当然であるかのようにこなしてしまった。それはきっと彼女の記憶によるものではない。もっとずっと昔……論理機関の極めて深い場所にある、叫びのような記憶。うまく消去したつもりだったが、そんな甘い話は無いらしい。
-<VN> 
+<VN> Cưỡng chế chiếm quyền điều khiển Hình nhân Cơ khí quân dụng và thao túng chúng theo ý muốn. Tôi không nhớ đã chỉ dạy em một thủ thuật nào giống như vậy. Thế mà, Haizakura đã làm được như một lẽ hiển nhiên. Đó chắc chắn không phải thứ nằm trong ký ức của Haizakura. Hẳn đó là một tàn dư sâu thẳm trong cơ quan lý luận của em… một hồi ức đã thuộc về dĩ vãng, mà tôi vốn tưởng rằng đã bị xóa sổ hoàn toàn rồi. Song làm gì có chuyện đơn giản như thế.
 
 =--=========================================
 <ID> 84
 <JP> ナギ「しばらくまた眠ることになりそうだよ」
-<VN> 
+<VN> Nagi: “Xem ra cũng đến lúc em lại phải tạm thời đi ngủ rồi.”
 
 =--=========================================
 <ID> 85
 <JP> 「え……そうなのですか？」
-<VN> 
+<VN> “Hơ… vậy sao ạ?”
 
 =--=========================================
 <ID> 86
 <JP> ナギ「ああ、大丈夫さ。次目覚めたとき……もっと素敵な世の中になっているからね」
-<VN> 
+<VN> Nagi: “Ừ, đừng lo. Lần tới khi em thức giấc… nơi này sẽ trở thành một thế giới tươi đẹp hơn nhiều.”
 
 =--=========================================
 <ID> 87
 <JP> 失敗だ、今回も。
-<VN> 
+<VN> Còn lần này, cũng thất bại rồi.
 
 =--=========================================
 <ID> 88
 <JP> だからやり直さなければいけない。最初から……すべてを初期化して。
-<VN> 
+<VN> Vậy nên tôi phải làm lại. Từ đầu… khởi tạo lại tất cả.
 
 =--=========================================
 <ID> 89
 <JP> ナギ「どうした？」
-<VN> 
+<VN> Nagi: “Sao thế?”
 
 =--=========================================
 <ID> 90
 <JP> しばらく歩みを進める。
-<VN> 
+<VN> Tôi tiến một bước lên trước.
 
 =--=========================================
 <ID> 91
 <JP> 灰桜はついてきてなかった。立ち止まって、不安そうな瞳を向けている。
-<VN> 
+<VN> Haizakura không bước theo tôi. Em đứng lại, nhìn tôi bằng ánh mắt nhuốm màu bất an.
 
 =--=========================================
 <ID> 92
 <JP> 「……忘れてしまうのですか？」
-<VN> 
+<VN> “... Em sẽ quên đi sao?”
 
 =--=========================================
 <ID> 93
 <JP> ナギは胸が締め付けられるような思いだった。
-<VN> 
+<VN> Tôi nghe lồng ngực mình thắt lại.
 
 =--=========================================
 <ID> 94
 <JP> 気がつけば、瑠璃色のくりくりした瞳から目をそらしていた。
-<VN> 
+<VN> Tôi vô thức quay mặt đi để lảng tránh đôi mắt màu lưu ly đang dao động kia.
 
 =--=========================================
 <ID> 95
 <JP> ナギ「……すまない」
-<VN> 
+<VN> Nagi: “...... Tôi xin lỗi.”
 
 =--=========================================
 <ID> 96
 <JP> そう絞り出すのがやっとだった。
-<VN> 
+<VN> Cuối cùng tôi chỉ có thể thốt ra bấy nhiêu.
 
 =--=========================================
 <ID> 97
 <JP> ナギ「行こう」
-<VN> 
+<VN> Nagi: “Đi thôi.”
 
 =--=========================================
 <ID> 98
 <JP> 「……はい」
-<VN> 
+<VN> “...... Vâng ạ.”
 
 =--=========================================
 <ID> 99
 <JP> ゆっくりとブーツを鳴らす。
-<VN> 
+<VN> Tiếng đôi ủng chạm đất vang lên khe khẽ.
 
 =--=========================================
 <ID> 100
 <JP> 灰桜はそれ以上なにを言うでもなく、後ろを追いかけてきた。
-<VN> 
+<VN> Haizakura không nói gì thêm, chỉ lặng lẽ bước đi sau lưng tôi.
 
 =--=========================================
 <ID> 101
 <JP> 「冬の花火、夜空にまたたく奇跡よ……」
-<VN> 
+<VN> “Pháo hoa trời đông, phép nhiệm mầu lấp lánh trên bầu trời đêm…”
 
 =--=========================================
 <ID> 102
 <JP> ふと、詩が響く。
-<VN> 
+<VN> Bất giác, em ngâm nga lời thơ.
 
 =--=========================================
 <ID> 103
 <JP> 「我らを包み、光をまたたかせたまえ……」
-<VN> 
+<VN> “Hãy tỏa ra ánh sáng bao bọc lấy chúng tôi…”
 
 =--=========================================
 <ID> 104
 <JP> それはもしかしたら、かつては歌だったのかもしれない。
-<VN> 
+<VN> Đó, có thể đã từng là câu hát.
 
 =--=========================================
 <ID> 105
 <JP> 大切な気持ち、それだけは忘れまいとするように……。
-<VN> 
+<VN> <i>Chỉ duy những cảm xúc quý giá, xin đừng rơi vào quên lãng…</i>
 
 =--=========================================
 <ID> 106
 <JP> 灰桜は、ただその言葉を繰り返していた。
-<VN> 
+<VN> Haizakura, cứ lặp đi lặp lại những lời ấy.
 
 =--=========================================
 <ID> 107
