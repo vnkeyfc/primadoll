@@ -500,7 +500,7 @@
 =--=========================================
 <ID> 94
 <JP> 気づくと、辺りには人だかりができていて、みんな手を叩いていた。
-<VN> Cả một đám đông đang đứng xung quanh ông, tất cả đều đang vỗ tay nhiệt thành.
+<VN> Cả một đám đông đang đứng xung quanh ông, tất thảy đều đang vỗ tay nhiệt thành.
 
 =--=========================================
 <ID> 95
