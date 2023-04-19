@@ -200,7 +200,7 @@
 =--=========================================
 <ID> 34
 <JP> 「人形を連れた女の子がいるって話に聞いたんでね、もしかしてと思って追いかけてきたんだよ」
-<VN> “Tôi nghe đồn rằng có một cô bé dẫn theo Hình nhân, tôi thấy nghi nghi nên mới đi theo xem sao.”
+<VN> “Tôi nghe đồn rằng có một cô bé dẫn theo Hình nhân. Tôi thấy nghi nghi nên mới đi theo xem sao.”
 
 =--=========================================
 <ID> 35
@@ -370,7 +370,7 @@
 =--=========================================
 <ID> 68
 <JP> 「わたしは１３歳の少女人形として製造されました。なんでも遠間博士が、お孫様のよき友人となるように……」
-<VN> “Mình được chế tạo theo khuôn mẫu một bé gái 13 tuổi mà. Tiến sĩ Tohma muốn mình như vậy để làm bạn với cháu ông…”
+<VN> “Mình được chế tạo theo khuôn mẫu một bé gái 13 tuổi mà. Tiến sĩ Tohma tạo ra khuôn mẫu này để Hình nhân làm bạn với cháu ông…”
 
 =--=========================================
 <ID> 69
