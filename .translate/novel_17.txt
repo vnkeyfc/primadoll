@@ -451,7 +451,7 @@
 <JP> Reference
 <VN> 
 <span style="font-size:12;">
-<a id = "1_" href="#_1"><sup>[1]</sup> Tô giới là vùng đất thuộc chủ quyền của một quốc gia, nhưng do quốc gia hay thế lực khác quản lý.</a> 
+<a id = "1_" href="#_1"><sup>[1]</sup></a> Tô giới là vùng đất thuộc chủ quyền của một quốc gia, nhưng do quốc gia hay thế lực khác quản lý. 
 </span>
 
 =--=========================================
