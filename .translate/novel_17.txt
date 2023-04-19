@@ -55,7 +55,7 @@
 =--=========================================
 <ID> 5
 <JP> 頭からすっぽりストールに包まれて、暗がりの中じっと息を潜める。
-<VN> Trùm kín đầu bằng chiếc khăn quàng cổ, cô giữ mình bất động trong bóng tối, cố nén nhịp thở.
+<VN> Trùm kín đầu bằng chiếc khăn choàng cổ, cô giữ mình bất động trong bóng tối, cố nén nhịp thở.
 
 =--=========================================
 <ID> 6
@@ -451,7 +451,7 @@
 <JP> Reference
 <VN> 
 <span style="font-size:12;">
-<a id = "1_" href="#_1"><sup>[1]</sup></a> 
+<a id = "1_" href="#_1"><sup>[1] Tô giới là vùng đất thuộc chủ quyền của một quốc gia, nhưng do quốc gia hay thế lực khác quản lý.</sup></a> 
 </span>
 
 =--=========================================

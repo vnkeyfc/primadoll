@@ -100,12 +100,12 @@
 =--=========================================
 <ID> 14
 <JP> リリアは声を上げると、車椅子を押す。雪に車輪が取られて、思うように進まない。物珍しそうな周囲の視線を気にせずに行列の脇を抜けていく。車椅子の上には、リリアより一回り小柄な少女の姿。ストールを幾重にも巻いて、毛皮の帽子を目深に被っている。肩にはうっすらと雪が積もっていた。
-<VN> Lilia cao giọng xin phép, tay vẫn đẩy chiếc xe lăn. Tuyết đã bám đầy lên bánh xe và cô không thể di chuyển đúng theo ý muốn được. Chẳng màng bận tâm tới những ánh mắt hiếu kỳ xung quanh, cô tiếp tục lách qua những kẽ hở trong dòng người mà tiến lên. Trên chiếc xe lăn là một cô bé có vẻ ngoài còn nhỏ nhắn hơn cả Lilia. Cô bé quấn chiếc khăn quàng cổ thành nhiều lớp và đội chiếc mũ da thuộc xuống thấp hơn cả mắt. Trên vai cô bé chất lên cơ man nào là tuyết.
+<VN> Lilia cao giọng xin phép, tay vẫn đẩy chiếc xe lăn. Tuyết đã bám đầy lên bánh xe và cô không thể di chuyển đúng theo ý muốn được. Chẳng màng bận tâm tới những ánh mắt hiếu kỳ xung quanh, cô tiếp tục lách qua những kẽ hở trong dòng người mà tiến lên. Trên chiếc xe lăn là một cô bé có vẻ ngoài còn nhỏ nhắn hơn cả Lilia. Cô bé quấn chiếc khăn choàng cổ thành nhiều lớp và đội chiếc mũ da thuộc xuống thấp hơn cả mắt. Trên vai cô bé chất lên cơ man nào là tuyết.
 
 =--=========================================
 <ID> 15
 <JP> 不意に行き交う人々が足を止めて、どよめきを上げる。しゅるしゅると夜空を駆ける音が聞こえてきたのは一息遅れてだった。赤紫色の光が、ぱっと辺りを包み込む。そして轟音。花火が上がったのだ。新年を祝う声があちこちから聞こえてくる。二発目、三発目……花火は次々上がり、そのたびにまた歓声。こうなるともう行進どころではない。
-<VN> Những người qua đường đột nhiên dừng bước và hét lên đầy phấn khích. Chỉ nháy mắt sau cô đã có thể nghe thấy âm thanh một thứ gì đó bay vụt lên bầu trời đêm. Ánh sáng sắc tía nhanh chóng bao trọn không gian xung quanh với một tiếng Bùm. Là pháo hoa. Pháo vừa tắt, đó đây rộ lên những câu chúc tụng mừng năm mới. Lần thứ hai, rồi lần thứ ba… pháo hoa cứ thế nối tiếp nhau, và những tiếng hoan hô cũng theo đó mà vang vọng. Đã thế này rồi thì diễu hành để mà làm gì.
+<VN> Những người qua đường đột nhiên dừng bước và hét lên đầy phấn khích. Chỉ nháy mắt sau cô đã có thể nghe thấy âm thanh một thứ gì đó bay vụt lên bầu trời đêm. Ánh sáng sắc tía nhanh chóng bao trọn không gian xung quanh với một tiếng <i>Bùm</i>. Là pháo hoa. Pháo vừa tắt, đó đây rộ lên những câu chúc tụng mừng năm mới. Lần thứ hai, rồi lần thứ ba… pháo hoa cứ thế nối tiếp nhau, và những tiếng hoan hô cũng theo đó mà vang vọng. Đã thế này rồi thì diễu hành để mà làm gì.
 
 =--=========================================
 <ID> 16
@@ -300,7 +300,7 @@
 =--=========================================
 <ID> 54
 <JP> リリアの前にある車椅子。その前にかがみ込むと、顔をのぞき込む。さっきからずっと、糸が切れたように視線を伏せたままだ。
-<VN> Ngay trước Lilia là một chiếc xe lăn. Haizakura quỳ xuống quan sát khuôn mặt cô bé ngồi trên đó. Từ đầu tới giờ, cô bé giữ nguyên tư thế cúi đầu xuống, thả lỏng như một sợi chỉ bị cắt đứt.
+<VN> Ngay trước Lilia là một chiếc xe lăn. Haizakura quỳ xuống quan sát khuôn mặt cô bé ngồi trên đó. Từ đầu tới giờ, cô bé giữ nguyên tư thế cúi mặt xuống, thả lỏng như một sợi chỉ bị cắt đứt.
 
 =--=========================================
 <ID> 55
@@ -445,7 +445,7 @@
 =--=========================================
 <ID> 83
 <JP> 「この子、徴用されるの。戦争に取られてしまうのよ」
-<VN> “Con bé sẽ bị trưng dụng, rồi sẽ bị đem ra chiến trường mất…”
+<VN> “Con bé sẽ bị trưng dụng, rồi bị đem ra chiến trường mất…”
 
 =--=========================================
 <ID> 84
