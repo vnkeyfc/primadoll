@@ -615,7 +615,7 @@
 =--=========================================
 <ID> 117
 <JP> でももっと伸びやかな歌を届けたくて、気づけば立ち上がっていた。
-<VN> Nhưng vì muốn truyền tải bài hát theo cách thoải mái hơn, thành thử đến lúc để ý thì cô đã đứng lên tự lúc nào.
+<VN> Nhưng vì muốn truyền tải bài hát theo cách thoải mái hơn, thành thử đến hồi để ý thì cô đã đứng lên tự lúc nào.
 
 =--=========================================
 <ID> 118
@@ -660,7 +660,7 @@
 =--=========================================
 <ID> 126
 <JP> 圧倒された様子で、目を白黒させている。
-<VN> Giống như bị choáng ngợp, đôi mắt của Haizakura ánh lên vẻ kinh ngạc.
+<VN> Tựa hồ bị choáng ngợp, đôi mắt của Haizakura ánh lên vẻ kinh ngạc.
 
 =--=========================================
 <ID> 127
@@ -785,7 +785,7 @@
 =--=========================================
 <ID> 151
 <JP> ぺこりとお辞儀して、そして寝室へと向かっていく。
-<VN> Em cúi đầu, một lần nữa hướng tới phòng ngủ.
+<VN> Em cúi đầu, rồi lại hướng tới phòng ngủ.
 
 =--=========================================
 <ID> 152
