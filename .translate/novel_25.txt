@@ -155,7 +155,7 @@
 =--=========================================
 <ID> 25
 <JP> ただ天井を見上げていると、どこからか甘い香りが漂ってくる。少しずつ体の感覚が戻ってくるのを感じた。
-<VN> Đương lúc Lilia nhìn trân trân lên trần nhà, chợt cô ngửi được mùi hương ngọt ngào thoang thoảng đâu đây. Dần dà cô cảm thấy như các giác quan đang quay lại cơ thể mình.
+<VN> Đương lúc Lilia trân mắt nhìn lên trần nhà, chợt cô ngửi được mùi hương ngọt ngào thoang thoảng đâu đây. Dần dà cô cảm thấy như các giác quan đang quay lại cơ thể mình.
 
 =--=========================================
 <ID> 26
