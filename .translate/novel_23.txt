@@ -555,7 +555,7 @@
 =--=========================================
 <ID> 105
 <JP> 「こんな寒い日にね、レバルジャクでは見えることがあるの。オーロラは幸運の象徴よ……新年の空に輝くと、素晴らしい豊穣の年になると言われているわ。でも、いつ出るかなんて予想できないでしょ……？    だから、代わりに花火を打ち上げるの」
-<VN> “Vào những ngày trời lạnh thế này thì cậu có thể bắt gặp nó ở Lebarjak. Cực quang tượng trưng cho may mắn đấy… Người ta nói rằng, khi nó tỏa sáng trên bầu trời năm mới thì năm ấy mùa màng bội thu. Nhưng mà, ai mà đoán được khi nào nó sẽ xuất hiện đúng không? Vậy nên họ mới chọn cách bắn pháo hoa.”
+<VN> “Vào những ngày trời lạnh thế này thì cậu có thể bắt gặp nó ở Levaljak. Cực quang tượng trưng cho may mắn đấy… Người ta nói rằng, khi nó tỏa sáng trên bầu trời năm mới thì năm ấy mùa màng bội thu. Nhưng mà, ai mà đoán được khi nào nó sẽ xuất hiện đúng không? Vậy nên họ mới chọn cách bắn pháo hoa.”
 
 =--=========================================
 <ID> 106
@@ -595,7 +595,7 @@
 =--=========================================
 <ID> 113
 <JP> 疲労がどっと押し寄せてくるのが分かる。
-<VN> Cô đang kiệt sức thấy rõ.
+<VN> Cô đang suy kiệt thấy rõ.
 
 =--=========================================
 <ID> 114

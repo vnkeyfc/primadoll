@@ -35,7 +35,7 @@
 =--=========================================
 <ID> 1
 <JP> 03-10    冬の花火（10）－終－
-<VN> 03-10: Pháo hoa trời đông (10) - Kết -
+<VN> 03-10: Pháo hoa trời đông (10) －Kết－
 
 =--=========================================
 <ID> 2
@@ -305,7 +305,7 @@
 =--=========================================
 <ID> 55
 <JP> 兵士「いえ、早期に発見できたのは幸いでした。国境付近はなにが起こるかわかりませんから」
-<VN> Người lính: “À không, là chúng tôi may mắn đã tìm ra cô ấy sớm. Ai mà biết được lảng vảng gần biên giới sẽ phát sinh ra chuyện gì.”
+<VN> Người lính: “À không, là chúng tôi may mắn đã tìm ra cô ấy sớm. Ai mà biết được lảng vảng gần biên giới sẽ phát sinh chuyện gì.”
 
 =--=========================================
 <ID> 56

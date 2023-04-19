@@ -305,7 +305,7 @@
 =--=========================================
 <ID> 55
 <JP> その幼さが混じった声。すぐ側で、涙混じりに響いている。
-<VN> Giọng nói có phần trẻ con ấy, cô nghe thấy ở ngay bên cạnh, đâu đó hình như còn trộn lẫn cả nước mắt nữa.
+<VN> Giọng nói có phần trẻ con ấy, cô nghe thấy ở ngay bên cạnh, đâu đó hình như còn trộn lẫn cả tiếng nấc nữa.
 
 =--=========================================
 <ID> 56
@@ -315,7 +315,7 @@
 =--=========================================
 <ID> 57
 <JP> どこかで怒号が響いている。
-<VN> Tiếng ai đó nghe có vẻ tức giận văng vẳng đâu đây.
+<VN> Giọng ai đó nghe có vẻ tức giận văng vẳng đâu đây.
 
 =--=========================================
 <ID> 58
@@ -395,12 +395,12 @@
 =--=========================================
 <ID> 73
 <JP> そうでなければ、リリアを少女劇団に厄介払いして……手紙のひとつも寄越さないはずがない。
-<VN> Nếu không, họ đã chẳng ném Lilia vào đoàn kịch nữ… mà chẳng bao giờ gửi lấy một lá thư.
+<VN> Nếu không, họ đã chẳng ném Lilia vào đoàn ca kịch nữ… mà chẳng bao giờ gửi lấy một lá thư.
 
 =--=========================================
 <ID> 74
 <JP> 「もうすこし早く、出会えていれば……ううん」
-<VN> “Nếu tớ được gặp cậu sớm hơn… à không.”
+<VN> “Giá như tớ được gặp cậu sớm hơn… à không.”
 
 =--=========================================
 <ID> 75
@@ -525,7 +525,7 @@
 =--=========================================
 <ID> 99
 <JP> 昔々、新年の日を思い出した。
-<VN> Cô hồi tưởng về ngày đầu năm ấy, đã từ xưa lắm rồi.
+<VN> Cô hồi tưởng về ngày đầu năm ấy, đã từ lâu lắm rồi.
 
 =--=========================================
 <ID> 100
@@ -540,7 +540,7 @@
 =--=========================================
 <ID> 102
 <JP> 真っ赤な蝋燭を灯して、王冠型ケーキを食べて……はちみつの入った、甘いハーブティーを飲んだ。みんなで歌をうたったんだ。冬の花火……窓の外に光がまたたいて……その色も赤だったような気がする……幸せな日……私の居場所……そうだ…………あったんだよね…………愛しているって…………そう、言ってくれたんだよね………？
-<VN> Mọi người sẽ thắp lên ngọn nến đỏ rực, ăn một chiếc bánh hình vương miện… và uống trà thảo mộc ngòn ngọt pha chút mật ong. Cả nhà sẽ cùng nhau ca hát. Pháo hoa mùa đông… ánh sáng lan tỏa từ bên ngoài cửa sổ…… hình như nó cũng có màu đỏ… những tháng ngày hạnh phúc….. nơi mình có thể trở về……… phải rồi………… có đấy nhỉ………… ba mẹ từng nói là……… đúng rồi, mọi người yêu con… nhỉ…?
+<VN> Mọi người sẽ thắp lên ngọn nến đỏ rực, ăn một chiếc bánh hình vương miện… và uống trà thảo mộc ngòn ngọt pha chút mật ong. Cả nhà sẽ cùng nhau ca hát. Pháo hoa mùa đông… ánh sáng bung tỏa từ bên ngoài cửa sổ…… hình như nó cũng có màu đỏ… những tháng ngày hạnh phúc….. nơi mình có thể trở về……… phải rồi………… có đấy nhỉ………… ba mẹ từng nói là……… đúng rồi, mọi người yêu con… nhỉ…?
 
 =--=========================================
 <ID> 103
