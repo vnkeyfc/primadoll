@@ -55,367 +55,367 @@
 =--=========================================
 <ID> 5
 <JP> 銀世界は、相変わらず陽光を受けて輝いていた。
-<VN> 
+<VN> Thế giới bên ngoài nhuốm màu bạc của tuyết vẫn như vậy, luôn tỏa rạng dưới ánh Mặt Trời.
 
 =--=========================================
 <ID> 6
 <JP> 昨晩はすこし冷えていたから、また雪が降ったのかも知れない。
-<VN> 
+<VN> Đêm qua hơi lạnh, nên hẳn là tuyết lại rơi dày thêm rồi.
 
 =--=========================================
 <ID> 7
 <JP> 街道は一度雪除けをしたようで、泥混じりの轍の跡がくっきりと残っていた。
-<VN> 
+<VN> Đường chính trông như vừa được người ta dọn tuyết trước đó, vẫn còn hằn rõ những vệt bùn đất.
 
 =--=========================================
 <ID> 8
 <JP> 背中の煙突から白い蒸気を静かにたなびかせながら、地図に沿って目的地へと向かう。
-<VN> 
+<VN> Tôi nhìn bản đồ và tìm đường đến nơi cần tới, hơi nước trắng xóa khẽ thoát ra từ cột ống khói sau lưng.
 
 =--=========================================
 <ID> 9
 <JP> 「ここかしら……」
-<VN> 
+<VN> “Là nơi này chăng…”
 
 =--=========================================
 <ID> 10
 <JP> やってきたのは、港……というのはあまりにこぢんまりとした波止場だ。
-<VN> 
+<VN> Nơi tôi đặt chân đến là một bến tàu… hay nói đúng hơn là một hải cảng quá sức khiêm nhường.
 
 =--=========================================
 <ID> 11
 <JP> 簡素な桟橋と、小さな倉庫。毛皮帽を被った郵便夫の男がのんびりと働いている。
-<VN> 
+<VN> Cầu tàu đơn sơ, kho bãi thì bé tẹo. Ở đó có một bưu chính viên đội mũ lông đang nhàn nhã làm việc.
 
 =--=========================================
 <ID> 12
 <JP> 「あの、すみません」
-<VN> 
+<VN> “Xin lỗi, cho em hỏi.”
 
 =--=========================================
 <ID> 13
 <JP> 話しかけると、ずいぶん物珍しそうに鴉羽を見つめてきた。そもそも自律人形を見慣れていない様子だ。
-<VN> 
+<VN> Khi được bắt chuyện, người đó nhìn tôi như thể của lạ. Có vẻ anh ta không thường gặp những Hình nhân Tự hành.
 
 =--=========================================
 <ID> 14
 <JP> 「遠間ナギの使いで来たのですが……」
-<VN> 
+<VN> “Em đến thay cho Tohma Nagi ạ…”
 
 =--=========================================
 <ID> 15
 <JP> 郵便夫「ああ、荷物の件だな」
-<VN> 
+<VN> Bưu chính viên: “À, là nhận hàng nhỉ.”
 
 =--=========================================
 <ID> 16
 <JP> 合点した様子を見せる。
-<VN> 
+<VN> Anh ta hiểu ngay lập tức.
 
 =--=========================================
 <ID> 17
 <JP> ランドセルの上に背負い込んでいた風呂敷包みを解くと、小包を取り出した。
-<VN> 
+<VN> Trong lúc tôi tháo tấm khăn gói tay nải đang trùm lên chiếc cặp sau lưng, anh ta lấy ra một bưu kiện.
 
 =--=========================================
 <ID> 18
 <JP> 郵便夫「東邦人は不思議な運び方をするもんだ」
-<VN> 
+<VN> Bưu chính viên: “Người phương Đông mang đồ kiểu lạ lùng thật.”
 
 =--=========================================
 <ID> 19
 <JP> そういえば、アルタリア人は麻で作った頭陀袋で荷物を運ぶのが常だ。鴉羽からすると、そちらのほうがよほど持ち運びにくそうだけれど。
-<VN> 
+<VN> Nhân tiện, người Altaria thường đựng đồ bằng những cái xắc đan từ sợi gai dầu. Đối với tôi mà nói, như vậy có khi còn khó mang vác hơn.
 
 =--=========================================
 <ID> 20
 <JP> 「ここはずいぶん、のんびりとしていますね」
-<VN> 
+<VN> “Nơi này có vẻ, vẫn thanh bình quá nhỉ?”
 
 =--=========================================
 <ID> 21
 <JP> 郵便夫「もう何十年もドンパチやっているらしいが、この島は変わりないさ」
-<VN> 
+<VN> Bưu chính viên: “Hai bên đấu súng được cả chục năm rồi, thế mà hòn đảo vẫn y xì thế này mới hay chứ.”
 
 =--=========================================
 <ID> 22
 <JP> 「配給は滞っていませんか」
-<VN> 
+<VN> “Đường tiếp tế không bị ngưng trệ ạ?”
 
 =--=========================================
 <ID> 23
 <JP> 郵便夫「自分たちの食い扶持は、自分たちで採れるからな。変わったことと言えば、たまにあんたら皇軍が来ることぐらいさ」
-<VN> 
+<VN> Bưu chính viên: “Chúng tôi tự cung tự cấp mà. Nếu phải nói có gì khác thường, thì chắc chỉ mỗi chuyện lâu lâu Hoàng Quân các cô lại tới đây thôi.”
 
 =--=========================================
 <ID> 24
 <JP> 鴉羽がいた西南部戦線とは大違いだ。ヘレナ諸島は前線から遠く離れているし、戦略上の要衝でもない。漁業と農業で成り立っている小さな島だ。だからこそ、皇軍も保養所に指定したのだろう。
-<VN> 
+<VN> Khác hoàn toàn với Mặt trận Tây Nam mà tôi từng thuộc về, quần đảo Helena nằm cách xa tiền tuyến và cũng chẳng phải vị trí chiến lược trọng yếu gì, chỉ đơn thuần là chuỗi đảo nông-ngư nghiệp nho nhỏ. Bởi thế mà Hoàng Quân mới tái thiết nơi đây thành một điểm nghỉ dưỡng.
 
 =--=========================================
 <ID> 25
 <JP> 「……この島に<ruby>機械人形<rt>メカニカ</rt></ruby>はありませんか？」
-<VN> 
+<VN> “... Hòn đảo này không có <ruby>Hình nhân Cơ khí<rt>Mechanica</rt></ruby> ạ?”
 
 =--=========================================
 <ID> 26
 <JP> 郵便夫「どうかな、農作業用に使っているだろうが……」
-<VN> 
+<VN> Bưu chính viên: “Tôi chịu, có thì chắc cũng chỉ dùng để làm nông thôi.”
 
 =--=========================================
 <ID> 27
 <JP> そう水を向けると、郵便夫は言葉を濁した。
-<VN> 
+<VN> Anh bưu chính viên nói lấp lửng, cơ hồ muốn kích thích trí tò mò của tôi.
 
 =--=========================================
 <ID> 28
 <JP> 「よかった、あたしお手伝いしたいんです。いまはこんな格好ですが、実は……」
-<VN> 
+<VN> “Thật may quá, em cũng muốn giúp đỡ. Giờ trông em thế này thôi, chứ thực ra…”
 
 =--=========================================
 <ID> 29
 <JP> 郵便夫「やめておきな」
-<VN> 
+<VN> Bưu chính viên: “Cô không nên làm thế.”
 
 =--=========================================
 <ID> 30
 <JP> 「え……」
-<VN> 
+<VN> “Hả…?”
 
 =--=========================================
 <ID> 31
 <JP> 郵便夫「俺はこういう仕事だから慣れているが……この島の人間は余所者を信用しない。ましてや東邦人ならなおさらだ。お互い関わり合いにならないほうが幸せってもんだ」
-<VN> 
+<VN> Bưu chính viên: “Vì tính chất công việc nên tôi mới quen được… chứ dân đảo này chẳng ai tin tưởng người ngoài, nói gì đến người phương Đông. Hai bên không can hệ gì đến nhau là tốt nhất.”
 
 =--=========================================
 <ID> 32
 <JP> 確かに、鴉羽たちはこの島にとって異物だ。彼らにとっては遥か遠い東方。この大陸を征するためにやってきたのだから。
-<VN> 
+<VN> Quả thật, đối với người dân trên đảo thì chúng tôi là những kẻ xa lạ đến từ vùng viễn đông xa xôi muôn trùng. Rốt cuộc thì, chúng tôi tới đây nhằm xâm chiếm đại lục này mà.
 
 =--=========================================
 <ID> 33
 <JP> 「……すみません、失礼しました」
-<VN> 
+<VN> “... Xin lỗi. Em thất lễ rồi.”
 
 =--=========================================
 <ID> 34
 <JP> 風呂敷を畳むと、ぺこりと頭を下げてその場を辞した。
-<VN> 
+<VN> Gói tay nải xong xuôi, tôi cúi đầu và rời khỏi đó.
 
 =--=========================================
 <ID> 35
 <JP> ＊                            ＊                            ＊
-<VN> 
+<VN> ＊                            ＊                            ＊
 
 =--=========================================
 <ID> 36
 <JP> 帰り道、海岸沿いを歩いて行く。
-<VN> 
+<VN> Trên đường trở về, tôi thả bộ dọc theo bờ biển.
 
 =--=========================================
 <ID> 37
 <JP> 対岸にうっすらと大陸の地が覗いている。ボートの一艘もあれば渡れそうだが、実際は海流が早いのでそう簡単な話ではないらしい。とはいえ視界に入る波は穏やかで、水鳥が空を滑空していた。
-<VN> 
+<VN> Tôi có thể quan sát thấy thấp thoáng hình bóng Đại lục phía bờ bên kia. Thoạt trông thì có vẻ như chỉ cần nhảy lên thuyền là tới được nơi đó, song chuyện chẳng hề đơn giản như thế bởi dòng hải lưu rất mạnh. Nói vậy thôi, chứ sóng nước trước mắt tôi trông thật hiền hòa, thậm chí đám chim biển còn đang chao liệng trên bầu trời kia mà.
 
 =--=========================================
 <ID> 38
 <JP> しかし、この島の穏やかさは島民のものであって、鴉羽たちに与えられるものではない。仮初めの楽天地……そう思うと、なんとなく居心地の悪い気持ちだった。
-<VN> 
+<VN> Tuy thế, sự yên bình của hòn đảo này thuộc về dân đảo, không phải cho những người như chúng tôi. Một thiên đường xa vời… nghĩ như vậy, chẳng hiểu sao trong lòng tôi lại cảm thấy khó chịu.
 
 =--=========================================
 <ID> 39
 <JP> 「……あら？」
-<VN> 
+<VN> “... Ơ?”
 
 =--=========================================
 <ID> 40
 <JP> ふと、枯草色の機体が目に付いた。トラックほどの大きさ、甲殻類を思わせるフォルム。四本脚……農耕作業用の機械人形だ。ずいぶん年期が入った様子なので、皇国で使われていたものが中古として売り払われたのだろう。春に向けて試運転でもしているのだろうか……。
-<VN> 
+<VN> Đột nhiên, tôi trông thấy một cơ thể máy móc màu cỏ úa to cỡ một chiếc xe tải, và cấu trúc của nó gợi tôi nhớ tới loài giáp xác. Nó có bốn chân… một Hình nhân Cơ khí phục vụ nông nghiệp. Nhìn nó cứ như đã được sử dụng trong một thời gian dài, nên có thể là đồ cũ xài rồi sau đó đem bán của Hoàng Quốc. Xuân sắp tới rồi, chắc họ đang mang nó ra chạy thử…
 
 =--=========================================
 <ID> 41
 <JP> 「故障かしら……」
-<VN> 
+<VN> “Hình như đang bị hỏng thì phải…”
 
 =--=========================================
 <ID> 42
 <JP> 煙突からは黒々とした煙が上がっている。うまく燃料が燃焼できていないようだ。エンジンの問題か、あるいは論理機関がうまく働いていないのか。
-<VN> 
+<VN> Từ chiếc ống khói kia phun ra những đợt khói đen sì, hẳn là do nhiên liệu không được đốt trơn tru. Là trục trặc động cơ hay do cơ quan lý luận không hoạt động đúng cách?
 
 =--=========================================
 <ID> 43
 <JP> 型番を確認する。これならば鴉羽にも扱えるはずだ。論理機関同士を共鳴させて繋げば、問題も把握できるだろう。だからそっとその体躯に手を触れさせた。
-<VN> 
+<VN> Tôi kiểm tra số mẫu. Nếu là mẫu này thì có lẽ tôi xử lý được. Tôi có thể kết nối cơ quan lý luận của cả hai và tìm hiểu nguyên do. Nghĩ đoạn, tôi nhẹ nhàng chạm vào thân thể ấy…
 
 =--=========================================
 <ID> 44
 <JP> 「指揮権を把握……」
-<VN> 
+<VN> “Nắm quyền chỉ huy…”
 
 =--=========================================
 <ID> 45
 <JP> 微かな共鳴振動。視界が赤く明滅する。
-<VN> 
+<VN> Sau một khắc thoáng rung do kết nối, tầm nhìn của tôi nhấp nháy một màu đỏ.
 
 =--=========================================
 <ID> 46
 <JP> 戦場でいつもそうしていたように、機械人形を操ろうとした。
-<VN> 
+<VN> Tôi thử điều khiển Hình nhân Cơ khí như vẫn làm hồi còn ra trận.
 
 =--=========================================
 <ID> 47
 <JP> 「……っ」
-<VN> 
+<VN> “......!”
 
 =--=========================================
 <ID> 48
 <JP> 微かに、胸の中でちりっと灼けるような感覚があった。
-<VN> 
+<VN> Lồng ngực tôi có chút bỏng rát như bị đốt cháy.
 
 =--=========================================
 <ID> 49
 <JP> 慌てて手を離す。義体温度が上がっている。慌てて冷却を促そうと、ランドセルが蒸気を噴くのが分かった。
-<VN> 
+<VN> Tôi vội rụt tay lại. Nhiệt độ cơ thể nhân tạo tăng mạnh. Ngay sau đó, chiếc cặp tôi đeo sau lưng liên tục phun hơi nước để thúc đẩy chất làm mát lưu thông.
 
 =--=========================================
 <ID> 50
 <JP> 「どうして……」
-<VN> 
+<VN> “Tại sao…”
 
 =--=========================================
 <ID> 51
 <JP> 自分の手を見つめる。
-<VN> 
+<VN> Tôi nhìn vào bàn tay mình.
 
 =--=========================================
 <ID> 52
 <JP> 「<ruby>機械人形<rt>メカニカ</rt></ruby>を指揮できない……」
-<VN> 
+<VN> “... mình không điều khiển <ruby>Hình nhân Cơ khí<rt>Mechanica</rt></ruby> được…?”
 
 =--=========================================
 <ID> 53
 <JP> 女の子「なにやってるの？」
-<VN> 
+<VN> Cô bé: “Làm gì thế hả?!”
 
 =--=========================================
 <ID> 54
 <JP> ハッとなって振り返った。
-<VN> 
+<VN> Tôi giật mình, liền quay đầu lại.
 
 =--=========================================
 <ID> 55
 <JP> そこには十歳ぐらいの女の子が、工具を片手に立っていた。
-<VN> 
+<VN> Đứng đằng xa là một cô bé tầm mười tuổi với dụng cụ trên tay.
 
 =--=========================================
 <ID> 56
 <JP> 女の子「その子に触らないで」
-<VN> 
+<VN> Cô bé: “Đừng có đụng vào nó!”
 
 =--=========================================
 <ID> 57
 <JP> 「違うのよ、あたしは……」
-<VN> 
+<VN> “Không phải, chị chỉ…”
 
 =--=========================================
 <ID> 58
 <JP> 女の子「皇国の戦争人形がなんの用！？」
-<VN> 
+<VN> Cô bé: “Hình nhân Chiến đấu của Hoàng Quốc làm gì ở đây?!”
 
 =--=========================================
 <ID> 59
 <JP> ぎゅっと工具を握りしめている。いざとなったら、この武器で機械人形を守るとでも言うように。
-<VN> 
+<VN> Cô bé nắm chặt lấy dụng cụ, tỏ ý rằng nếu cần thiết thì em sẽ dùng thứ này để bảo vệ Hình nhân Cơ khí kia.
 
 =--=========================================
 <ID> 60
 <JP> この島の人間は余所者を信用しない。ましてや東邦人ならなおさらだ――郵便夫の言葉が思い出された。
-<VN> 
+<VN> <i>Dân đảo này chẳng ai tin tưởng người ngoài, nói gì đến người phương Đông</i>— tôi chợt nhớ lại những gì anh bưu chính viên nói.
 
 =--=========================================
 <ID> 61
 <JP> 「……ごめんなさい、すこし気になっただけなの」
-<VN> 
+<VN> “... Chị xin lỗi, chẳng qua chị có hơi lo lắng một chút thôi.”
 
 =--=========================================
 <ID> 62
 <JP> だから、鴉羽も関わり合いになるのは避けようと思った。
-<VN> 
+<VN> Vậy nên, tôi cũng quyết định tránh đụng chạm với bọn họ.
 
 =--=========================================
 <ID> 63
 <JP> そっと機械人形から離れると、距離を取る。
-<VN> 
+<VN> Tôi rụt tay khỏi Hình nhân Cơ khí nọ và tạo khoảng cách với nó.
 
 =--=========================================
 <ID> 64
 <JP> 女の子は警戒しながらも、体躯の上に乗り、なんとか修理しようと試みている。しかしその手つきはどうにも拙く、直せるような雰囲気はない。
-<VN> 
+<VN> Cô bé kia vẫn đề cao cảnh giác mà trèo lên Hình nhân kia và cố gắng sửa nó. Tuy nhiên, tay nghề lại cực kỳ vụng, chẳng có triển vọng sửa được cái gì cả.
 
 =--=========================================
 <ID> 65
 <JP> それでも放っておいたほうがいいだろう。地元の島民と無用な軋轢を抱えるべきではない。そっとこの場を立ち去って、マスターに小包を届ければそれでいいのだ。
-<VN> 
+<VN> Cứ để yên cô bé như vậy là tốt nhất. Không nên tạo những xích mích không cần thiết với dân địa phương. Tất cả những gì tôi cần làm là lặng lẽ rời khỏi nơi này và đưa lại gói hàng cho chủ nhân.
 
 =--=========================================
 <ID> 66
 <JP> 「………」
-<VN> 
+<VN> “......”
 
 =--=========================================
 <ID> 67
 <JP> しばらく雪道を歩いて、ふと振り返った。
-<VN> 
+<VN> Sau khi bước đi trên con đường tuyết được một lúc, tôi chợt ngoái đầu ra sau.
 
 =--=========================================
 <ID> 68
 <JP> まだ黒煙がたなびいている。
-<VN> 
+<VN> Khói đen vẫn chưa hết bốc lên.
 
 =--=========================================
 <ID> 69
 <JP> しばし逡巡して、やがて鴉羽はきびすを返していた。
-<VN> 
+<VN> Do dự giây lát, cuối cùng tôi cũng quyết định quay trở lại.
 
 =--=========================================
 <ID> 70
 <JP> 「あの、お手伝いしましょうか」
-<VN> 
+<VN> “Em ơi, em có cần giúp gì không?”
 
 =--=========================================
 <ID> 71
 <JP> 女の子「……戦争人形の手は借りないわ」
-<VN> 
+<VN> Cô bé: “...... Tôi không cần Hình nhân Chiến đấu giúp đỡ!”
 
 =--=========================================
 <ID> 72
 <JP> 「違うの、いまは……その、メイド……のようなことをやっているのよ」
-<VN> 
+<VN> “Em nhầm rồi, giờ chị là… ừm, hầu gái… phải rồi, chị đang làm công việc giống một hầu gái.”
 
 =--=========================================
 <ID> 73
 <JP> 女の子「メイドの人形……？」
-<VN> 
+<VN> Cô bé: “Hình nhân hầu gái…?”
 
 =--=========================================
 <ID> 74
 <JP> その言葉はよほど違和感があったらしく、怪訝そうな表情を浮かべる。
-<VN> 
+<VN> Những lời tôi nói nghe có vẻ kỳ cục sao đó, khiến cô bé không khỏi nghi ngờ.
 
 =--=========================================
 <ID> 75
 <JP> 「あたしには直せないけど……マスターならきっと大丈夫。この子、押していきましょう」
-<VN> 
+<VN> “Chị thì không biết sửa, nhưng… chủ nhân của chị chắc sẽ sửa được thôi. Cùng đẩy cậu bé này nào.”
 
 =--=========================================
 <ID> 76
 <JP> 女の子「え……？」
-<VN> 
+<VN> Cô bé: “Hả…?”
 
 =--=========================================
 <ID> 77
 <JP> 「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>だから。これぐらいへっちゃらよ」
-<VN> 
+<VN> “Chị là <ruby>Hình nhân Tự hành<rt>Automata</rt></ruby> mà, chừng này thôi vẫn đơn giản chán.”
 
 =--=========================================
 <ID> 78
