@@ -505,7 +505,7 @@
 =--=========================================
 <ID> 95
 <JP> 「素晴らしい！    みんな、歌のお礼にハーブティーを買ってやってくれ！」
-<VN> “Tuyệt quá! Mọi người ơi, mọi người mua trà thảo mộc thay lời cảm ơn cho bài hát nhé!”
+<VN> “Tuyệt vời! Mọi người cùng mua trà thảo mộc để thay lời cảm ơn màn trình diễn của hai cô bé này nào!”
 
 =--=========================================
 <ID> 96
