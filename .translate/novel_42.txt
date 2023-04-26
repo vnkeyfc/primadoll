@@ -340,7 +340,7 @@
 =--=========================================
 <ID> 62
 <JP> ローサ「ずっといくと大きな湖に行き当たる。その対岸よ」
-<VN> Rosa: “Từ đi đây thẳng một lèo sẽ gặp một cái hồ lớn. Chiếc phi cơ hạ cánh ở bờ bên kia ấy ạ.”
+<VN> Rosa: “Từ đây đi thẳng một lèo sẽ gặp một cái hồ lớn. Chiếc phi cơ hạ cánh ở bờ bên kia ấy ạ.”
 
 =--=========================================
 <ID> 63
